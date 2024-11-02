@@ -1,0 +1,33 @@
+Título: Abstracta Copilot: La revolución en pruebas de software con IA - Abstracta
+URL: https://es.abstracta.us/blog/abstracta-copilot-la-revolucion-en-pruebas-de-software-con-ia/
+Número de palabras: 697
+
+Abstracta Copilot es una herramienta potenciada con Inteligencia Artificial para mejorar las pruebas de software, desarrollada por Abstracta en colaboración con el Co-Innovation Lab de Microsoft. Utiliza IA para optimizar las pruebas de software y la documentación, aumentar la eficiencia y mejorar la productividad hasta en un 30%. Con gran entusiasmo, ayer en la Quality Sense Conf 2024 lanzamos Abstracta Copilot, nuestra nueva herramienta impulsada por IA. Esta solución potencia a los equipos de testing y análisis de negocios para construir aplicaciones de calidad de manera más ágil, gracias a la gestión de flujos de trabajo repetitivos y la orientación en tiempo real con lenguaje natural. Construir software complejo con numerosos equipos y empresas proveedoras puede presentar grandes desafíos para comprender el comportamiento de los sistemas. Al mismo tiempo, con frecuencia, el testing se convierte en un cuello de botella que frena todo el proceso de desarrollo. La documentación desactualizada, los procesos manuales y una brecha técnica en constante crecimiento impiden que las empresas avancen de manera eficiente. Estos desafíos generan retrasos, mayores costos y una menor agilidad, lo cual dificulta que las compañías innoven al ritmo deseado. Nuestro equipo puede buscar semánticamente a través de 16 años de experiencia en más de 1,000 proyectos y nuestros libros publicados, y obtener información relevante y contextual. Permite a los equipos de testing, análisis de negocio y product owners transformar sin esfuerzo sus necesidades empresariales en aplicaciones funcionales, con el fin de fortalecer el rol del “human in the loop” entre el negocio y la tecnología. “Creamos Abstracta Copilot con una misión clara: optimizar procesos, aumentar la calidad y reducir los costos de desarrollo de software”, dijo Sofía Palamarchuk, Co-CEO de Abstracta. “Sentimos profundo entusiasmo por compartir esta poderosa herramienta con nuestros clientes como parte de nuestros servicios, para ayudar a acelerar los ciclos de desarrollo y maximizar la calidad del software que cocreamos.” A través del procesamiento de lenguaje natural, Abstracta Copilot permite que los equipos de testing y análisis interactúen de forma directa con los sistemas, lo cual ayuda a cerrar la brecha técnica en muchos casos. Pueden acceder a bases de datos sin conocimientos de SQL, interactuar con APIs sin Postman y trabajar con mainframes sin comandos AS400. Abstracta Copilot permite generar rápidamente historias de usuario, casos de prueba y documentación técnica. De esta manera, ayuda a reducir el tiempo necesario para estas tareas: transforma días de trabajo en tan solo segundos. A continuación, presentamos algunas de las funcionalidades que hacen de Abstracta Copilot una herramienta esencial para mejorar las pruebas de software: Los equipos que han tenido acceso anticipado ya han reportado resultados prometedores en una encuesta que realizamos recientemente: “La IA está transformando nuestra industria a un ritmo increíble. Hoy podemos automatizar e innovar más rápido que nunca antes. Aún así, en Abstracta creemos firmemente que los humanos seguimos siendo el centro de esta transformación. Abstracta Copilot es un claro ejemplo de cómo la tecnología y la experiencia humana pueden trabajar de forma conjunta para lograr resultados aún mejores“, destacó Sofía Palamarchuk. Con más de 16 años de experiencia y presencia global, Abstracta es una empresa líder en soluciones tecnológicas, especializada en servicios de pruebas de software y desarrollo de software impulsado por IA. Creemos que construir vínculos sólidos nos impulsa a avanzar y a mejorar el software que desarrollamos. Es por eso que hemos forjado alianzas estratégicas con líderes de la industria tales como  Microsoft, Datadog, Tricentis y Perforce, lo que nos permite incorporar tecnologías de vanguardia como parte de nuestros servicios. Contáctanos para conversar sobre cómo podemos ayudarte a hacer crecer tu negocio. ¡Síguenos en LinkedIn, X, Facebook, Instagram y YouTube para ser parte de nuestra comunidad! ¿Te gustaría profundizar en cómo probar aplicaciones potenciadas con Inteligencia Artificial Generativa? Te contamos todo en este artículo ¿Qué es una hackathon? ¿Qué definiciones hay que llevar adelante antes de su realización? ¿Qué aprendizajes y resultados logramos en nuestra edición de 2024? En este artículo, te contamos todo sobre nuestra experiencia. CHILE Santiago de Chile 
+
+
+                                                
+                                            
+                                        	+56 994186268
+                                    	
+ COLOMBIA Popayán 
+
+
+                                                
+                                            
+                                        +57 3137301409
+                                    
+ URUGUAY Montevideo/Salto 
+
+
+                                                
+                                            
+                                        +598 2605 3229
+                                    
+ ESTADOS UNIDOS San Francisco 
+
+
+                                                
+                                            
+                                        +1 415 745 3678
+                                    
+ Abstracta © 2024, Todos los derechos reservados.

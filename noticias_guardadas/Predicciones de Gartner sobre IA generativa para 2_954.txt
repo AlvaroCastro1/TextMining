@@ -1,0 +1,53 @@
+Título: Predicciones de Gartner sobre IA generativa para 2024-2028
+URL: https://www.gartner.es/es/articulos/3-predicciones-audaces-y-practicas-sobre-el-futuro-de-la-ia-generativa
+Número de palabras: 1015
+
+Por Lori Perri | 3 minutos de lectura | 12 de abril de 2024 
+        Una visión global
+     Las tecnologías que sustentan la IA generativa avanzan a un ritmo sin precedentes, gracias en gran parte a las cuantiosas inversiones de grandes empresas tecnológicas y laboratorios de investigación. Así, la IA generativa parece inmune a la ralentización generalizada de la inversión de capital-riesgo, y la creación y el desarrollo de nuevas empresas sigue obteniendo la financiación necesaria. Descargar ahora: Las 4 iniciativas clave que prepararán tu empresa para la IA Fijándose en las cuatro capas de la pila tecnológica de la IA generativa (infraestructura, modelos, herramientas de ingeniería de IA y aplicaciones), Gartner ofrece cinco predicciones sobre la evolución de la IA generativa en los próximos años. En este artículo te avanzamos tres de ellas y analizamos sus implicaciones para tu organización. 
+            Al hacer clic en el botón "Continuar", aceptas los
+            
+               Términos de uso
+            
+            y
+            
+                la Política de privacidad de Gartner.
+            
+ Please provide the consent below 
+                        I have read, understood and accepted Gartner 
+                            
+                                Separate Consent Letter
+                            
+                            , whereby I agree (1) to provide Gartner with my personal information,
+                            and understand that information will be transferred outside of mainland China 
+                            and processed by Gartner group companies and other legitimate processing parties 
+                            and (2) to be contacted by Gartner group companies via internet, mobile/telephone and email, 
+                            for the purposes of sales, marketing and research.
+                     
+            Al hacer clic en el botón "Suscribirme", aceptas los
+            
+               Términos de uso
+            
+            y
+            
+                la Política de privacidad de Gartner.
+            
+ Aunque los modelos generalistas ofrecen buenos resultados en un amplio conjunto de aplicaciones, la demanda de IA generativa está aumentando en muchos sectores. La creciente disponibilidad de grandes modelos de lenguaje (LLM, por sus siglas en inglés) de código abierto que ofrecen buenos resultados en su uso comercial coexiste con el interés por los modelos de dominios específicos. Los modelos de dominios pueden ser de menor tamaño, menos intensivos computacionalmente y reducir los riesgos de alucinación asociados con los modelos generalistas. Planifica la necesidad de implementar y gestionar varios modelos de IA generativa de dominios específicos para respaldar diferentes casos de uso. Sin embargo, antes de construir tu propio modelo, busca modelos de dominios específicos de tipo estándar que puedas entrenar o ajustar para adaptarlos a las necesidades de tu empresa. El desarrollo de datos sintéticos (es decir, generados artificialmente) respalda los sistemas en que los datos reales son costosos, no están disponibles, presentan desequilibrios o resultan inviables debido a las normas de privacidad. Al introducir datos sintéticos en sus modelos, las organizaciones pueden simular entornos e identificar oportunidades de desarrollo de nuevos productos, en especial en los sectores con regulaciones más estrictas. También las capacita para crear rápidamente prototipos de software y para las experiencias digitales e híbridas. Concentra el uso de datos sintéticos en las áreas más directamente relacionadas con el crecimiento empresarial, como el desarrollo de segmentos, recorridos y experiencias de cliente, y el entrenamiento de modelos de machine learning. La rápida adopción de herramientas de IA generativa ha suscitado preocupación por su impacto medioambiental negativo, alertando tanto a la opinión pública como a los gobiernos. Esto ha llevado a los directores de empresa a considerar este asunto como una preocupación inmediata. Es fundamental minimizar la energía y los recursos necesarios para el entrenamiento y el desarrollo de la IA. Las infraestructuras y las energías renovables de las instalaciones propias y de los servicios en la nube se personalizarán para la IA. Para controlar los costes de recursos informáticos optimizados en consumo energético, diversifica tus proveedores, implementa la arquitectura componible y operaciones de IA generativa en el perímetro en cada jurisdicción operativa, y utiliza energía renovable de alta calidad durante el entrenamiento, con el fin de reducir su impacto en tus objetivos de sostenibilidad. 
+        “La IA generativa se está incorporando a una amplia gama de aplicaciones comerciales y, a medida que los modelos subyacentes se vuelven multimodales, puede impulsar unos flujos de trabajo de automatización más potentes e inteligentes. Esto, a su vez, permitirá que los modelos de IA generativa sean más autónomos y reflejen mejor el entorno en el que se los entrena”.
+     
+        Las 3 cosas que contar a otros profesionales de tu sector
+     Gracias a la inversión continuada de grandes empresas de tecnología y de investigación, así como de nuevas startups, se espera un avance extraordinario en la IA generativa el próximo año. Las predicciones (y las consiguientes recomendaciones) de Gartner aportan recursos a los responsables de TI para mantenerse a la vanguardia. Las tres predicciones que se incluyen en este artículo se centran en el auge de los modelos de dominios específicos, el uso de datos sintéticos y una mayor sostenibilidad de la IA generativa. Comparte este artículo Arun Chandrasekaran es vicepresidente distinguido y analista en Gartner, donde su investigación se centra en las tecnologías y tendencias emergentes, con énfasis en la inteligencia artificial y la computación en nube. Arun es un asesor de confianza para líderes y ejecutivos de TI, entre los que se incluyen el consejo de administración, los directores generales, los directores de sistemas de información, los directores de tecnología y sus subordinados directos. Ha asesorado a miles de CIO, CTO y dirigido cientos de talleres para varias organizaciones de la lísta Global 2000 sobre IA, nube e innovación. Además, cubre de cerca el ecosistema de las start-ups, asesorando a inversores de capital riesgo y CEO tecnológicos. Forma parte del equipo que analiza las tendencias tecnológicas emergentes y crea la investigación anual de Gartner sobre las principales tendencias tecnológicas estratégicas. También dirige el Hype Cycle de Gartner para las tecnologías emergentes. Sus áreas de investigación se centran en las tendencias emergentes en IA, incluida la IA generativa y los modelos básicos de IA, la nube pública y las arquitecturas nativas de la nube. 
+        Publicaciones relacionadas
+     
+                  Qué significa la IA generativa para las empresas
+                
+                  Qué es la inteligencia artificial (IA)
+                
+                  Implementación segura y efectiva de la AI TRiSM
+                
+                  Webinars sobre Tecnología de la Información
+                
+               ©2024 Gartner, Inc. y / o sus afiliados. Todos los derechos reservados.
+             
+               ©2024 Gartner, Inc. y / o sus afiliados. Todos los derechos reservados.
+            

@@ -1,0 +1,44 @@
+Título: Introducción a los modelos de lenguaje grandes  |  Machine Learning  |  Google for Developers
+URL: https://developers.google.com/machine-learning/resources/intro-llms?hl=es-419
+Número de palabras: 1082
+
+¿Es la primera vez que usas los modelos de lenguaje o los modelos grandes de lenguaje? Consulta los recursos que se indican a continuación. Un modelo de lenguaje es un modelo
+modelo
+que pretende predecir y generar un lenguaje creíble. El autocompletado es un
+de lenguaje extenso, por ejemplo. Estos modelos funcionan estimando la probabilidad de que un token o una secuencia de tokens ocurra dentro de una secuencia más larga de tokens. Considera la siguiente oración: Si supones que un token es una palabra, un modelo de lenguaje determina las probabilidades de diferentes palabras o secuencias de palabras para reemplazar esa línea baja. Por ejemplo, un modelo de lenguaje podría determinar las siguientes probabilidades: Una "secuencia de tokens" puede ser una oración completa o una serie de oraciones.
+Es decir, un modelo de lenguaje podría calcular la probabilidad de diferentes oraciones o bloques de texto completos. Estimar la probabilidad de lo que viene a continuación en una secuencia es útil para todo tipo de tareas: generar texto, traducir idiomas y responder preguntas, entre otras. Modelar el lenguaje humano a gran escala es una tarea muy compleja y que utiliza muchos recursos
+de tu organización. El camino para alcanzar las capacidades actuales de los modelos de lenguaje y los
+
+modelos grandes de lenguaje abarca varias décadas. A medida que los modelos se construyen cada vez más, su complejidad y eficacia aumentan.
+Los primeros modelos de lenguaje podían predecir la probabilidad de una sola palabra. Los modelos de lenguaje extensos modernos pueden predecir la probabilidad de oraciones, párrafos o incluso documentos completos. El tamaño y la capacidad de los modelos de lenguaje aumentaron exponencialmente en los últimos años a medida que aumentaban la memoria de la computadora, el tamaño del conjunto de datos y la potencia de procesamiento, y se desarrollaban técnicas más eficaces para modelar secuencias de texto más largas. La definición es confusa, pero "grande" para describir BERT (110 millones
+parámetros), así como PaLM 2 (hasta 340 B de parámetros). Los parámetros son los pesos que el modelo aprendió durante el entrenamiento y que se usan para predecir el siguiente token en la secuencia. “Grande” puede referirse a la cantidad de parámetros en el modelo o
+y, a veces, el número de palabras
+del conjunto de datos. Un desarrollo clave en el modelado de lenguaje fue la introducción en 2017 de los transformadores, una arquitectura diseñada en torno a la idea de atención.
+Esto hizo posible procesar secuencias más largas centrándose en los
+una parte importante de la entrada, lo que resuelve los problemas de memoria que se encontraron en
+e implementar modelos automáticamente. Los transformadores son la arquitectura de vanguardia para una amplia variedad de aplicaciones de modelos de lenguaje, como los traductores. Si la entrada es "I am a good dog.", un traductor basado en Transformer transforma esa entrada en el resultado "Je suis un bon chien.", que es la misma oración traducida al francés. Los transformadores completos consisten en un
+codificador y un
+decodificador. Un codificador convierte el texto de entrada en una representación intermedia, y un decodificador convierte esa representación intermedia en texto útil. Los transformadores dependen en gran medida de un concepto llamado autoatención. La parte propia de
+la autoatención se refiere al enfoque "egocéntrico" el enfoque de cada token de un corpus.
+Efectivamente, en nombre de cada token de entrada, la autoatención pregunta: “¿Cuánta
+¿todos los demás tokens de entrada son importantes para mí?". Para simplificar, asumamos que cada token es una palabra y que el contexto completo es una sola oración. Considera la siguiente oración: El animal no cruzó la calle porque estaba demasiado cansado. En la oración anterior, hay 11 palabras, así que cada una de ellas está pagando
+atención a las otras diez, preguntándose
+cuánto importa cada una de esas palabras.
+para ellos. Por ejemplo, observa que la oración contiene el pronombre it.
+Los pronombres suelen ser ambiguos. El pronombre it siempre se refiere a un sustantivo reciente,
+pero en la oración de ejemplo, a qué sustantivo reciente it hace referencia: el animal
+o la calle? El mecanismo de autoatención determina la relevancia de cada palabra cercana para
+usa el pronombre it. Los LLM son muy eficaces en la tarea para la que se crearon, que es generar el texto más plausible en respuesta a una entrada. Incluso están empezando a mostrar
+rendimiento sólido en otras tareas; por ejemplo, resumen, pregunta
+respuestas y clasificación de textos. Estas se denominan habilidades emergentes. Los LLM incluso pueden resolver algunos problemas matemáticos y escribir código (aunque es recomendable revisar su trabajo). Los LLM son excelentes para imitar patrones de voz humanos. Entre otras cosas,
+son excelentes para combinar información con diferentes estilos y tonos. Sin embargo, los LLM pueden ser componentes de modelos que hacen más que solo generar texto. Se usaron LLM recientes para crear detectores de opiniones,
+clasificadores de toxicidad y generar leyendas de imágenes. Los modelos de este tamaño no están exentos de inconvenientes. Los LLM más grandes son costosos. Pueden tardar meses en entrenarse y, como resultado, consumen muchos recursos. Por lo general, también se pueden reutilizar para otras tareas, lo que es una ventaja. Entrenamiento de modelos con más de un billón de parámetros
+crea desafíos de ingeniería. Infraestructura y programación especiales
+se requieren técnicas para coordinar el flujo hacia los chips y hacia atrás. Existen formas de mitigar los costos de estos modelos grandes. Hay dos enfoques posibles
+inferencia sin conexión
+y
+destilación. El sesgo puede ser un problema en modelos muy grandes y debe considerarse en el entrenamiento y la implementación. A medida que estos modelos se entrenan con lenguaje humano, pueden presentarse 
+los posibles problemas éticos, incluido el uso inadecuado del lenguaje y los sesgos de origen étnico,
+género, religión, etc. Debe quedar claro que, a medida que estos modelos aumentan de tamaño y mejoran su rendimiento, es necesario seguir siendo diligentes para comprender y mitigar sus inconvenientes. Obtén más información sobre el enfoque de Google sobre la IA responsable. ¿Te interesa una introducción más detallada a los modelos de lenguaje extensos? Cheque
+Presentamos el nuevo módulo Modelos grandes de lenguaje
+en el Curso intensivo de aprendizaje automático. Salvo que se indique lo contrario, el contenido de esta página está sujeto a la licencia Atribución 4.0 de Creative Commons, y los ejemplos de código están sujetos a la licencia Apache 2.0. Para obtener más información, consulta las políticas del sitio de Google Developers. Java es una marca registrada de Oracle o sus afiliados. Última actualización: 2024-09-20 (UTC)

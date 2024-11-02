@@ -1,0 +1,73 @@
+Título: Modelos de lenguaje grandes  |  Machine Learning  |  Google for Developers
+URL: https://developers.google.com/machine-learning/crash-course/llm?hl=es-419
+Número de palabras: 996
+
+
+
+ En este módulo, se supone que estás familiarizado con los conceptos que se abordan en el
+     los siguientes módulos: Un modelo de lenguaje
+calcula la probabilidad de que se muestre un token
+o secuencia de tokens que tenga lugar dentro de una secuencia más larga de tokens. Un token
+puede ser una palabra, una subpalabra (un subconjunto de una palabra) o incluso un solo carácter. La mayoría de los modelos de lenguaje modernos realizan tokens por subpalabras, es decir, por fragmentos de
+texto que contiene un significado semántico. Los fragmentos pueden variar en longitud desde
+caracteres únicos, como la puntuación o las s posesivas a palabras completas.
+Los prefijos y sufijos se pueden representar como subpalabras separadas.
+Por ejemplo, la palabra no mirado podría representarse de la siguiente manera:
+tres subpalabras: La palabra cats podría estar representada por las siguientes dos subpalabras: Una palabra más compleja, como "antidisestablecimiento" podrían estar representados
+en seis subpalabras: La asignación de token es específica del lenguaje, de modo que la cantidad de caracteres por token
+difiere según el idioma. En inglés, un token corresponde a ~4 caracteres.
+o aproximadamente 3/4 de una palabra, por lo que 400 tokens ~= 300 palabras en inglés. Los tokens son la unidad atómica o la unidad más pequeña del modelado de lenguaje. Los tokens ahora también se aplican correctamente a
+
+visión artificial y
+
+generación de audio.
+ Considera la siguiente oración y los tokens que podrían completarla: Un modelo de lenguaje determina las probabilidades
+de que haya diferentes tokens o
+secuencias de tokens para completar ese espacio en blanco. Por ejemplo, el siguiente
+de probabilidad identifica algunos tokens posibles y sus probabilidades: En algunos casos, la secuencia de tokens podría ser una oración completa,
+un párrafo o incluso un ensayo completo. Una aplicación puede usar la tabla de probabilidad para hacer predicciones.
+La predicción puede tener la probabilidad más alta (por ejemplo, “cocinar sopa”).
+o una selección aleatoria de tokens que tienen una probabilidad mayor que un
+umbral. Estimar la probabilidad de que lo que llene el espacio en blanco en una secuencia de texto se pueda
+extenderse a tareas más complejas, incluidas las siguientes: A través del modelado de los patrones estadísticos de los tokens, los modelos de lenguaje modernos desarrollan
+representaciones internas del lenguaje extremadamente poderosas y pueden generar
+un lenguaje creíble. Los n-gramas son secuencias ordenadas de palabras.
+para crear modelos de lenguaje, donde N es el número de palabras en la secuencia.
+Por ejemplo, cuando N es 2, el n-grama se denomina 2-grama (o un
+bigram); cuando N es 5, el n-grama es
+llamado 5-grama. Dada la siguiente frase en un documento de entrenamiento: Los 2 gramos resultantes son los siguientes: Cuando n es 3, el n-grama se denomina 3-grama (o un
+trigrama). Dado esa misma frase, el
+los 3 gramos resultantes son: Dadas dos palabras como entrada, un modelo de lenguaje basado en 3-gramas puede predecir la
+más probable de la tercera palabra. Por ejemplo, dadas las siguientes dos palabras: Un modelo de lenguaje examina todos los diferentes 3-gramas derivados de su entrenamiento
+corpus que comienzan con orange is para determinar la tercera palabra más probable.
+Cientos de 3 gramos pueden comenzar con las dos palabras orange is, pero puedes
+céntrate únicamente en estas dos posibilidades: La primera posibilidad (orange is ripe) se refiere a la fruta de la naranja,
+mientras que la segunda posibilidad (orange is cheerful) se trata del color
+de color naranja. Los seres humanos pueden retener contextos relativamente largos. Mientras miras el tercer acto de una obra,
+retiene el conocimiento de los caracteres introducidos en el acto 1. De forma similar, el
+el remate de un largo chiste te hace reír porque puedes recordar el contexto
+de la configuración del chiste. En los modelos de lenguaje, el contexto es información útil antes o después del
+token de destino. El contexto puede ayudar a un modelo de lenguaje a determinar si el color “naranja”
+se refiere a una fruta cítrica o a un color. El contexto puede ayudar a un modelo de lenguaje a hacer mejores predicciones, pero
+¿Los 3-gramas proporcionan suficiente contexto? Por desgracia, el único contexto es un 3-grama
+proporciona son las primeras dos palabras. Por ejemplo, las dos palabras orange is no
+proporcionar contexto suficiente para que el modelo de lenguaje prediga la tercera palabra.
+Debido a la falta de contexto, los modelos de lenguaje basados en 3-gramas cometen muchos errores. Los n-gramas más largos proporcionarían más contexto que los n-gramas más cortos.
+Sin embargo, a medida que N aumenta, la ocurrencia relativa de cada instancia disminuye.
+Cuando N se vuelve muy grande, el modelo de lenguaje generalmente tiene un solo
+de cada caso de N tokens, lo que no es muy útil en
+la predicción del token de destino. Neuros recurrentes
+redes
+proporcionan más contexto que los n-gramas. Una red neuronal recurrente es un tipo de
+red neuronal que se entrena
+una secuencia de tokens. Por ejemplo, una red neuronal recurrente
+puede aprender gradualmente (y aprender a ignorar) el contexto seleccionado de cada palabra.
+en una oración, como si escucharas hablar a alguien.
+Una gran red neuronal recurrente puede obtener contexto de un pasaje de varios
+frases. Aunque las redes neuronales recurrentes aprenden más contexto que los n-gramas, la cantidad
+de contexto útil que las redes neuronales recurrentes pueden intuir sigue siendo relativamente
+limitado. Las redes neuronales recurrentes evalúan la información “token por token”.
+En cambio, los modelos de lenguaje extensos, el tema de la próxima
+pueden evaluar todo el contexto de una sola vez. Ten en cuenta que entrenar redes neuronales recurrentes para contextos largos se ve limitada por
+el gradiente desaparecido
+problema. Salvo que se indique lo contrario, el contenido de esta página está sujeto a la licencia Atribución 4.0 de Creative Commons, y los ejemplos de código están sujetos a la licencia Apache 2.0. Para obtener más información, consulta las políticas del sitio de Google Developers. Java es una marca registrada de Oracle o sus afiliados. Última actualización: 2024-08-22 (UTC)

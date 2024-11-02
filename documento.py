@@ -8,6 +8,26 @@ import time
 
 # Configuración de la búsqueda con más variaciones y temas más específicos
 queries = [
+    "ChatGPT en aplicaciones prácticas", 
+    "Gemini IA Google", 
+    "Copilot Microsoft inteligencia artificial",
+    "modelos de IA generativa 2024",
+    "usos de ChatGPT en la industria",
+    "tecnología de Gemini y Google IA",
+    "Copilot en programación y desarrollo",
+    "deep learning en inteligencia artificial generativa",
+    "innovación en modelos de lenguaje grandes",
+    "aplicaciones de IA generativa en negocios",
+    "impacto de ChatGPT en la educación",
+    "Copilot en GitHub para desarrolladores",
+    "avances en modelos de deep learning",
+    "comparación de ChatGPT y Gemini",
+    "tecnología de Copilot en software",
+    "tendencias en inteligencia artificial generativa",
+    "machine learning aplicado a modelos de lenguaje",
+    "procesamiento de lenguaje natural con ChatGPT",
+    "modelos avanzados de deep learning en 2024",
+    "inteligencia artificial en generación de texto"
     "inteligencia artificial en negocios", 
     "impacto de inteligencia artificial en salud",
     "inteligencia artificial y educación en 2024",
@@ -47,7 +67,7 @@ queries = [
 ]
 
 num_results_per_query = 20  # Número de resultados por consulta
-objetivo_documentos = 900  # Meta de documentos
+objetivo_documentos = 1200  # Meta de documentos
 
 # Crear la carpeta donde se guardarán los archivos
 SAVE_FOLDER = "noticias_guardadas"

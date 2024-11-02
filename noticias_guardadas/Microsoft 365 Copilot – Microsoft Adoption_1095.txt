@@ -1,0 +1,199 @@
+Título: Microsoft 365 Copilot – Microsoft Adoption
+URL: https://adoption.microsoft.com/es-es/copilot/
+Número de palabras: 1539
+
+Microsoft 365 Copilot combina el poder de los grandes modelos de lenguaje (LLM) con los datos de su organizaciÃ³n, todo en el flujo de trabajo, para convertir sus palabras en una de las herramientas de productividad mÃ¡s poderosas del planeta.
+Funciona junto con aplicaciones Microsoft 365 populares como Word, Excel, PowerPoint, Outlook, Teams y mÃ¡s. Microsoft 365 Copilot brinda asistencia inteligente en tiempo real, lo que permite a los usuarios mejorar su creatividad, productividad y habilidades.
+ Microsoft 365 Copilot combina el poder de los grandes modelos de lenguaje (LLM) con los datos de su organizaciÃ³n, todo en el flujo de trabajo, para convertir sus palabras en una de las herramientas de productividad mÃ¡s poderosas del planeta. Funciona junto con aplicaciones Microsoft 365 populares como Word, Excel, PowerPoint, Outlook, Teams y mÃ¡s. Microsoft 365 Copilot brinda asistencia inteligente en tiempo real, lo que permite a los usuarios mejorar su creatividad, productividad y habilidades. Utilice nuestro Kit de Ã©xito Copilot actualizado, el marco de implementaciÃ³n y los recursos prÃ¡cticos para acelerar el tiempo de obtenciÃ³n de valor con Microsoft 365 Copilot.  Explora nuestras sesiones de capacitaciÃ³n QuickStart dirigidas por un instructor para aprender cÃ³mo la IA puede ayudarte a trabajar de manera mÃ¡s inteligente. Disponible en 5 idiomas diferentes. La comunidad Microsoft 365 Copilot es su centro para el blog oficial, las Ãºltimas noticias y debates. 
+
+
+Microsoft 365 Copilot: Onda 2
+Reloj Microsoft 365 Copilot: Onda 2 bajo demanda con Satya Nadella y Jared Spataro para descubrir la siguiente fase del Copilot para el trabajo.
+
+
+Ver ahora
+
+
+AmplÃ­e Copilot con conectores Microsoft Graph
+Los conectores de grÃ¡ficos hacen que todos sus datos comerciales y de colaboraciÃ³n puedan ser buscados por sus usuarios dentro de Microsoft 365 Copilot y otras experiencias Microsoft 365.
+
+
+Aprende mÃ¡s
+
+
+Biblioteca de escenarios interactivos
+Aproveche al mÃ¡ximo Microsoft 365. Vea ejemplos de resultados y medidas de Ã©xito por departamento y descargue el contenido de Un dÃ­a en la vida para continuar su proceso de capacitaciÃ³n de usuarios.
+
+
+InspÃ­rate
+
+
+VisiÃ³n general
+Copilot estÃ¡ diseÃ±ado para beneficiar a todos en una organizaciÃ³n. Desde lÃ­deres senior hasta profesionales de TI y trabajadores de primera lÃ­nea, Copilot ofrece funciones que agilizan las tareas, automatizan los flujos de trabajo y mejoran la colaboraciÃ³n, desbloqueando la productividad y la creatividad a lo largo del dÃ­a. Su adaptabilidad significa que se puede personalizar para satisfacer las necesidades Ãºnicas de cualquier organizaciÃ³n. La capacidad de ampliar sus capacidades a travÃ©s de complementos lo convierte en un activo en continua evoluciÃ³n que puede adaptarse al panorama en constante cambio de las necesidades comerciales.
+
+
+LiderazgoHabilitaciÃ³n de usuarioPreparaciÃ³n tÃ©cnicaLiderazgo
+
+
+
+
+
+Prepararse
+
+Incorporarse y participar
+
+Generar impacto
+
+Ampliar y optimizar
+
+
+
+
+
+
+GuÃ­a resumida de implementaciÃ³n
+Principios de IA responsable
+Liderando en la era de la IA: OrientaciÃ³n prÃ¡ctica para lÃ­deres
+GuÃ­a para lÃ­deres empresariales sobre la adopciÃ³n de la IA
+Copilot para el trabajo
+Biblioteca de escenarios
+CreaciÃ³n de una guÃ­a del consejo de IA
+DescripciÃ³n general del funcionamiento de Microsoft 365 Copilot
+
+Incorporarse y participar
+
+CÃ³mo: No se trata de IA, se trata de confianza
+Centro de aprendizaje de inteligencia artificial para lÃ­deres
+El arte y la ciencia de trabajar con IA
+CaracterÃ­sticas del Copilot en la hoja de ruta del Microsoft 365
+
+Generar impacto
+
+Panel de control Microsoft Copilot de Viva Insights
+Lo que estamos aprendiendo de los clientes
+
+Ampliar y optimizar
+
+Empoderando a cada desarrollador con complementos para Copilot
+Presentamos el estudio Copilot
+
+
+
+
+
+
+HabilitaciÃ³n de usuario
+
+
+
+
+
+Prepararse
+
+Incorporarse y participar
+
+Generar impacto
+
+Ampliar y optimizar
+
+
+
+
+
+
+GuÃ­a de habilitaciÃ³n de usuario
+Biblioteca de escenarios
+CÃ³mo: No se trata de IA, se trata de confianza
+Aumentos de productividad para los usuarios del Copilot
+Experiencias Copilot explicadas
+MS-4007: Descubra cÃ³mo impulsar la habilitaciÃ³n de Microsoft 365 Copilot en su organizaciÃ³n
+Aprende cÃ³mo funciona Copilot
+
+Incorporarse y participar
+
+Kit de herramientas para la habilitaciÃ³n del usuario
+Kit del dÃ­a del lanzamiento del Copilot
+Documento de estrategia de experiencia de usuario
+Acelere la habilitaciÃ³n de Copilot con Microsoft Viva
+Utilice Viva Amplify para la habilitaciÃ³n de usuarios Copilot
+Laboratorio Copilot
+Kit de entrenamiento
+Centro de aprendizaje Copilot
+
+Generar impacto
+
+Panel de control Microsoft Copilot de Viva Insights
+
+Ampliar y optimizar
+
+MOCA para escenarios de productividad
+Personaliza con Microsoft Copilot Studio
+
+
+
+
+
+
+PreparaciÃ³n tÃ©cnica
+
+
+
+
+
+Prepararse
+
+Incorporarse y participar
+
+Generar impacto
+
+Ampliar y optimizar
+
+
+
+
+
+
+GuÃ­a de preparaciÃ³n tÃ©cnica
+EvaluaciÃ³n de optimizaciÃ³n
+Fast Track para Microsoft 365
+Datos, privacidad y seguridad para Microsoft 365 Copilot
+Requisitos del Microsoft 365 Copilot
+Microsoft Learn: Prepare su organizaciÃ³n para Copilot
+CÃ³mo prepararse para el Microsoft 365 Copilot
+
+Incorporarse y participar
+
+Microsoft Graph basa Copilot con sus datos Microsoft 365
+GestiÃ³n de la transcripciÃ³n en Microsoft 365 Copilot
+Microsoft Learn: IntroducciÃ³n a Microsoft 365 Copilot
+Habilitar usuarios
+Lista de reproducciÃ³n de mecÃ¡nica de Microsoft
+Centro de aprendizaje Copilot
+
+Generar impacto
+
+Informes de uso del Copilot
+
+Ampliar y optimizar
+
+DescripciÃ³n general del estudio CopilotSeguridad y gobierno del Copilot Studio
+Microsoft Learn: Optimizar y ampliar Microsoft 365 Copilot
+AmplÃ­e Copilot con conectores Microsoft Graph
+DescripciÃ³n general de conectores y acciones
+Crear complementos de IA
+Certifique sus conectores y complementos Power Platform Copilot
+Complementos de desarrollador Microsoft 365 para la lista de reproducciÃ³n Copilot
+
+
+
+
+
+
+ Reloj Microsoft 365 Copilot: Onda 2 bajo demanda con Satya Nadella y Jared Spataro para descubrir la siguiente fase del Copilot para el trabajo. Los conectores de grÃ¡ficos hacen que todos sus datos comerciales y de colaboraciÃ³n puedan ser buscados por sus usuarios dentro de Microsoft 365 Copilot y otras experiencias Microsoft 365. Aproveche al mÃ¡ximo Microsoft 365. Vea ejemplos de resultados y medidas de Ã©xito por departamento y descargue el contenido de Un dÃ­a en la vida para continuar su proceso de capacitaciÃ³n de usuarios. Copilot estÃ¡ diseÃ±ado para beneficiar a todos en una organizaciÃ³n. Desde lÃ­deres senior hasta profesionales de TI y trabajadores de primera lÃ­nea, Copilot ofrece funciones que agilizan las tareas, automatizan los flujos de trabajo y mejoran la colaboraciÃ³n, desbloqueando la productividad y la creatividad a lo largo del dÃ­a. Su adaptabilidad significa que se puede personalizar para satisfacer las necesidades Ãºnicas de cualquier organizaciÃ³n. La capacidad de ampliar sus capacidades a travÃ©s de complementos lo convierte en un activo en continua evoluciÃ³n que puede adaptarse al panorama en constante cambio de las necesidades comerciales. Nuevo video Utilice sus archivos, correos electrÃ³nicos, chats e informaciÃ³n de reuniones de forma automÃ¡tica o con referencias directas mediante indicaciones de Copilot en las aplicaciones de Microsoft 365. No necesita copiar informaciÃ³n y luego pegarla en una herramienta de navegador ni cargar archivos de trabajo e imÃ¡genes en otras experiencias de IA generativa. En cambio, puede aprovechar no solo su archivo, correo electrÃ³nico, chat o reuniÃ³n abiertos directamente desde Teams, Word, PowerPoint y otras aplicaciones de Microsoft 365, sino tambiÃ©n otros datos de trabajo para los que tenga permisos en SharePoint y OneDrive. Copilot es tu asistente de chat con tecnologÃ­a de inteligencia artificial, Â¡ahora en tu bolsillo! Comience con la nueva aplicaciÃ³n Microsoft Copilot en iOS y Android.   Ãltima actualizaciÃ³n el 10 de octubre de 2024 Ãnete a nuestra comunidad para hacer preguntas en nuestros foros, conectarse con otros miembros de la comunidad y ponerse al dÃ­a con eventos anteriores que quizÃ¡s se haya perdido. EstÃ© atento a este espacio para conocer nuestras futuras llamadas comunitarias para conocer a otras personas que usan Microsoft 365 Copilot, asÃ­ como para recibir capacitaciÃ³n a pedido. Estamos ansiosos por escuchar lo que estÃ¡ haciendo con Copilot junto con usted en su dÃ­a. Â¿Te perdiste nuestros eventos AMA (PregÃºntale a Microsoft cualquier cosa) anteriores? Ponte al dÃ­a aquÃ­.   Habilidad Invitar a Copilot a su dÃ­a acelera su capacidad para mejorar su productividad, crear contenido atractivo y dar rienda suelta a su creatividad. Verificar Laboratorio Copilot para aumentar la confianza y el Ã©xito de la IA mediante indicaciones. Explore indicaciones adaptadas a una variedad de roles. Busque, guarde y administre indicaciones directamente en sus aplicaciones Microsoft 365 Copilot favoritas. Permita que los usuarios compartan sus indicaciones favoritas, aprendan de otros y celebren sus momentos Copilot "ajÃ¡". Vea a continuaciÃ³n aÃºn mÃ¡s oportunidades de capacitaciÃ³n y experiencias de desarrollo de habilidades. Aprenda cÃ³mo impulsar la habilitaciÃ³n del usuario de Microsoft 365 Copilot utilizando nuestro marco de implementaciÃ³n para crear e implementar un plan de adopciÃ³n sÃ³lido. Obtenga la ventaja de poder responder preguntas basadas en la informaciÃ³n actual. Personalice Microsoft Microsoft 365 Copilot o cree sus propias experiencias de copiloto. Incorpore datos e ideas al flujo de trabajo para ayudar a ahorrar tiempo y cerrar mÃ¡s acuerdos. Mejore el servicio al cliente impulsando la productividad y capacitando a los agentes para brindar un servicio excepcional. Microsoft 365 Copilot ahora tiene disponibilidad ampliada para clientes de pequeÃ±as y medianas empresas (PYMES). Chat protegido impulsado por IA para la educaciÃ³n superior. Utilice la asistencia de inteligencia artificial en tiempo real que ayuda a los representantes de servicio a automatizar tareas que consumen mucho tiempo. Lleve asistencia de codificaciÃ³n de IA a cada paso del flujo de trabajo del desarrollador. 
+
+
+Ãnete a la comunidad de Copiloto
+Haga preguntas y comparta su experiencia con otros clientes en Microsoft Tech Community.
+
+
+Ãnete ahora Haga preguntas y comparta su experiencia con otros clientes en Microsoft Tech Community. Ãnase a nuestro programa de campeones Microsoft 365. Proporcionar capacitaciÃ³n a pedido para los empleados. ConviÃ©rtase en un especialista en adopciÃ³n de servicios.

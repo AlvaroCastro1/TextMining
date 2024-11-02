@@ -1,0 +1,34 @@
+Título: Microsoft 365 Copilot, la IA que va a revolucionar el trabajo | La Innovación Necesaria
+URL: https://www.integratecnologia.es/la-innovacion-necesaria/microsoft-365-copilot-la-ia-que-va-a-revolucionar-el-trabajo/
+Número de palabras: 994
+
+La Innovación Necesaria Blog sobre tecnología, business intelligence, marketing digital, cloud y seguridad. 19 mayo, 2023 por Nieves Artajona Hace pocos días, Microsoft anunció la llegada de Microsoft 365 Copilot, una tecnología novedosa basada en la inteligencia artificial capaz de aumentar la eficiencia y la productividad, así como de transformar nuestra forma de trabajar. Esta herramienta, que sigue en fase de prueba, aprovecha la potencia de la IA para convertir las palabras en un instrumento de productividad con gran poder, ya que combina el poder de grandes modelos de lenguaje con datos de negocio y todas las aplicaciones de Microsoft 365. El objetivo no es otro que este copiloto haga parte del trabajo y ayude a sacar el máximo partido a las herramientas de Microsoft. Índice de contenidos  El sistema de Copilot combina tres grandes elementos: las aplicaciones de Microsoft 365, Microsoft Graph (datos, correos, chats, calendarios, etc.) y un LLM (Large Language Model), un modelo de lenguaje que Copilot combina la capacidad de los avanzados modelos lingüísticos con los datos y programas de los usuarios para convertir sus palabras en la más potente herramienta de productividad del mundo. Al estar basado en el contenido y contexto de cada empresa, ofrece resultados pertinentes y procesables. Está diseñado de manera especial para los negocios, prestando especial atención a la seguridad, la privacidad, el cumplimiento de las normas y la Inteligencia Artificial responsable de Microsoft. Esto supone una nueva era para la computación que transformará radicalmente la forma en que trabajamos. Se ocupará de comprender el contexto de todos estos elementos y resolver las peticiones del usuario.  Copilot estará integrado en las aplicaciones de Microsoft 365, es decir, Word, Excel, PowerPoint, Outlook o Teams. Además, también incluye una experiencia nueva: Business Chat, un chatbot integrado que funciona con modelos de lenguaje (LLM), las aplicaciones de M365, el calendario, los correos electrónicos, los chats, los documentos, las reuniones y los contactos de los clientes. Por ejemplo, con una indicación como “explícale a mi equipo el progreso de la estrategia de este producto”, Business Chat creará automáticamente una actualización del estado basada en las reuniones que se hayan celebrado, los correos electrónicos que se hayan intercambio o las conversaciones de chat que se hayan mantenido. «Copilot combina la potencia de los grandes modelos de lenguaje con los datos y aplicaciones del usuario para convertir sus palabras en la herramienta de productividad más poderosa del planeta. […] Al basarse en el contenido y el contexto de cada negocio, Copilot ofrece resultados relevantes y procesables. Está ya preparado para los negocios, teniendo muy en cuenta aspectos como la seguridad, el cumplimiento de normativas, la privacidad y la IA responsable de Microsoft. Copilot marca una nueva era de la computación que transformará fundamentalmente la forma en la que trabajamos». — Jared Spataro, vicepresidente corporativo de Modern Work and Business Applications de Microsoft. Microsoft 365 Copilot se integra en las aplicaciones del día a día, facilita los flujos de trabajo, libera las listas de tareas, delega y permite ganar más tiempo para centrarse en objetivos, al dejar atrás las tareas. Estos son algunos ejemplos de funciones de Copilot en las aplicaciones más utilizadas de Microsoft 365:   Microsoft ha desarrollado Copilot con la seguridad y la privacidad de sus clientes en mente, pues ha seguido los principios de IA y el estándar de IA responsable que ellos mismos han creado tras años y años de mucha investigación. Por si fuera poco, Microsoft también ha anunciado el lanzamiento de Dynamics 365 Copilot, que será el primer copiloto de IA jamás creado, tanto en CRM como en ERP. De esta forma, la IA llegará a todas las líneas de negocio. Aunque son muchas las incógnitas que todavía rodean Copilot, es posible que empiece a aterrizar poco a poco en Europa en otoño de 2023, eso sí, en su versión original en inglés. Para ver la versión en castellano muy probablemente haya que esperar hasta 2024. Además, se especula que no todos los planes llevarán Copilot integrado y que, para poder disfrutar de esta IA, puede que uno de los requisitos sea disfrutar de un plan Business Standard, Business Premium, Microsoft Enterprise 3 o Microsoft Enterprise 5. En cuanto al precio, tendremos que esperar un poco más para conocer los detalles de su coste. Sin duda, nos encontramos ante una herramienta de cambio que transformará por completo la forma en la que trabajamos con Microsoft 365. Los procesos repetitivos y monótonos pasarán a la historia con Copilot. ¿Todo listo para despegar? Publicado en: IoT Data AI  Durante estos 10 años en Integra, he tenido la oportunidad de trabajar en el departamento de marketing y, ahora, en el equipo de expansión de negocio. Me especializo en el trato con el cliente e intento dar con las mejores soluciones para sus necesidades, siempre de la mano de la tecnología y la innovación. Me encanta aprender cosas nuevas y enfrentarme a nuevos retos profesionales. En lo personal, soy fan del deporte, de Marvel, de la naturaleza y del vegetarianismo. Lo siento, debes estar conectado para publicar un comentario. Aplicaciones de negocio Microsoft para el futuro de tu empresa. El reto de transformar digitalmente todos los sectores.  (*)Todos los campos son obligatorios.  Responsable: INTEGRA ESTRATEGIA Y TECNOLOGÍA (Sociedad Aragonesa de Asesoría Técnica S.L.). - Finalidad: Gestionar el envío de información y prospección comercial - Legitimación: Consentimiento del interesado. - Destinatarios: No se cederán datos salvo disposición legal. - Derechos: Acceder, rectificar y suprimir los datos, así como otros derechos, como se explica en la información adicional. - Puede consultar información adicional sobre Protección de Datos en nuestra página web https://integratecnologia.es/politica-de-privacidad Δ 
+	Somos una consultora tecnológica formada por diferentes divisiones y marcas referentes, creando a través de la especialización en áreas tecnológicas y estratégicas un entorno de valor para nuestros clientes diferencial en el sector.
+ 
+	Trabajamos en el ahora, con visión del mañana.
+ 
+¿Hablamos?
+(+34) 976 46 78 78
+ 
+¡Di Hola! hola@integratecnologia.es
+ 
+
+
+Política de cookies
+Privacidad
+Aviso legal
+Newsletter
+Integra Identity
+
+
+
+
+
+
+
+
+
+
+
+
+

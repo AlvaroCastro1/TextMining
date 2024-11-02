@@ -1,0 +1,42 @@
+Título: Le damos la bienvenida a Copilot en Windows - Soporte técnico de Microsoft
+URL: https://support.microsoft.com/es-es/windows/le-damos-la-bienvenida-a-copilot-en-windows-675708af-8c16-4675-afeb-85a5a476ccb0
+Número de palabras: 862
+
+Experimenta Microsoft Copilot en dispositivos Windows usando la aplicación Copilot. Copilot te ayuda a obtener respuestas e inspiración de toda la Web, favorece la creatividad y la colaboración, y te ayuda a centrarte en la tarea que tienes entre manos. Importante:  En los nuevos equipos con Windows 11 y Copilot PCs que se envían al EEE y otros mercados donde Copilot está disponible, la aplicación Copilot se fijará en la barra de tareas de Windows. Para los equipos con Windows 11 existentes, el tiempo de disponibilidad y el método de entrega variarán. En Microsoft, nos guían nuestros principios sobre la inteligencia artificial, nuestro estándar de inteligencia artificial responsable y décadas de investigación sobre la inteligencia artificial, la fundamentación y el aprendizaje automático que conserva la privacidad. La privacidad y seguridad de los datos es un principio clave de la inteligencia artificial responsable. Nuestro objetivo es ayudar a nuestros clientes a usar nuestros productos de inteligencia artificial de forma responsable, compartir nuestros aprendizajes y crear asociaciones basadas en la confianza. Para saber más sobre cómo Copilot en Windows usa tus datos para ayudarte, consulta Tus datos y privacidad. Para comenzar, abre la aplicación Copilot desde el menú Inicio o usa el icono de Copilot si está presente en la barra de tareas de Windows. Si el teclado de tu dispositivo incluye una tecla dedicada a Copilot, también puedes usarla para iniciar Copilot. Copilot usa tu cuenta de Microsoft para proporcionar asistencia personalizada y acceso a una amplia gama de características. 
+
+ Copilot está diseñado para ofrecer asistencia basada en IA de forma cómoda, permitiéndote interactuar sin problemas con la IA generativa en Windows.  
+
+ Puedes cambiar el tamaño, mover y usar el Asistente de instantánea con Copilot, igual que con otras aplicaciones de Windows. Puede usar Alt + Tab para cambiar el foco entre Copilot y otras aplicaciones abiertas. Si necesitas cerrar Copilot, solo tienes que seleccionar el botón Cerrar en la parte superior, como harías con cualquier otra aplicación. Cuando vuelvas a abrir Copilot, se abrirá exactamente como lo dejaste, con el contenido de tu chat anterior intacto. Copilot también respeta tu tema de Windows, incluidos los temas de alto contraste. Puedes hacer a Copilot una amplia gama de preguntas, desde las más sencillas a las más complejas. Si desea llamar a su familia en Chipre, puede comprobar rápidamente la hora local para asegurarse de que no la despertará en mitad de la noche. ¿Desea planear un viaje para visitarlos en Chipre? Pide a Copilot que te busque vuelos y alojamiento para las vacaciones de invierno. Mientras escribe en el panel de chat, Microsoft Copilot proporciona asistencia de autocompletar para facilitar el chat. Solo use tabulador para aceptar el texto sugerido. Para empezar de cero con una nueva conversación de chat, use el botón de ratón Nuevo tema para borrar la conversación de chat anterior.   Copilot se integra perfectamente con el portapapeles y ofrece la posibilidad de arrastrar y soltar imágenes para proporcionar una rica interacción, permitiéndote hacer las cosas más rápidamente. Nota: En este momento no es posible realizar acciones de Windows, como cambiar la configuración de Windows o ejecutar tareas comunes de Windows. Microsoft ha estado trabajando para avanzar en la inteligencia artificial de forma responsable desde 2017, cuando definimos por primera vez nuestros principios de inteligencia artificial y, posteriormente, pusimos en funcionamiento nuestro enfoque a través de nuestro Estándar de inteligencia artificial responsable. La privacidad y la seguridad son principios a medida que desarrollamos e implementamos sistemas de inteligencia artificial. Trabajamos para ayudar a nuestros clientes a usar nuestros productos de inteligencia artificial de forma responsable, compartir nuestros aprendizajes y crear asociaciones basadas en la confianza. Para más información sobre nuestros esfuerzos de IA responsable, los principios que nos guían y las herramientas y capacidades que hemos creado para garantizar que desarrollamos la tecnología de IA de forma responsable, consulta IA responsable. Para saber más sobre cómo Copilot en Windows utiliza tus datos para ayudarte, consulta Tus datos y privacidad. Copilot El chat aprovecha GPT, un nuevo sistema de inteligencia artificial de OpenAI que crea texto basado en una consulta. Como GPT es un nuevo sistema, puede crear cosas que no esperaba. Si considera que el contenido es inesperado u ofensivo, envíenos sus comentarios para que podamos mejorarlo.  El contenido puede contener imprecisiones o material confidencial porque lo genera la inteligencia artificial que se extrae de Internet. Asegúrese de revisar y comprobar la información que genera. Las solicitudes similares pueden dar lugar a que se genere el mismo contenido.  Si hay algo que te gusta, y sobre todo si hay algo que no te gusta, de Copilot, puedes enviar tus comentarios a Microsoft a través del menú situado cerca del icono de tu perfil de usuario, en la parte superior de la ventana de Copilot.  Explore las ventajas de las suscripciones, examine los cursos de aprendizaje, aprenda a proteger su dispositivo y mucho más. 
+
+ 
+Ventajas de la suscripción a Microsoft 365
+ 
+
+ 
+Aprendizaje de Microsoft 365
+ 
+
+ 
+Seguridad de Microsoft
+ 
+
+ 
+Centro de accesibilidad
+ 
+                Las comunidades le ayudan a formular y responder preguntas, enviar comentarios y leer a expertos con conocimientos extensos.
+             
+
+ 
+Pregunte en Microsoft Community
+ 
+
+ 
+Microsoft Tech Community
+ 
+
+ 
+Windows Insiders
+ 
+
+ 
+Microsoft 365 Insiders

@@ -1,0 +1,51 @@
+Título: El radar de impacto de la IA generativa de Gartner para 2024
+URL: https://www.gartner.es/es/articulos/entiende-y-aprovecha-la-ia-generativa-con-el-nuevo-radar-de-impacto-de-gartner
+Número de palabras: 1384
+
+Por Lori Perri | 5 minutos de lectura | 21 de diciembre de 2023 
+        Una visión global
+     Gartner recomienda que, al desarrollar productos y servicios basados en la IA generativa, sigas los pasos siguientes: Crea un plan para implementarlos y probarlos. Céntrate primero en los casos de uso predominantes, aquellos que ya están aportando un valor real a los usuarios. Elabora una hoja de ruta de inversiones que priorice las oportunidades. Esfuérzate por conseguir una ventaja competitiva. Espera antes de invertir a largo plazo en tecnologías de IA generativa. Descarga la guía: Utiliza este y otros radares de impacto para determinar el alcance de las tecnologías emergentes Cada una de las 25 tecnologías y tendencias del radar de impacto corresponde a uno de estos cuatro temas. 
+            Al hacer clic en el botón "Continuar", aceptas los
+            
+               Términos de uso
+            
+            y
+            
+                la Política de privacidad de Gartner.
+            
+ Please provide the consent below 
+                        I have read, understood and accepted Gartner 
+                            
+                                Separate Consent Letter
+                            
+                            , whereby I agree (1) to provide Gartner with my personal information,
+                            and understand that information will be transferred outside of mainland China 
+                            and processed by Gartner group companies and other legitimate processing parties 
+                            and (2) to be contacted by Gartner group companies via internet, mobile/telephone and email, 
+                            for the purposes of sales, marketing and research.
+                     
+            Al hacer clic en el botón "Suscribirme", aceptas los
+            
+               Términos de uso
+            
+            y
+            
+                la Política de privacidad de Gartner.
+            
+ Este tema es central en las ofertas de IA generativa y destaca componentes básicos, como los modelos de lenguaje grandes (Large Language Models, LMM), así como los modelos de negocio innovadores, por ejemplo, los modelos como servicio (Models as a Service, MAAS). Las tecnologías y tendencias siguientes corresponden a esta categoría: Los LLM ligeros pueden servir para casos de uso en los que no resultan factibles los LLM masivos (o pesados). Los LLM de código abierto son modelos básicos de aprendizaje profundo que se distinguen por las condiciones de uso, por conceder su distribución a los desarrolladores y por el acceso de estos al código fuente y a la arquitectura del modelo. Las cadenas de LLM multietapa son bibliotecas que conectan diferentes LLM para completar múltiples tareas. Los centros de modelos son repositorios que alojan modelos de machine learning (ML) entrenados previamente y listos para usar, incluidos los modelos generativos. Los modelos de IA de difusión son generativos y utilizan la variación probabilística para añadir ruido a los datos y, a continuación, invertir el proceso para generar nuevas muestras de datos. En 2027, los modelos fundacionales respaldarán el 70 % de los casos de uso de procesamiento del lenguaje natural (PLN), partiendo de menos del 5 % en 2022. Fuente: Gartner Este tema destaca el papel fundamental del usuario en la reducción de riesgos y el establecimiento de directrices para una gestión responsable de la IA generativa por parte de los proveedores. Las tecnologías y tendencias siguientes corresponden a esta categoría: La IA con el usuario en el bucle (UITL, por sus siglas en inglés) es un flujo de trabajo en el que los usuarios participan en cada fase de desarrollo del sistema de IA. La gestión de las alucinaciones de la IA se refiere a la forma de resolver los errores cuando el contenido generado utilizando los LLM carece de lógica o es objetivamente incorrecto. La generación mejorada por recuperación (RAG, por sus siglas en inglés) es un patrón de arquitectura que combina la función de búsqueda con la capacidad generativa para fundamentar el resultado de las finalizaciones generativas. Las extensiones de IA generativa son herramientas que amplían las capacidades de los modelos con la posibilidad de recuperar información en tiempo real, incorporar datos empresariales, realizar nuevos tipos de cálculos y actuar de forma segura en nombre del usuario. Las herramientas de ingeniería de instrucciones proporcionan entradas, en forma de texto o imágenes, a los modelos de IA generativa para especificar y delimitar el conjunto de respuestas que el modelo puede producir. En 2026, los modelos de IA multimodales (texto, imagen, audio y vídeo) superarán a los monomodales en más del 60 % de las soluciones de IA generativa, partiendo de menos del 1 % en 2023. Fuente: Gartner Este tema aborda algunos de los pasos y decisiones fundamentales al construir y promover un modelo de IA generativa. Las tecnologías y tendencias siguientes corresponden a esta categoría: Los grafos de conocimiento (KG, por sus siglas en inglés) son estructuras de datos legibles por máquina que representan el conocimiento del mundo físico y del digital, incluidas las entidades y sus relaciones, según un modelado de datos basado en grafos. Los modelos de IA generativa multimodales permiten la entrada y salida de varios tipos de datos, como imágenes, vídeos, audio, texto y datos numéricos, dentro de un único modelo generativo.  Los datos sintéticos generados por IA son una clase de datos a menudo derivados y extrapolados a partir de conjuntos de datos reales, pero que se generan artificialmente en lugar de recopilarse de eventos del mundo real.  Las bases de datos vectoriales escalables proporcionan capacidad de búsqueda vectorial (semántica) y se utilizan junto con los LLM para aplicar la capacidad del modelo a responder al lenguaje natural con información personalizada o específica de una empresa o dominio. Más información: Qué significa la IA generativa para las empresas Este tema se centra en las expectativas en torno a las aplicaciones emergentes, algunas de las cuales permitirán nuevos casos de uso, mientras que otras mejorarán las experiencias actuales durante los próximos tres años. Las tecnologías y tendencias siguientes corresponden a esta categoría: Los gemelos de simulación combinan las ventajas de los gemelos digitales con los escenarios hipotéticos de las tecnologías de IA. Las aplicaciones nativas de IA generativa constan de software diseñado a partir de tecnología y capacidades de IA generativa. Las herramientas y los agentes de flujo de trabajo son funciones que pueden utilizar los agentes (programas/algoritmos de IA) para interactuar con el entorno.  Las aplicaciones de IA generativa integrada constan de software existente que se ha actualizado incorporándole capacidades de IA generativa para mejorar los casos de uso o crear otros nuevos. El modelado molecular basado en IA utiliza técnicas de simulación para probar rápidamente posibles tratamientos modelando las uniones e interacciones de los diferentes compuestos con las moléculas diana.  Los sistemas generativos multiagente (MAG, por sus siglas en inglés) combinan agentes de software computacional con LLM para simular un entorno de comportamientos e interacciones de sistemas multiagente complejos. La generación de código con IA utiliza los LLM para generar código basado en las instrucciones que envía el usuario. 
+        “Estamos viviendo la difusión sin precedentes de una tecnología que afecta a prácticamente todos los mercados, sus productos y clientes. La consecuencia es que la IA generativa alterará significativamente las fuerzas de la competencia y abrirá nuevas oportunidades de negocio para los proveedores de tecnología y de servicios”.
+     
+        Las 3 cosas que contar a otros profesionales de tu sector
+     Las tendencias y tecnologías presentadas en el radar de impacto de la IA generativa de Gartner corresponden a cuatro temas clave y ayudan a los jefes de producto a ganar ventaja competitiva. Utiliza el radar de impacto para informar tu estrategia de desarrollo de productos y servicios basados en la IA generativa. Para alcanzar tus objetivos comerciales, céntrate primero en las tecnologías a corto plazo, antes de invertir a largo plazo en IA generativa. Encuentra la combinación adecuada de tecnologías y tendencias de IA generativa. Comparte este artículo Annette Zimmermann es vicepresidenta analista en el equipo de tecnologías emergentes y tendencias, y su cobertura se centra en apoyar a los líderes de producto en diferentes mercados tecnológicos emergentes, incluidos los servicios de IA, la IA generativa y la sostenibilidad. En su investigación analiza conceptos clave de sostenibilidad como la circularidad y las oportunidades de las tecnologías facilitadoras. Además, sus ideas ayudan a los líderes de desarrollo de software a dar forma a su estrategia de producto haciendo de los objetivos medioambientales, como la sostenibilidad por diseño, una parte integral de la misma. 
+        Publicaciones relacionadas
+     
+                  Tendencias y tecnologías emergentes para responsables de productos tecnológicos
+                
+                  Las 30 tecnologías emergentes que guiarán tus decisiones empresariales
+                
+                  Webinars sobre Tecnología de la Información
+                
+               ©2024 Gartner, Inc. y / o sus afiliados. Todos los derechos reservados.
+             
+               ©2024 Gartner, Inc. y / o sus afiliados. Todos los derechos reservados.
+            

@@ -1,0 +1,48 @@
+Título: Libera tu productividad con IA y Microsoft Copilot - Soporte técnico de Microsoft
+URL: https://support.microsoft.com/es-es/topic/libera-tu-productividad-con-ia-y-microsoft-copilot-0bff3d8e-96a2-4bd0-9ac4-b128b1291394
+Número de palabras: 1070
+
+La inteligencia artificial (IA) se está convirtiendo cada vez más en parte de nuestras vidas y transformando las formas en que vivimos y trabajamos. En la actualidad ocupa un lugar destacado en Microsoft 365 gracias a Copilot, que trabaja junto a usted para dar rienda suelta a la creatividad y transformar el trabajo. 
+
+ Definido de forma sencilla, la IA es la simulación de la inteligencia humana en máquinas, especialmente ordenadores. La IA puede realizar tareas que normalmente requieren inteligencia humana, como percepción visual, reconocimiento de voz, toma de decisiones y traducción lingüística.   Estos son algunos términos que puede escuchar en las conversaciones sobre IA: 
+La IA basada en reglas funciona en función de un conjunto de reglas y lógica predefinidas. Este tipo de IA es útil para resolver ecuaciones matemáticas o producir instrucciones lógicas. También se puede usar para analizar grandes conjuntos de datos de movimiento rápido para detectar patrones e identificar cosas como posibles fraudes. 
+El aprendizaje automático implica el aprendizaje de un sistema informático para reconocer patrones en los datos. La imagen y el reconocimiento de voz son ejemplos de aprendizaje automático. 
+El aprendizaje profundo es una técnica de aprendizaje automático en la que se usan capas de redes neuronales para procesar datos y tomar decisiones. Un sistema de aprendizaje profundo analiza enormes cantidades de datos y aprende detectando patrones. La IA de aprendizaje profundo se usa para tareas como el reconocimiento de imagen y voz, el procesamiento del lenguaje natural y para realizar predicciones sobre el futuro en función de los datos. Es una parte clave de la tecnología que se usa en los coches autónomos. 
+El procesamiento de lenguaje natural (NLP) permite a los equipos comprender e interpretar el lenguaje humano. Este tipo de IA es una de los más comunes, ya que se usa en bots de chat, asistentes virtuales y software de traducción lingüística. NLP es lo que usa al interactuar con Copilot mediante instrucciones sencillas en inglés. 
+Generative es otra forma de IA que se está volviendo más popular, y cuenta en gran medida en cómo Copilot hace lo que hace. Crea un nuevo contenido escrito, visual y auditivo a partir de datos o entradas existentes que añaden los seres humanos. ChatGPT de OpenAI es una IA generativa, de hecho eso es lo que significa la "G" en su nombre. Durante los próximos meses, observará que se integran nuevas características de IA en Microsoft 365 para ayudarle en el trabajo y en el hogar. Nuestras nuevas características con tecnología de IA pueden ayudarle a hacer las cosas que haces normalmente de forma más rápida y creativa.   
+
+ Ya puedes encontrar IA en nuestros productos y servicios. ¿Quiere crear un arte único? Prueba el Diseñador de Microsoft. Con el Diseñador, puede crear imágenes generadas por IA simplemente usando un mensaje simple en inglés. Obtenga más información sobre el Diseñador y DALL-E.  Para obtener una experiencia de búsqueda mejorada, use el nuevo explorador Bing y Edge con tecnología de IA. No solo verá resultados de búsqueda mejorados, sino que también podrá crear contenido con la nueva experiencia de chat de Bing, con tecnología de IA.  Tanto si está redactando un informe, un correo electrónico o una publicación en LinkedIn, escriba con confianza al usar el Editor Microsoft en Word. Este asistente de escritura con tecnología de IA le ayuda con la ortografía y la gramática, la claridad y la legibilidad.   
+            Copilot en Word, PowerPoint, Excel,OneNote y Outlook le ayudarán a ser más productivo, a empezar sus documentos y presentaciones más rápidamente y a obtener rápidamente información de sus datos o correos electrónicos. Para obtener más información, consulta Microsoft Copilot, tu Complemento de IA diario. Esperamos ver más integración de IA próximamente en sus aplicaciones de Microsoft 365, para ayudarle a crear mejor contenido, más rápido.   Sugerencia: Descubra las novedades de las aplicaciones de Microsoft 365 y la IA en nuestro blog.  Al igual que todas las tecnologías transformadoras, hay tareas para las que la IA no es adecuada, por lo que es importante ser consciente de los posibles inconvenientes.    El contenido y los resultados producidos por IA pueden contener imprecisiones, sesgos o materiales confidenciales porque fueron entrenados con información de Internet, así como en otras fuentes. Es posible que la IA aún no conozca los acontecimientos recientes y tenga dificultades para entender e interpretar el sarcasmo, la ironía o el humor. Recuerde que no es una persona. Es importante que revise cualquier contenido que la IA genere para asegurarse de que haya producido con precisión lo que quería. Puede ayudarnos a mejorar nuestras funciones con tecnología de IA experimentando con ellas y enviándonos sus comentarios. Estamos dedicados a usar la IA de forma responsable y a ayudarle a hacer lo mismo. Nuestro compromiso con la IA responsable está guiado por un conjunto fundamental de principios, como la confiabilidad y seguridad, la privacidad y la seguridad, la inclusión, la transparencia y la responsabilidad.   Copilot y Microsoft 365 se basan en el enfoque completo de Microsoft para la seguridad, el cumplimiento y la privacidad. Para obtener más información acerca de la privacidad, consulte la siguiente información: Si usa Microsoft 365 Copilot de su organización (con su cuenta profesional o educativa), consulte Datos, privacidad y seguridad para Microsoft 365 Copilot. Si usa Copilot en aplicaciones de Microsoft 365 para el hogar como parte de Copilot Pro (con su cuenta personal de Microsoft), consulte Copilot en aplicaciones de Microsoft 365 para el hogar: sus datos y privacidad. Microsoft mantiene una trayectoria sobre IA responsable desde 2017, cuando definimos nuestros principios y enfoque para garantizar que esta tecnología se usara de una manera controlada por principios éticos que sitúan a las personas en primer lugar. Más información sobre nuestro viaje de IA responsable, los principios éticos que nos guían y las herramientas y capacidades que hemos creado para garantizar que desarrollamos la tecnología de IA de forma responsable. Para obtener más información, consulte El compromiso de Microsoft con una IA responsable. Nota: Este artículo fue escrito por una persona, con la asistencia de una IA. Explore las ventajas de las suscripciones, examine los cursos de aprendizaje, aprenda a proteger su dispositivo y mucho más. 
+
+ 
+Ventajas de la suscripción a Microsoft 365
+ 
+
+ 
+Aprendizaje de Microsoft 365
+ 
+
+ 
+Seguridad de Microsoft
+ 
+
+ 
+Centro de accesibilidad
+ 
+                Las comunidades le ayudan a formular y responder preguntas, enviar comentarios y leer a expertos con conocimientos extensos.
+             
+
+ 
+Pregunte en Microsoft Community
+ 
+
+ 
+Microsoft Tech Community
+ 
+
+ 
+Windows Insiders
+ 
+
+ 
+Microsoft 365 Insiders

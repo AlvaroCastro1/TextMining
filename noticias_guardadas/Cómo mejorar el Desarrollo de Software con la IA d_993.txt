@@ -1,0 +1,295 @@
+Título: Cómo mejorar el Desarrollo de Software con la IA de Copilot
+URL: https://www.entelgy.com/actualidad-entelgy/articulos/como-mejorar-el-desarrollo-de-software-con-la-ia-de-copilot
+Número de palabras: 1795
+
+ Contacto ¡Por favor, rellene todos los campos obligatorios!
+
+
+
+
+
+
+
+Entrada no válida
+
+
+
+
+
+Entrada no válida
+
+
+
+
+
+Entrada no válida
+
+
+
+
+
+
+
+
+
+La recogida y tratamiento automatizado de los datos personales tiene como finalidad exclusiva la gestión, prestación, ampliación y mejora de los servicios solicitados en cada momento por el usuario y el seguimiento de consultas planteadas por los usuarios. Para más información consulte nuestra Política de Privacidad.
+
+
+¿Acepta que sus datos sean tratados para recibir información y comunicaciones comerciales por parte Entelgy ? *(*)
+
+Sí, acepto
+Entrada no válida
+
+
+
+
+
+Entrada no válida
+
+
+
+
+Enviar
+
+
+
+
+
+ ¡Por favor, rellene todos los campos obligatorios! La recogida y tratamiento automatizado de los datos personales tiene como finalidad exclusiva la gestión, prestación, ampliación y mejora de los servicios solicitados en cada momento por el usuario y el seguimiento de consultas planteadas por los usuarios. Para más información consulte nuestra Política de Privacidad.  Te contamos cómo aprovechar la IA Generativa aplicada a código usando Github Copilot como estrategia para aumentar la productividad de los equipos de programación. Por Jorge Herrero, Head of Technology & AI  GitHub Copilot es una herramienta basada en Inteligencia Artificial que integrada en el IDE de Desarrollo, asiste, ayuda y aumenta las capacidades de programación mediante un sistema de sugerencias inteligentes que automatizan las tareas de codificación y organización del código, ayudando a ser más productivos. Esta Inteligencia Artificial se basa en modelos de aprendizaje automático de Machine Learning sobre Chat GPT4 pero entrenado para dar una respuesta especialista basada en programación, apoyados en el análisis de enormes volúmenes de información de los repositorios de código de Github, recuperando de este origen los fragmentos y construyendo las secuencias de código integradas en nuestra programación y que haciendo un uso correcto, enfocado y con sentido crítico por parte de los perfiles de programación entrenados en su utilización, conseguiremos grandes ventajas que rápidamente aumentarán la velocidad de codificación y la calidad del entregable reduciendo los errores de programación. Para alcanzar el máximo aprovechamiento es necesario entender que el uso debe hacerse desde un criterio guiado por la experiencia suficiente para discriminar y ser crítico, para detectar realmente la adecuación y conveniencia de esta sugerencia de código y que sea realmente válida y aplique. Su uso por parte de profesionales más juniors o con menor experiencia, posiblemente sea un acelerador de la entrega, pero no una garantía de la calidad. Copilot puede ayudarnos con la generación y validación de código en diferentes lenguajes, donde atendiendo a las siguientes recomendaciones y prácticas, podremos aprovecharlo para tener esos beneficios: Contacta con nuestro experto y descubre el potencial de la IA Generativa en el desarrollo
+
+
+
+
+Jorge Herrero
+Head of Technology & AI
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+
+
+
+Entrada no válida
+
+
+
+
+
+Enviar
+
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+
+
+ 
+
+
+
+
+Jorge Herrero
+Head of Technology & AI
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+
+
+
+Entrada no válida
+
+
+
+
+
+Enviar
+
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+
+
+ Jorge Herrero Head of Technology & AI Lo primero que podemos observar, es que tras su instalación que se resuelve con la configuración de un plugin sobre el IDE, es que de inmediato obtenemos un nivel de asistencia en la escritura de manera contextual a nuestro código de manera similar al que ya obtenemos con otros plugins de autocompletado. Sin embargo, el nivel de asistencia se encuentra aumentado, no sólo asistiendo a la propia sintaxis y tabulado para la presentación y ordenado del código en pantalla, sino que completa bloques, adelantando y sugiriendo también secuencias de código completos.Su uso va a requerir cierta adaptación para conseguir un aprovechamiento completo, ya que marca o propone cierto ajuste del código y formato de escritura diferente al que probablemente sea el que personalmente cada programador esté acostumbrado a utilizar de manera más personal. Al principio puede resultar algo raro, es como una sensación de hablar y escucharse a sí mismo o escuchar a otro contando a la vez lo que va a suceder varios minutos después. Nos hace desviar la vista para leer los fragmentos que está añadiendo en tiempo real y requiere de adquirir cierto entrenamiento para confiar y validar esas secuencias para que queden integradas en nuestra programación y validemos esos bloques, acelerando así su escritura. El otro gran bloque de funcionalidad que aporta, es la escritura automática de bloques reutilizables, la entrega e integración de unidades completas de código totalmente operativo. Para lograr una adecuada respuesta, es necesario aprender a construir correctamente los prompts, a formular de manera óptima la descripción de la petición solicitada al chatAquí ciertamente llama mucho la atención y genera gran entusiasmo inicial ver la aparente inteligencia que aporta la respuesta a una solicitud funcional simple y la entrega de código compatible con esa necesidad, pero también hay ciertos criterios que condicionan esta ventaja y que deberemos gestionar para conseguir unos buenos resultados.Por un lado aporta secuencias programadas, que compilan y funcionan directamente, pero también identifica librerías de código y recursos que importar y configurar dentro del proyecto de manera automática, lo que siempre acelera mucho, resuelve instantáneamente algo que normalmente lleva algo de rato y requiere experiencia.Sabemos que esta generación de código la está realizado en base a la indexación y aprendizaje que hace de contenidos que existen ya en Github, recursos que de manera manual también podemos encontrar y siempre hemos venido usando como fuente de información los equipos de desarrollo, pero en este caso la incorpora de manera instantánea y con acierto. Precisamente de esa inclusión surge un primer riesgo y es el de que la coincidencia de uso la hace con respecto al ejemplo que encuentra y en algunos casos esta corresponde con sintaxis de código deprecado o librerías obsoletas y discontinuadas.Gestionando el anterior problema, en caso de que el programador tenga la habilidad avanzada de identificarlo, también es posible solicitarle que busque y actualice un código ya escrito adaptado a una versión de librerías más actuales, o pedirle que lo haga de otro modo.Lo que más llama la atención, no es la incorporación de ejemplos de uso, sino la capacidad que tiene para adaptar el ejemplo para construir una unidad de negocio completamente válida desde el punto de vista funcional y adaptada a la programación y caso de uso concreto que se le pide. Para lograrlo, requiere de entrenamiento del programador en la construcción de estas peticiones para que entreguen el contenido adaptado al esperado mediante peticiones consecutivas que afinen la respuesta.Esto no es infinito, al contrario, es incluso algo limitado y debemos saber que termina reutilizando y entregando contenidos y respuestas repetidas aun reformulando la condición.Por todo ello, y buscando la calidad del entregable, es recomendable para evitar riesgos que puedan luego tener consecuencias graves o difíciles de reprogramar cuando se integren con otras partes de las aplicaciones, aplicar cierto sentido crítico en el gobierno del desarrollo por parte de alguien con experiencia y criterio, para tomar las decisiones de uso y de integración final del código generado automáticamente, para su uso dentro de nuestro desarrollo. Copilot también nos puede ayudar a la ordenación y adaptación de nuestro código en base al uso de patrones de diseño buscando una comprensión mucho más efectiva de esas secuencias de código, haciendo que sea más mantenible al ser más fácil de interpretar.Podemos pedirle que realice esa gestión por nosotros y con ello nos liberarnos de esa tediosa reprogramación y ganar tiempo, pero sólo podremos tener seguridad de que la actividad entregada es la adecuada, desde el conocimiento operativo del programador de que las estructuras y la gestión que se realiza sobre ellas responden a lo que realmente él conoce y busca obtener, no elimina ni podemos esperar que sea confiable sin esa supervisión. Esta actividad es de altísimo valor en las actividades de programación y de mantenimiento, dado que permite gestionar grandes bloques de código pidiéndole que analice y encuentre no sólo mejoras y optimizaciones, sino que encuentre inconsistencias o redundancias de código proponiéndonos soluciones a los problemas encontrados o mejoras de eficiencia, incluso la eliminación de secuencias obsoletas o heredadas que ya no aplican y que nunca se ejecutan.Un caso particular de altísimo valor es la recomendación de aprovechar la capacidad que tiene para trabajar con la generación de algoritmos, donde podemos proponerle que valore la idoneidad de la atención de las condiciones y flujos programados y nos entregue una versión mucho más optimizada, de especial interés para bucles anidados, control de condiciones de salidas en iteraciones o en anidamiento de llamadas de funciones, donde nos va a sugerir algoritmos mucho más eficientes y rápidos de ejecución.Finalmente, podemos utilizar esta estrategia para ayudar a entender de manera más clara el código, de modo que nos ayude en su documentación, en el análisis y descubrimiento del comportamiento de secuencias complejas, que probablemente ni siquiera hayan sido programadas por nosotros y nos resulten difíciles de entender, donde podemos pedirle que nos evidencie, explique y documente la ejecución de cada línea o proceso que realiza el código para facilitarnos su interpretación y mantenimiento.  Usando esta IA podremos ahorrar mucho tiempo, ya que proponemos usarla para construir por nosotros las consultas a los modelos de datos, donde Copilot puede ayudar a generar el código de la consulta proporcionando sugerencias para filtros, uniones, agregaciones… etc.Podemos utilizarlo para construcción automática de toda la capa de operación de datos, implementando las clases wrappers de objetos, DAOs o mapeo de entidades, así como los interfaces de los beans, junto con la generación del API de servicios con los métodos y funciones básicas para las operaciones de lectura, escritura, transformación y actualización de datos.Obviamente, recomendamos aprovechar también apoyarnos en la IA para la creación asistida de las clases que generan nuestro pool, gestionando las conexiones con diferentes fuentes u orígenes de datos o motores de persistencia. Es posible delegar en Copilot la creación del conjunto de casos de pruebas unitarias de nuestro código que se utilicen para asegurar la validez y mantengan la integridad de todos los fragmentos de código y funciones de nuestro desarrollo, probados de manera continua.También podemos pedirle que nos genere catálogos de datos con los que alimentar funcionalmente las pruebas más avanzadas. 
+
+Contacta con nuestro experto y descubre el potencial de la IA Generativa en el desarrollo
+
+
+
+
+Jorge Herrero
+Head of Technology & AI
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+
+
+
+Entrada no válida
+
+
+
+
+
+Enviar
+
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+
+
+ Contacta con nuestro experto y descubre el potencial de la IA Generativa en el desarrollo
+
+
+
+
+Jorge Herrero
+Head of Technology & AI
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+
+
+
+Entrada no válida
+
+
+
+
+
+Enviar
+
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+
+
+ 
+
+
+
+
+Jorge Herrero
+Head of Technology & AI
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+
+
+
+Entrada no válida
+
+
+
+
+
+Enviar
+
+
+
+
+(*)
+
+
+Entrada no válida
+
+
+
+
+
+ Jorge Herrero Head of Technology & AI Suscríbete a nuestras noticias ¡Por favor, rellene todos los campos obligatorios! Acepta la política de privacidad 
