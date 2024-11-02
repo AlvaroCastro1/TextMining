@@ -1,0 +1,64 @@
+Título: Monica - AI Copilot impulsado por ChatGPT-4 - Chrome Web Store
+URL: https://chromewebstore.google.com/detail/monica-ai-copilot-impulsa/ofpnmcalabcbjgholdjcjblkibolbppb?hl=es
+Número de palabras: 1156
+
+17,6 mil valoraciones Tu asistente de inteligencia artificial GPT-4. Capaz de responder cualquier pregunta compleja. También puede ayudarte a escribir… 🔥 Monica es tu asistente de IA GPT-4 todo-en-uno.
+Presiona Cmd/Ctrl + M, y estarás listo.
+Ofrecemos asistencia en diversas tareas, incluyendo búsqueda, lectura, escritura, traducción, dibujo, y más.
+
+💪Las Funciones Clave:
+👉Chatea con la IA
+  ✔️Chatbots Múltiples: chatea con varios modelos LLM como GPT-3.5, GPT-4, Bard y Claude en un solo lugar.
+  ✔️Biblioteca de Prompts: accede rápidamente a muchos prompts guardados con '/' en una base de prompts.
+  ✔️Tiempo Real: obtén información de internet en tiempo real actual.
+  ✔️Soporte de Voz: usa el botón del micrófono para chatear sin la necesidad de escribir.
+
+👉Chat y Resumen
+  ✔️ChatPDF: sube y chatea con un PDF para entender mejor el contenido.
+  ✔️Chatear con Imagen: sube una imagen y haz preguntas con el soporte de GPT-4V.
+  ✔️Resumen de Páginas Web: obtén resúmenes sin necesidad de leer páginas enteras.
+  ✔️Resumen de YouTube: obtén resúmenes sin necesidad de ver vídeos completos.
+
+👉Buscar
+  ✔️Agente de Búsqueda: realiza una pregunta y buscaremos, revisaremos y encontraremos la respuesta usando múltiples palabras clave.
+  ✔️Potenciar Búsqueda: carga respuestas de ChatGPT junto a motores de búsqueda como Google y New Bing.
+
+👉Escribir
+  ✔️Componer: utiliza 'compose' para escritura rápida y a medida de ensayos o informes, con control sobre tamaño, estilo y tono.
+  ✔️Agente de Escritura: proporciona un tema y elaboraremos automáticamente esquemas con contenido extendido y referencias.
+  ✔️Respuesta de correo electrónico: en Gmail, sugerimos opciones de respuesta basadas en el contenido del correo electrónico, permitiendo respuestas con solo clics sin necesidad de escribir.
+
+👉Traducción
+  ✔️Traducción de PDF: traduce un PDF y compáralo con el texto original a la izquierda y la traducción a la derecha.
+  ✔️Traducción Paralela: traduce páginas sin ocultar el texto original para una comparación de idiomas lado a lado y respuestas precisas.
+  ✔️Traducción de texto: traduce instantáneamente el texto seleccionado en páginas web.
+
+👉Creación de Arte
+  ✔️Convierte tus palabras en visuales. Solo ingresa un texto breve y podrás convertirte en un pintor.
+
+👉 Memo de IA
+  ✔️Memo es una base de conocimiento de IA donde puedes guardar páginas web, chats, imágenes y PDFs. Chatea con Memo para acceder a la información y, a medida que crece, podemos ofrecerte respuestas más personalizadas y precisas.
+
+💻 Cómo usar:
+🔸Haz clic en el botón "Añadir a Chrome" y fíjalo en la barra de herramientas.
+🔸Inicia sesión en tu cuenta.
+🔸Presiona Cmd/Ctrl+M para activar Monica.
+🔸¡Empieza a trabajar con la IA!
+
+❓ Preguntas Frecuentes:
+
+📌 ¿Qué motores de búsqueda son compatibles?
+- Actualmente, damos soporte a Google, Bing y otros motores de búsqueda, y se agregarán más en el futuro.
+
+📌 ¿Necesito una cuenta de ChatGPT/OpenAI?
+- No, no necesitas tener una cuenta de ChatGPT para usar esta extensión. Puedes crear una cuenta gratuita.
+
+📌 ChatGPT está prohibido en mi país. ¿Funciona en mi país?
+- Sí. Nuestra extensión para Chrome funciona en todos los países.
+
+📌¿Es gratuito su uso?
+- Sí, ofrecemos un uso limitado de forma gratuita. Para acceso ilimitado, puede optar por el Plan Premium.
+
+📪 Contáctanos:
+¿Alguna pregunta o sugerencia? Por favor, contáctenos en 💌 contact@monica.im.
+¡Pruébalo ahora y experimenta las potentes funciones de los asistentes de IA impulsados por ChatGPT! Google no verifica las reseñas. Obtén más información sobre los resultados y las reseñas. es una herramienta espectacular la recomiendo totalmente, respuestas muy satisfactorias,  un exelente trabajo Esta herramienta me salvo la vida en la escuela y afuera me lo recomendaron hace una o dos semanas y me explica mejor que chat GPT y otras apps me traduce fotos de otro idioma, me hace presentaciones y mapas mentales, se los recomiendo mucho y espero que se lo descarguen, solo les advierto que solo puedes preguntarle 40 cosas al día si no pagas ,pero aparte de eso ,esta muy bueno. Buenas, trabajo para una compañía de "MARKETING DIGITAL" en el área de email marketing, vengo utilizando GPT, GEMINI Y CLAUDE; pero hace mas o menos una semana me pasaron "MÓNICA" y déjeme decirles que es muy buena, muy completa, te de muchas opciones. Resúmenes, preguntas, solicitudes, enlaces; es muy buena, se recomienda y con la extensión te da un sin fin de posibilidades. Monica - AI Copilot impulsado por ChatGPT-4 ha revelado la siguiente información sobre la recogida y el uso de tus datos. Puedes consultar más detalles en la política de privacidad del desarrollador. WebChatGPT: ChatGPT con acceso a internet Mejora tus indicaciones de ChatGPT con resultados relevantes de búsqueda web a través de navegación web. Monica Búsqueda: Nueva pestaña Búsqueda IA ¡Disfruta de acceso ilimitado y gratuito a ChatGPT para vivir una experiencia de búsqueda incomparable! TinaMind - ¡Asistente de IA impulsado por GPT-4o! Tu asistente de IA impulsado por GPT-4o. Chatear, búsquedas en internet, traducciones, redacción, resúmenes y más. Kimi 浏览器助手 来自 Kimi 官方的浏览器助手，划线解答疑问，丝滑截图探索，快速摘要长文，文档提供灵感，统统找 Kimi。 SearchGPT - ChatGPT for Chrome Muestre la respuesta de OpenAI ChatGPT a los resultados del motor de búsqueda y aumente las indicaciones de ChatGPT. Chat GPT en la… ChatGPT for Google Mostrar la respuesta de ChatGPT junto con los resultados del motor de búsqueda Sider: ChatGPT Barra lateral + GPT-4o, Claude 3.5, Gemini & Herramientas IA ChatGPT Barra lateral: Mejora flujos con GPT-4o, Claude3.5, Gemini 1.5 para búsqueda y escritura AI. Buscar GPT para Chrome Obtén respuestas de ChatGPT en cualquier sitio web. Las respuestas de IA funcionan en Google, Gmail y más de 10 millones de sitios… OpenAI Translator OpenAI-Translator is a browser extension that uses the ChatGPT API for translation. Remail - Your AI Assitant Everywhere Achieve Better AI Answers 73% more often with Multiple Chatbots MaxAI.me: IA de 1 clic impulsada por GPT-4o, Claude 3, Gemini 1.5 Use 1-click AI anywhere, powered by ChatGPT, Claude 3, Gemini 1.5, GPT-4o. The only generative AI extension you need. ChitChat - Buscar con ChatGPT Muestra las respuestas de ChatGPT con los resultados de búsqueda. Funciona en Google, Bing, etc. Soporta GPT-4 y la función de… WebChatGPT: ChatGPT con acceso a internet Mejora tus indicaciones de ChatGPT con resultados relevantes de búsqueda web a través de navegación web. Monica Búsqueda: Nueva pestaña Búsqueda IA ¡Disfruta de acceso ilimitado y gratuito a ChatGPT para vivir una experiencia de búsqueda incomparable! TinaMind - ¡Asistente de IA impulsado por GPT-4o! Tu asistente de IA impulsado por GPT-4o. Chatear, búsquedas en internet, traducciones, redacción, resúmenes y más. Kimi 浏览器助手 来自 Kimi 官方的浏览器助手，划线解答疑问，丝滑截图探索，快速摘要长文，文档提供灵感，统统找 Kimi。 SearchGPT - ChatGPT for Chrome Muestre la respuesta de OpenAI ChatGPT a los resultados del motor de búsqueda y aumente las indicaciones de ChatGPT. Chat GPT en la… ChatGPT for Google Mostrar la respuesta de ChatGPT junto con los resultados del motor de búsqueda Sider: ChatGPT Barra lateral + GPT-4o, Claude 3.5, Gemini & Herramientas IA ChatGPT Barra lateral: Mejora flujos con GPT-4o, Claude3.5, Gemini 1.5 para búsqueda y escritura AI. Buscar GPT para Chrome Obtén respuestas de ChatGPT en cualquier sitio web. Las respuestas de IA funcionan en Google, Gmail y más de 10 millones de sitios…

@@ -1,0 +1,74 @@
+Título: Diplomado en Big Data y Machine Learning
+URL: https://educacionprofesional.ing.uc.cl/?diplomado=diplomado-en-big-data-y-machine-learning-online
+Número de palabras: 1099
+
+Aprende usar en forma efectiva el lenguaje Python en el contexto de Ciencia de Datos y Machine Learning   Diseña y construye visualizaciones que ayuden a comprender y a comunicar información desde los datos.  Metodología online con metodologías activas, donde el participante puede interactuar con sus pares y profesor-tutor, a través de los recursos tecnológicos que provee la plataforma virtual. 26 de noviembre Online asincrónico 300 horas totales (140 horas directas y 160 horas indirectas) $2.190.000 en Chile / USD 2.433 resto del mundo ¡Consulta por descuento! Tutor de apoyo permanente 4 clases sincrónicas Cuestionarios de selección múltiple Proyectos aplicados Material multimedia de apoyo El Diplomado en Big Data y Machine Learning proporciona los conocimientos para entender las técnicas y algoritmos de aprendizaje automático en el contexto de grandes volúmenes de datos. A través de sus cuatro cursos, el programa cubre la mayoría de las competencias requeridas para trabajar en esta área fascinante. En uno de los cursos, aprenderás técnicas y herramientas para el manejo de Big Data (Hadoop, Spark, etc.). Otro curso te brindará las competencias para utilizar el lenguaje Python en el contexto del machine learning. Un tercer curso está enfocado íntegramente en la importante área de la visualización de información. Finalmente, el curso de aplicaciones ofrece una perspectiva sobre las aplicaciones más comunes y prometedoras para estas técnicas y herramientas. El diplomado se estructura en cuatro cursos que emplean técnicas metodológicas activas. Gracias a estas técnicas, los participantes pueden interactuar con sus pares y el profesor-tutor a través de los recursos tecnológicos que ofrece la plataforma educativa virtual. Al final del curso podrás:
+– Identificar la problemática y particularidades del manejo de grandes volúmenes de dato en diferentes contextos.
+– Distinguir los principios, bases técnicas y herramientas del ecosistema Hadoop.
+– Utilizar las herramientas del ecosistema Hadoop para el manejo de volúmenes gigantescos de datos.
+– Reconocer el esquema de trabajo Apache Spark para el procesamiento de datos de propósito general.
+– Utilizar las principales herramientas del framework Spark para análisis de datos y aplicación de técnicas de Machine Learning.
+– Aplicar herramientas de visualización que faciliten la interpretación de resultados. Contenidos:
+Ecosistema Hadoop
+– Introducción a Big Data.
+– Instalación de herramientas Hadoop. Herramientas de Ecosistema Hadoop
+– Hadoop MapReduce.
+– Apache Hive.
+– Apache Pig. Apache Spark
+– Programación en Apache Spark. Data Analytics con Apache Spark
+– Apache Flume.
+– Spark Streaming.
+– Spark SQL. Machine Learning con Apache Spark
+– Spark MLLIB: Algoritmos supervisados y no supervisados. Técnicas de visualización
+– Reducción de dimensionalidad. Al final del curso podrás:
+– Comprender aspectos formales de modelos de aprendizaje supervisado tradicionales, experimentando y comparando su rendimiento.
+– Visualizar diferentes tipos de variables en una base de datos utilizando librerías de Python.
+– Emplear modelos de redes neuronales artificiales básicas.
+– Diseñar modelos de aprendizaje supervisado basados en regresiones.
+– Implementar modelos de aprendizaje no supervisado a través de librerías de Python. Contenidos:
+Introducción al aprendizaje de máquinas con Python
+– Introducción al aprendizaje de máquina. Tipos de problemas en aprendizaje de máquina. Preprocesamiento de datos con Python
+– Introducción a librerías del ecosistema de Data Science. Tipos de variables. Análisis descriptivo de variables. Transformación y visualización de variables. Imputación de datos. Regresiones
+– Aprendizaje supervisado. Regresión lineal. Regresiones polinomiales. Regresión con penalización. Regresión logística. Aprendizaje supervisado
+– Naive Bayes. Evaluación de clasificadores. Árboles de decisión. Random Forest y Random Forest para regresión. Redes neuronales
+– Introducción a las redes neuronales artificiales. Tecnologías para desarrollo de redes neuronales artificiales. Redes neuronales artificiales. Aprendizaje no supervisado
+– Aprendizaje no supervisado. K-Means. Cluster jerárquico. Evaluación de clusters. Reducción de dimensionalidad. Al final del curso podrás:
+– Evaluar visualizaciones de información existentes y proponer mejoras en ellas.
+– Implementar en lenguaje Python gráficos simples y avanzados usando diversos tipos de datasets.
+– Diseñar nuevas visualizaciones mediante la identificación de las relaciones entre tipos de datos, las tareas de visualización y los tipos de gráficos. Contenidos:
+– Ejemplos históricos de visualización de datos.
+– Conceptos fundamentales de visualización de información.
+– Funciones básicas de matplotlib y seaborn.
+– Modelo anidado de Munzner para diseño y validación de visualización.
+– Reglas y recomendaciones generales para visualizaciones efectivas.
+– Diseño e implementación de gráficos simples para datos tabulares usando modelo anidado.
+– Diseño e implementación de gráficos avanzados para datos tabulares usando modelo anidado.
+– Reducción de dimensionalidad.
+– Diseño e implementación de gráficos avanzados para datos de red usando modelo anidado.
+– Visualización básica de datos de texto y datos espaciales. Al final del curso podrás:
+– Identificar los principales conceptos y técnicas asociados a Machine Learning y ciencia de datos
+– Reconocer la importancia y los principales desafíos de los datos
+– Asociar las diversas técnicas con oportunidades de aplicación en los negocios
+– Examinar las dificultades y oportunidades en la aplicación de técnicas de ciencia de datos y aprendizaje de máquina Contenidos:
+Introducción al aprendizaje de máquinas y ciencia de datos
+– Conceptos de inteligencia de negocios y minería de datos, y de ciencia de datos y aprendizaje de máquina.
+– El auge actual del aprendizaje de máquina e inteligencia artificial. Tipos de datos y aplicaciones
+– Aplicaciones sobre: transacciones estructuradas, texto, audio y video. Técnicas de ciencia de datos y aprendizaje de máquina
+– Visualización en ciencia de datos. Aprendizaje: supervisado, no supervisado y reforzado. Aplicaciones en los negocios
+– Aplicaciones de visualización en ciencia de datos. Aplicaciones de aprendizaje: supervisado, no supervisado y aprendizaje reforzado. Casos de ciencia de datos
+– Casos: en compañía de seguros, banca, retail y calidad del aire. Casos de aprendizaje de máquina
+– Caso en: transporte público, compras públicas, industria financiera y observación astronómica. 
+                    Profesor Asociado del Departamento de Ciencia de la Computación UC                 
+                    Profesor y especialista en Inteligencia y Análisis de Negocios. Cofundador de Metric Arts                 
+                    Magíster en Ciencias de la Ingeniería, PUC. Ingeniero Civil PUC.                 
+                    Profesor Instructor, Depto. de Ciencia de la Computación, Ingeniería UC                 
+                    Profesor Asociado del Departamento de Ciencia de la Computación UC                 
+                    Profesor Asistente, Depto. de Ciencia de la Computación, Ingeniería UC                 
+                    Head of Advanced Analytics en BRAVE UP!                 
+                    Profesor Instructor. Departamento de Ciencia de la Computación. Escuela de Ingeniería UC                 
+                    Profesor Instructor, Depto. de Ciencia de la Computación, Ingeniería UC                 
+                                Al momento de inscribirme autorizo a la Escuela de Ingeniería UC
+                                para mantener y tratar mis datos personales, todo
+                                conforme a la Ley Nº19.628, “Sobre Protección de la Vida Privada”.
+                             Pago disponible con tarjetas de crédito de Chile hasta en 12 cuotas precio sin interés Descuentos para diplomados (excepto online a tu ritmo y articulados con Magíster): 
+                                Avda. Vicuña Mackenna 4860, Macul - Santiago - Chile                            

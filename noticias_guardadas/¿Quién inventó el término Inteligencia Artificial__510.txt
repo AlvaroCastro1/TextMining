@@ -1,0 +1,32 @@
+Título: ¿Quién inventó el término Inteligencia Artificial?
+URL: https://www.muyinteresante.com.mx/preguntas-y-respuestas/38105.html
+Número de palabras: 519
+
+
+
+									Publicado por								
+
+									Rodrigo Ayala								
+ 
+									Periodista especializado en temas de historia y ciencia.								 
+
+¿Podremos llegar a la Luna a través de un elevador espacial?
+
+ ¿Podremos llegar a la Luna a través de un elevador espacial? Fue en el año 1956 cuando se usó por vez primera el término inteligencia artificial, la cual parece haberse puesto de moda en los últimos meses gracias a herramientas como el ChatGPT y afirmaciones del robot Ameca sobre ella. Pero ¿quién inventó el término Inteligencia Artificial?
+ John McCarthy, en un taller en el Dartmouth College (financiada por el Instituto Rockefeller), empleó el término para referirse a una tecnología que podría llegar a pensar por sí sola.
+ McCarthy también inventó Lisp, el lenguaje de programación de referencia utilizado en robótica y diversas aplicaciones científicas. También creó varios servicios que se siguen usando actualmente en Internet que van desde la detección de fraudes con tarjetas de crédito hasta los horarios de vuelos.
+ El día de su conferencia-taller, McCarthy estaba acompañado de Marvin Minsky, Nat Rochester y Claude Shannon. Son considerados los padres de la IA. Este grupo de expertos desarrolló la lógica teórica, considerada como el primer programa de inteligencia artificial y usada para resolver problemas de búsqueda heurística.
+ Un programa de inteligencia artificial está reconstruyendo la biografía de Alejandro Magno, perdida hace 2,000 años
+ Por su parte, Marvin Minsky decía lo siguiente respecto al proceso de cómo trabaja una inteligencia artificial:
+ “Actualmente, las máquinas resuelven problemas de acuerdo con los principios que hemos establecidos en ellas. Dentro de poco quizá aprendamos a ponerlas a trabajar en problemas específicos de mejorar su capacidad de resolver problemas. Una vez traspasado cierto umbral, esto nos llevaría a una espiral de aceleración y sería difícil perfeccionar un regulador fiable para refrenarlo”.
+ John McCarthy creó un laboratorio de IA en la Universidad de Stanford, donde trabajó en versiones preliminares de un coche autoconducido. Publicó artículos sobre la conciencia y el libre albedrío de los robots y trabajó para que los programas comprendieran o reprodujeran con mayor precisión la toma de decisiones humana de sentido común.
+ Uno de los principales inventos de John McCarthy fue un prototipo de computación en tiempo compartido o en red, que permitía a muchas personas enviar datos conectándose al ordenador central.
+ ¿Podremos llegar a la Luna a través de un elevador espacial?
+ En 1960 McCarthy afirmó que la computación podría organizarse algún día como un servicio público, y así nació el concepto de la nube (¿te suena de algo?).
+ El padre de la IA captó la atención del mundo en 1966, cuando organizó una serie de cuatro partidas de ajedrez por ordenador sincronizadas por telégrafo contra la competencia en Rusia. Las partidas se prolongaron durante varios meses y el resultado fue de dos derrotas para la IA y dos empates.
+ También te puede interesar:
+ Por qué es peligroso pensar que la inteligencia artificial sólo son robots
+ Una inteligencia artificial creó una estatua que combina lo mejor de cinco artistas
+ Un experto en tecnología afirma que la inteligencia artificial nos matará a todos
+ Crean una inteligencia artificial capaz de generar imágenes a partir de tus pensamientos
+ Recomendamos en

@@ -1,0 +1,57 @@
+Título: Plataformas de redes sociales usan tus creaciones para la inteligencia artificial. ¿Cómo evitarlo? | CNN
+URL: https://cnnespanol.cnn.com/2024/09/23/inteligencia-artificial-datos-redes-sociales-trax
+Número de palabras: 1500
+
+
+(CNN) – OpenAI afirmó que crear ChatGPT habría sido imposible sin el uso de obras con derechos de autor. LinkedIn está utilizando currículums de usuarios para pulir su modelo de inteligencia artificial. Y Snapchat dice que si usas cierta función de inteligencia artificial, podría poner tu cara en un anuncio.
+     
+            En estos días, las publicaciones de las redes sociales de las personas - no solo lo que escriben, incluso sus imágenes - están siendo usadas cada vez más por las empresas para sus sistemas de IA, se den cuenta o no.
+     
+            Para las empresas que ejecutan modelos de inteligencia artificial, las plataformas de redes sociales ofrecen datos valiosos. Lo que está escrito allí es conversacional, algo que los chatbots de inteligencia artificial se esfuerzan constantemente por ser. Las publicaciones en las redes sociales incluyen jerga humana que podría ser útil para que las herramientas las utilicen por sí mismas. Y las noticias son generalmente una fuente de eventos en tiempo real.
+     
+            Pero los usuarios que publican en esos sitios pueden no estar tan entusiasmados con que cada una de sus reflexiones aleatorias o fotos de vacaciones o selfies lamentables se utilicen libremente para construir tecnología (y, por extensión, ganar dinero) para una corporación multimillonaria.
+     
+            “En este momento, se está creando mucho miedo en torno a la inteligencia artificial, algunos bien fundados y otros basados en la ciencia ficción, por lo que corresponde a estas plataformas ser muy abiertos sobre cómo usarán y no nuestros datos para ayudar a aliviar algunas de las reacciones que trae este tipo de noticias, lo que para mí no parece que se haya hecho todavía”, dijo David Ogiste, el fundador de la agencia de marketing Nobody’s Cafe, que publica regularmente sobre marca y creatividad en LinkedIn, en un mensaje a CNN. Añadió que optaría por no permitir que LinkedIn usara sus datos para la capacitación en inteligencia artificial.
+     
+            Las diferentes plataformas sociales varían en términos de las opciones que ofrecen a los usuarios para optar por no contribuir a los sistemas de inteligencia artificial. Pero esta es la realidad: si estás publicando contenido en línea, no hay forma de estar absolutamente seguro de que tus imágenes no serán acaparadas por terceros para que las usen de la manera que les guste.
+     
+            Por lo menos, vale la pena ser consciente de que esto está sucediendo. Aquí es donde algunas de las principales plataformas de redes sociales pueden estar usando tus datos para entrenar y ejecutar modelos de inteligencia artificial, y cómo (y si) puedes optar por no participar.
+     
+            LinkedIn esta semana comenzó a dar a los usuarios la opción de optar por no utilizar sus datos para entrenar sus modelos de inteligencia artificial generativos.
+     
+            La compañía dice que el contenido del usuario puede ser utilizado por LinkedIn y sus “afiliados”, potencialmente incluido el socio de Microsoft OpenAI. Dice que su objetivo es “redactar o eliminar datos personales” de los conjuntos de datos de capacitación.
+     
+            Para optar por no participar, los usuarios deben ir a “Configuración y privacidad”, seleccionar la pestaña “Privacidad de datos” en la columna de la izquierda y luego hacer clic en “Datos para la mejora generativa de la inteligencia artificial” y desactivar el botón.
+     
+            La plataforma señala, sin embargo, que “optar por no recibirlo significa que LinkedIn y sus afiliados no utilizarán sus datos personales o contenido en LinkedIn para capacitar a modelos en el futuro, pero no afecta a la capacitación que ya ha tenido lugar”. Eso significa que no hay vuelta atrás y deshacer el entrenamiento de los sistemas anteriores de inteligencia artificial de LinkedIn con publicaciones de usuarios.
+     
+            Si vives en el Reino Unido, Suiza o Europa, donde las protecciones de privacidad son más sólidas que otras jurisdicciones, es posible que no veas la opción de exclusión voluntaria, ya que LinkedIn dice que no entrena a la inteligencia artificial en los datos de los usuarios de esas áreas.
+     
+            X de Elon Musk también requiere que los usuarios opten por no participar si no quieren que sus publicaciones se utilicen para entrenar a su chatbot de inteligencia artificial, Grok, que ha sido objeto de fuego por cosas como difundir información falsa sobre las elecciones de 2024 y generar imágenes falsas violentas y gráficas de políticos prominentes.
+     
+            La plataforma dice que ella y la startup xAI de Musk utilizan las publicaciones de las personas, así como sus conversaciones con Grok, para hacer cosas como mejorar su “capacidad de proporcionar respuestas precisas, relevantes y atractivas” y desarrollar su “sentido del humor y el ingenio”. (X no notificó proactivamente a los usuarios que sus datos se utilizarían de esta manera; la actualización de la política fue identificada por usuarios de ojos de águila).
+     
+            Los usuarios de X pueden optar por no participar yendo a “Configuración” y luego a “Privacidad y seguridad”. Bajo el encabezado “Compartir datos y personalización”, hay una pestaña para “Grok”, donde los usuarios pueden desmarcar la casilla que permite a la plataforma usar sus datos para la capacitación en inteligencia artificial. X también dice que los usuarios que hacen que sus cuentas sean privadas no tendrán sus publicaciones utilizadas para “entrenar el modelo subyacente de Grok o para generar respuestas a las consultas de los usuarios”.
+     
+            La función “My Selfie” (Mi Selfie) de Snapchat permite a los usuarios y a sus amigos convertir sus selfies en imágenes generadas por inteligencia artificial.
+     
+            Esos selfies también pueden ser utilizados por Snap (así como por las marcas que se anuncian en la plataforma) para crear anuncios generados por inteligencia artificial con las caras de los usuarios si utilizan la función, informó por primera vez esta semana el sitio de noticias tecnológicas 404 Media.
+     
+            En sus términos de servicio, Snapchat dice que los selfies de los usuarios compartidos a través de la función se utilizarán “para desarrollar y mejorar los modelos de aprendizaje automático… y con fines de investigación”. También dice que al usar la función, los usuarios aceptan que pueden verse representados en anuncios “que solo serán visibles para usted” sin compensación.
+     
+            Pero los usuarios también acuerdan permitir un acceso mucho más amplio a esas imágenes. De acuerdo con los términos de servicio, “Al usar Mi Selfie, usted otorga a Snap, a nuestros afiliados, otros usuarios de los Servicios y nuestros socios comerciales un derecho y licencia sin restricciones, mundial, libre de regalías, irrevocable y perpetua para usar, crear trabajos derivados de, promover, exhibir, transmitir, sindicar, reproducir, distribuir, sincronizar, superponer gráficos, efectos de superposición auditiva, realizar públicamente y mostrar públicamente todas o cualquier parte de las imágenes generadas de usted y su imagen derivada de su Mi Selfie, en cualquier forma y en todos y cada uno de los medios o métodos de distribución, ahora conocidos o desarrollados más tarde, con fines comerciales y no comerciales”.
+     
+            Mi Selfie es una función que los usuarios de Snapchat tienen que optar por crear, por lo que los usuarios no tendrán por defecto que todas las imágenes que comparten con la plataforma se utilicen de esta manera. Además, los usuarios que han activado Mi selfie pueden ir a “Configuración”, luego a “Mi cuenta” y “Mi selfie” y desactivar “Ver mi selfie en los anuncios” para evitar que su imagen se use para crear contenido patrocinado generado por IA.
+     
+            Reddit dice que todos los usuarios que comparten contenido públicamente en el sitio le otorgan una licencia gratuita y mundial “para usar, copiar, modificar, adaptar, preparar trabajos derivados, distribuir, almacenar, realizar y mostrar su contenido y cualquier nombre, nombre, nombre de usuario, voz o semejanza proporcionada en relación con su contenido en todos los formatos de medios”. Eso incluye permitir que terceros tengan acceso a las publicaciones de los usuarios para la capacitación en inteligencia artificial.
+ 
+            Reddit ha sinchado acuerdos importantes con Google y OpenAI para compartir datos de la plataforma para entrenar sus modelos de inteligencia artificial, como parte de su esfuerzo por ser rentable.
+     
+            Los Redditors no pueden optar por que sus publicaciones públicas se utilicen de esta manera, pero la plataforma dice que el contenido privado, como los mensajes privados, las publicaciones en comunidades privadas y el historial de navegación, no se compartirá con terceros.
+     
+            Los líderes de Meta han reconocido que la compañía ya ha utilizado publicaciones públicas (pero no privadas) de Facebook e Instagram para entrenar su chatbot de inteligencia artificial.
+     
+            En su política de privacidad, Meta dice que puede entrenar sus sistemas de inteligencia artificial con el contenido público de Facebook e Instagram de los usuarios, incluyendo publicaciones, comentarios, audio y fotos de perfil. Por lo tanto, si quieres optar por no participar, tienes que hacer que tu cuenta sea privada. Meta también dice que los mensajes privados entre familiares y amigos no se utilizan para entrenar su IA.
+     
+            Aún así, incluso si no utiliza ninguno de los servicios de Meta, la compañía señala que puede usar su información, como una foto suya publicada por un amigo, para mejorar su tecnología.
+     © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

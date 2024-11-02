@@ -1,0 +1,31 @@
+Título: Reddit - Dive into anything
+URL: https://www.reddit.com/r/ChatGPT/
+Número de palabras: 594
+
+
+https://dsc.gg/rchatgpt
+ 
+    I am self employed and work both remote and in my office. What was happening was I kept getting one hour after only one hour of office bookings each day meaning I was driving 30 minutes each way just for one hour over and over again and it was driving me insane to the point I was beginning to resent it and consider going completely online. But that has another set of consequences. I needed data analysis.
+   
+    I downloaded a massive Excel file from acuity scheduling since I started using it in 2019. Then uploaded to chat GPT. It was able to tell me which hours were the most favorite for office and remote based on my history, and give me a strange looking vs. what I was doing, weekly schedule to optimize both. Rather than trying to push them together.
+   
+    It was also able to give me % of returned clients over time, the major themes that they came for, what % I liked by my notes and a bunch of other really powerfully helpful data (location, trends in preferences over time, etc) that was the most helpful thing I've ever gotten in 12 years of business.
+   
+    Chat GPT had single handedly helped me more than any VA or biz/time management coaches which are $$$ and most of that is just getting them up to speed with the issues and why they are issues much less give me solutions.
+   
+    I am so happy with the changes I made, based on the data, that I finally think it saved my business. I've always felt so alone, that typically no one could help me with my niche issues. Not anymore. I now actually have that assistant and coach.
+   
+    I think I'm only limited by what I can imagine and prompt it to do. It's incredible.
+   
+https://dsc.gg/rchatgpt
+ Anyone can view, post, and comment to this community 
+    Posters and commenters are expected to act in good faith. Treat other users the way you want to be treated. Avoid straw-manning and bad-faith interpretations. Report posts/comments that aren't appropriate for the "serious" flair.
+   
+    Posts deemed to be entirely without value or effort may be removed if they have not generated interesting discussions before their discovery. Anyone sharing disturbing content will be banned. Users are encouraged to report posts they feel are of significantly low effort. Specifically mentioning that “Is chat GPT down posts?” will be removed. The stickied FAQ deals with that.
+   
+    Posts must be directly related to ChatGPT or the topic of AI. They may not be solely focused on advertising a single other LLM service(all these posts should directly go to weekly self-promotional mega thread, which is pinned)
+   
+    Having ChatGPT create political content is completely fine. Discussion of the politics around AI and LLMs is allowed. This is not the place to discuss the merits of Trump's foreign policy or Hunter Biden’s laptop.
+   
+    This is a SFW sub. Any posts violating this rule will be removed, and repeated offenses may result in a ban.
+   This subreddit is not an official subreddit of OpenAI and is not associated with OpenAI in any way. The information provided on this server is not endorsed or approved by OpenAI. For help, go to: help.openai.com  Use of the OpenAI logo is with permission from OpenAI; all rights in OpenAI's trademarks belong to OpenAI. "And also, having a vibrant community of people who are trying to press on the limits of the technology, to find where it breaks and where it does unusual, interesting things, is good." — Sam Altman on r/ChatGPT          

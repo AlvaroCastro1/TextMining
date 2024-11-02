@@ -1,0 +1,148 @@
+Título: Machine Learning: ¿qué es y cómo ayuda a pequeñas empresas?
+URL: https://www.abiztar.com.mx/articulos/machine-learning-que-es-y-como-ayuda-a-pequenas-empresas.html
+Número de palabras: 1979
+
+
+
+
+
+
+
+Pequeñas y grandes empresas quieren subirse al tren del llamado Machine Learning. Grandes empresas como Google y Amazon usan esta tecnología todo el tiempo. Mientras que las empresas más pequeñas temen que esta esté fuera de su alcance. Pero no tiene que ser así.
+
+¿Qué es Machine Learning?
+Machine Learning (ML) es una aplicación de Inteligencia Artificial (IA) que utiliza modelos estadísticos y big data para hacer predicciones sobre tendencias futuras.
+Por ejemplo, ¿alguna vez has notado cómo Google Photos puede encontrar imágenes de casi cualquier cosa (digamos, de gatos), sin que hayas marcado la foto de antemano? Esto se debe a que Google ha alimentado sus algoritmos ML con miles y miles de fotos de gatos: la tecnología es capaz de identificar los atributos clave de la imagen que lo convierten en un gato, y luego detectar si las fotos futuras también tienen esos atributos.
+Lo bueno es que ML no se aplica solo a las fotos de gatos; tiene aplicaciones en casi todas las industrias, incluidas las de negocios y finanzas. Los algoritmos ML se vuelven más inteligentes a medida que avanzan, ¡y también pueden hacer que tu negocio sea más inteligente!    
+
+Las pequeñas empresas también pueden aprovechar Machine Learning
+Para evitar ser superados por los competidores digitales, las pequeñas empresas saben que necesitan buscar las últimas soluciones tecnológicas. En los últimos años, estas compañías han implementado con éxito productos SaaS, software basados ​​en la nube y otras soluciones digitales. Machine Learning es solo el siguiente paso para actualizar su negocio.
+Es cierto que ha habido obstáculos reales para implementar soluciones de ML para pequeñas empresas. Machine Learning es costoso y la experiencia digital necesaria para crear y entrenar su propio modelo es intimidante. A pesar de estos obstáculos, las empresas aún están intentando invertir, porque el 84% cree que adoptar la IA generará mayores ventajas competitivas.
+Afortunadamente, las preocupaciones y los costos de la integración de ML de pequeñas empresas ahora son en su mayoría obsoletos. Las tecnologías de Machine Learning están comenzando a integrarse en todas las industrias debido a una rápida caída en el precio, ya que los competidores han ingresado al mercado y los frameworks de código abierto están disponibles. El ROI es alto porque estas soluciones le ahorran tiempo en tareas mundanas y convierten los datos en información. La integración de IA en los procesos de negocio puede ayudar a garantizar una toma de decisiones más oportuna y precisa.
+Los modelos de ML pre-entrenados están ayudando a las pequeñas empresas a construir soluciones que solían estar disponibles solo para grandes empresas. Debido a que la tecnología de  Machine Learning ha estado en desarrollo durante un par de décadas, no tiene que empezar de cero. Los algoritmos y herramientas de código abierto están más disponibles que nunca.
+Aunque todavía puedes entrenar a tu propio modelo, no es necesario. Los gigantes tecnológicos con enormes recursos para investigación y desarrollo a menudo venden software ML como un servicio. Este tipo de soluciones asequibles son un gran activo para las pequeñas empresas.
+
+Usos comunes del Machine Learning en los negocios
+Algunas industrias ya cuentan con fuentes de Big Data, perfectamente adecuados para nuevos modelos de ML, pero aunque este no siempre sea el caso, todas las empresas pueden integrar Machine Learning en aplicaciones comunes.
+
+Marketing: la tecnología de Machine Learning ayuda a proporcionar información procesable y mejorar las decisiones de marketing. En 2018, el 43% de los comercializadores utilizó IA y ML para mejorar los modelos predictivos y superar los objetivos de ingresos.
+Automatización: una de las mejores ventajas de ML es automatizar tareas repetitivas y aumentar la productividad. Muchas empresas ya utilizan el correo electrónico y la automatización de documentos por AI. Los chatbots son otra excelente aplicación de soluciones ML asequibles que brindan un mejor servicio al cliente y respuestas adaptativas.
+Seguridad: dado que Machine Learning rastrea los patrones en los datos, los algoritmos son excelentes para identificar comportamientos sospechosos de las cuentas y detectar fraudes. Estas herramientas se pueden utilizar en el monitoreo financiero y la seguridad de la red.
+SEO: los algoritmos de Google se basan en gran medida en Machine Learning, por lo que las empresas deben utilizar el SEO para mantenerse al día. Herramientas como Google Analytics y Ahrefs utilizan la tecnología para mejorar el seguimiento de sus patrones y ofrecen retroalimentación a sus clientes.
+Sugerencias del cliente: Casi todos los usuarios interactúan con ML diariamente a través de sugerencias personalizadas en Youtube, Netflix o Spotify. Este tipo de predicciones también puede ayudar a personalizar las campañas publicitarias y sugerir próximas compras para los clientes (por ejemplo, "es posible que también le guste ..."). Al identificar patrones en el comportamiento del usuario, ML le permite determinar qué anuncios individuales tienen más probabilidades de ser relevantes para usuarios específicos.
+Otros: Las compañías financieras utilizan ML en la planificación de jubilación, asesoría, calificación crediticia y negociación algorítmica con asesoría de robots. Los departamentos de recursos humanos pueden aprovechar ML para reclutar y retener a los mejores talentos. Asistentes inteligentes, como Google Mini y la función Alexa de Amazon que utilizan la tecnología AI.
+
+ 
+Tranquilo... Machine Learning no reemplazará la intuición humana
+ML ofrece grandes beneficios para todas las industrias, sin embargo, como pasa con cualquier nueva tecnología, existe el temor de que las máquinas ocupen más trabajos humanos. La inteligencia artificial, sin embargo, aunque puede hacer que las empresas sean más eficientes, no puede reemplazar la intuición, conocimiento y relaciones humanas.
+Sea cual sea la industria en la que te encuentres, Machine Learning puede automatizar lo más pesado y permitir que te concentres en lo más significativo.
+Regístrate al Boletín de Abiztar
+
+
+
+
+Si te interesa este tema, te recomendamos:
+
+
+
+Modelado de Sistemas con SysML
+Para: diseñadores de componentes electrónicos.
+
+
+
+
+Fundamentos Arquitectura de SI y Patrones de Diseño
+Para: programadores, ingenieros, arquitectos de software.
+
+
+
+
+Desarrollo Automatizado de Software con MDA
+Para: arquitectos de software, 
+
+
+
+
+VER MÁS ARTÍCULOS
+
+
+
+
+Conoce nuestras promociones permanentes
+
+Disfruta de la capacitación avanzada para ingenieros de software o directores de proyectos, con importantes descuentos. (*aplican restricciones)
+
+
+Conoce más...
+
+
+CYBER MONDAY: 25% de descuento
+
+CYBER MONDAY vale más con Abiztar. 25% de descuento en ambientes de aprendizaje y cursos de ahora hasta febrero de 2019, pagando el lunes 26 de noviembre. (aplican restricciones).
+
+
+Conoce más...
+
+
+
+
+
+
+
+
+Lectura recomendada: Capacitación: respuesta urgente ante la globalización
+
+
+
+"Desafortunadamente, la crisis de varias economías está reduciendo los presupuestos destinados a la capacitación de personal. Este recorte puede llevar a un círculo vicioso: es imposible ser rentable y productivo si no se tienen los conocimientos y la experiencia necesaria."Leer artículo completo en Forbes.
+
+
+MEGA OFERTA: 40% de descuento ó 2x1 en cursos y ambientes
+
+Capacitación avanzada para ingenieros de software o directores de proyectos, con un 40% de descuento ó 2x1 pagando del 27 al 31 de mayo (*aplican restricciones).
+
+
+Conoce más...
+
+
+85% de los empleados se queja de la falta de capacitación
+
+Esta reveladora encuesta arrojó algunos datos sorprendentes sobre lo que los empleados necesitan en cuanto a capacitación.
+
+
+Conoce más...
+
+
+Capacítate con Abiztar y ayuda a un niño
+
+
+Al inscribirte en un Ambiente de Aprendizaje Abiztar también ayudas a educar a un niño en situación de calle por medio de la fundación Ednica.
+
+
+Conoce más...
+
+
+Estamos contratandoBuscamos instructor experto en modelado con UML, BPMN y arquitectura de software. Envía tu solicitud.
+
+
+Sigue a Abiztar en redes sociales
+Entérate de promociones, descuentos, artículos, videos y más.
+ 
+
+
+
+
+
+
+
+
+
+
+
+Contáctanos
+
+
+
+
+Teléfono en la Ciudad de México:
++52 (55) 5594 6411E-mail: cursos@abiztar.com.mx  Pequeñas y grandes empresas quieren subirse al tren del llamado Machine Learning. Grandes empresas como Google y Amazon usan esta tecnología todo el tiempo. Mientras que las empresas más pequeñas temen que esta esté fuera de su alcance. Pero no tiene que ser así.  ¿Qué es Machine Learning? Machine Learning (ML) es una aplicación de Inteligencia Artificial (IA) que utiliza modelos estadísticos y big data para hacer predicciones sobre tendencias futuras. Por ejemplo, ¿alguna vez has notado cómo Google Photos puede encontrar imágenes de casi cualquier cosa (digamos, de gatos), sin que hayas marcado la foto de antemano? Esto se debe a que Google ha alimentado sus algoritmos ML con miles y miles de fotos de gatos: la tecnología es capaz de identificar los atributos clave de la imagen que lo convierten en un gato, y luego detectar si las fotos futuras también tienen esos atributos. Lo bueno es que ML no se aplica solo a las fotos de gatos; tiene aplicaciones en casi todas las industrias, incluidas las de negocios y finanzas. Los algoritmos ML se vuelven más inteligentes a medida que avanzan, ¡y también pueden hacer que tu negocio sea más inteligente!      Las pequeñas empresas también pueden aprovechar Machine Learning Para evitar ser superados por los competidores digitales, las pequeñas empresas saben que necesitan buscar las últimas soluciones tecnológicas. En los últimos años, estas compañías han implementado con éxito productos SaaS, software basados ​​en la nube y otras soluciones digitales. Machine Learning es solo el siguiente paso para actualizar su negocio. Es cierto que ha habido obstáculos reales para implementar soluciones de ML para pequeñas empresas. Machine Learning es costoso y la experiencia digital necesaria para crear y entrenar su propio modelo es intimidante. A pesar de estos obstáculos, las empresas aún están intentando invertir, porque el 84% cree que adoptar la IA generará mayores ventajas competitivas. Afortunadamente, las preocupaciones y los costos de la integración de ML de pequeñas empresas ahora son en su mayoría obsoletos. Las tecnologías de Machine Learning están comenzando a integrarse en todas las industrias debido a una rápida caída en el precio, ya que los competidores han ingresado al mercado y los frameworks de código abierto están disponibles. El ROI es alto porque estas soluciones le ahorran tiempo en tareas mundanas y convierten los datos en información. La integración de IA en los procesos de negocio puede ayudar a garantizar una toma de decisiones más oportuna y precisa. Los modelos de ML pre-entrenados están ayudando a las pequeñas empresas a construir soluciones que solían estar disponibles solo para grandes empresas. Debido a que la tecnología de  Machine Learning ha estado en desarrollo durante un par de décadas, no tiene que empezar de cero. Los algoritmos y herramientas de código abierto están más disponibles que nunca. Aunque todavía puedes entrenar a tu propio modelo, no es necesario. Los gigantes tecnológicos con enormes recursos para investigación y desarrollo a menudo venden software ML como un servicio. Este tipo de soluciones asequibles son un gran activo para las pequeñas empresas.  Usos comunes del Machine Learning en los negocios Algunas industrias ya cuentan con fuentes de Big Data, perfectamente adecuados para nuevos modelos de ML, pero aunque este no siempre sea el caso, todas las empresas pueden integrar Machine Learning en aplicaciones comunes.   Tranquilo... Machine Learning no reemplazará la intuición humana ML ofrece grandes beneficios para todas las industrias, sin embargo, como pasa con cualquier nueva tecnología, existe el temor de que las máquinas ocupen más trabajos humanos. La inteligencia artificial, sin embargo, aunque puede hacer que las empresas sean más eficientes, no puede reemplazar la intuición, conocimiento y relaciones humanas. Sea cual sea la industria en la que te encuentres, Machine Learning puede automatizar lo más pesado y permitir que te concentres en lo más significativo. Conoce nuestras promociones permanentes CYBER MONDAY: 25% de descuento MEGA OFERTA: 40% de descuento ó 2x1 en cursos y ambientes 85% de los empleados se queja de la falta de capacitación Capacítate con Abiztar y ayuda a un niño Estamos contratandoBuscamos instructor experto en modelado con UML, BPMN y arquitectura de software. Envía tu solicitud. Sigue a Abiztar en redes sociales Entérate de promociones, descuentos, artículos, videos y más.   Contáctanos Teléfono en la Ciudad de México: +52 (55) 5594 6411 O si lo prefieres llena el formulario de contacto Ver aviso de privacidad   Sigue a Abiztar en redes sociales Entérate de promociones, descuentos, artículos, videos y más.  

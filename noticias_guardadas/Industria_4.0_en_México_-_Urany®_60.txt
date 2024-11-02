@@ -1,0 +1,183 @@
+Título: Industria 4.0 en México - Urany®
+URL: https://urany.net/blog/industria-4-0-en-m%C3%A9xico
+Número de palabras: 1806
+
+División Transportadores Componentes y módulos para ensamblar transportadores. Fabricamos sistemas completos y personalizados de traslado para toda clase de mercancía sobre pallets y rodillos División Control de movimiento Proveemos y seleccionamos componentes para servosistemas con base en Ingeniería de Detalle. Ingeniería Nuestro cálculo evita riesgos y fallas técnicas para tu proceso, garantizando el funcionamiento de los equipos seleccionados. Soluciones División Control de Movimiento Tecnología para Movimiento Lineal Tecnología para Movimiento Rotatorio Medición de movimiento Seguridad y acoplamiento para mecanismos División Transportadores Transportadores Tecnología para Movimiento Lineal Actuadores de Vástago Bajo Dinamismo Actuadores Lineal Rotatorio Actuadores lineales con montaje para servo motor Actuadores lineales con servo motor integrado Actuadores Lineales Servohidráulicos Actuadores Lineales Tipo Gato Grippers Guias Lineales tipo riel Robots Cartesianos (Gantry) Rodamientos lineales tipo buje Servomotores lineales Sistema de Cremallera y Piñón Software Tecnología para Movimiento Rotatorio Actuadores Lineales Rotatorio Mesas Indexadoras Reductores de Velocidad para Servomotor Rodamientos circulares Servomotores con Reductor Planetario Integrado Servomotores diseño higiénico / resistentes a corrosión Software Medición de movimiento Encoders Inclinómetros Sensores Lineales de Posición Seguridad y acoplamiento para mecanismos Acoplamientos Frenos de Seguridad Lineales Frenos de Seguridad para elevadores y escenarios Frenos de Seguridad Rotatorios Limitadores de Fuerza Limitadores de Torque Transportadores Transportadores de Precisión para Pallets Rodillos Rodillos Motorizados para Transportador Actuadores de Vástago Bajo Dinamismo Actuadores Lineal Rotatorio Actuadores lineales con montaje para servo motor Actuadores lineales con servo motor integrado Actuadores Lineales Servohidráulicos Actuadores Lineales Tipo Gato Grippers Guias Lineales tipo riel Robots Cartesianos (Gantry) Rodamientos lineales tipo buje Servomotores lineales Sistema de Cremallera y Piñón Software Actuadores Lineales Rotatorio Mesas Indexadoras Reductores de Velocidad para Servomotor Rodamientos circulares Servomotores con Reductor Planetario Integrado Servomotores diseño higiénico / resistentes a corrosión Software Encoders Inclinómetros Sensores Lineales de Posición Acoplamientos Frenos de Seguridad Lineales Frenos de Seguridad para elevadores y escenarios Frenos de Seguridad Rotatorios Limitadores de Fuerza Limitadores de Torque Transportadores de Precisión para Pallets Rodillos Motorizados para Transportador Categorías Blog 
+					noviembre 30, 2021
+				 
+						Autor: Gabriela Torres
+					  La
+ industria 4.0 también es identificada como economía 4.0 porque impulsa 
+cambios en la formación de mano de obra calificada debido a que es una 
+revolución tecnológica, de producción y de creación de fábricas; así, el
+ impacto de esta cuarta revolución industrial está directamente 
+relacionado con la economía de un país. A su vez, dicha revolución 
+industrial también implica cambios en el ámbito educativo, cultural, 
+social y comunicativo. Significa un cambio profundo en la estructura 
+socioeconómica de la humanidad.  El
+ término industria 4.0 fue presentado por primera vez en la Feria de 
+Hannover en 2011 y dicho acontecimiento derivó de la percepción común 
+por parte de diferentes consorcios y empresas acerca de que los medios 
+de producción han estado cambiando drásticamente durante las últimas 
+décadas; la forma como operaban las plantas y como se han llevado a cabo
+ los procesos en los últimos quince años está dejando atrás el uso de 
+los circuitos electrónicos integrados en dispositivos. Más bien, tales 
+medios de producción responden cada vez más a procesos complejos 
+totalmente basados en tecnologías de la información y digitalización.  Hacia
+ la segunda mitad del siglo XX, la informática contribuyó ampliamente a 
+la automatización de los procesos industriales. Los circuitos 
+electrónicos integrados en dispositivos cada vez más pequeños y que 
+responden a la lógica programable, en conjunto con los computadores 
+digitales, permitieron ejercer la función de control de procesos. La 
+ingeniería electrónica y sus afines aportaron los elementos que 
+actualmente detonan la llamada revolución 4.0. Así, la automatización y 
+la robotización actuales son procesos que aprovechan completamente los 
+fundamentos electrónicos. Desde
+ entonces, la vertiginosidad ha estado caracterizando a la industria 
+4.0. Como indicamos en las primeras líneas de este artículo, los cambios
+ que esta industria trae a la sociedad son globales, pues transforman la
+ manera de vivir y de relacionarnos a nivel mundial. Si bien cada país 
+genera y utiliza la tecnología con base en sus recursos, el avance de 
+uno de ellos puede significar dos cosas para el resto de los países:   ¿En cuál de esas situaciones consideras que México está ubicado?  Las
+ empresas pequeñas y grandes son las que, concretamente, portan el 
+estandarte de innovación para digitalizar diversos procesos, ahorrar 
+costos y disminuir márgenes de error. A eso se suman los esfuerzos de 
+diferentes ámbitos que buscan consolidar el uso de las tecnologías 4.0 
+en nuestro país. La cuarta revolución exige contar tanto con capital 
+intelectual como con recursos materiales que permitan la ejecución y el 
+desarrollo trascendente de las tecnologías 4.0. No
+ obstante, el contexto nacional plantea grandes retos acerca de tales 
+intereses. Las áreas de oportunidad de nuestro país para la 
+implementación de las tecnologías 4.0 van desde el ámbito de la 
+formación profesional y abarcan los recursos con que cuentan las 
+personas que están en formación o laborando. Desde años anteriores, la 
+brecha entre lo que las empresas requieren y las competencias que los 
+egresados de las carreras tienen ha sido motivo de preocupación entre 
+los líderes empresariales; tal es el caso de Juan Pablo Castañón 
+(presidente del Consejo Coordinador Empresarial 2015-2018), quien 
+observó: 
+En el país 44 % de emprendedores afirman que es difícil contratar a personas con las habilidades que están necesitando y 40 % de los jóvenes no se sienten listos para estar en el mercado laboral actual".
+ 
+Juan Pablo Castañón
+ A
+ este escenario se suma la baja conectividad de la población mexicana. 
+De acuerdo con las cifras recabadas por el INEGI en la Encuesta Nacional
+ sobre Disponibilidad y Uso de Tecnologías de la Información en los 
+Hogares del 2020, el panorama de conectividad se vislumbra de la 
+siguiente manera en términos de cifras:  El
+ 72 % de la población utiliza internet (lo que significa 84.1 millones 
+de usuarios de internet). Corea del Sur, por su parte, registra el 96.2 %
+ de usuarios de internet (el país con porcentaje más alto en este tema).
+ Estos números evidencian apenas un aspecto de la brecha tecnológica de 
+nuestro país en relación con el panorama internacional.      Otra
+ perspectiva acerca de la conectividad indica que solo el 60.6 % de 
+hogares registran que tiene internet en casa. Este porcentaje 
+corresponde al total nacional. El
+ estudio del INEGI también permite acotar que el uso del internet es un 
+fenómeno urbano, pues el 78.3 % del total de la población que es usuaria
+ de este servicio se ubica en las ciudades. Lo que contrasta con el 50.4
+ % de la población conectada en zonas rurales. Tener
+ presentes estas cifras año con año, principalmente, si nos desempeñamos
+ como líderes en el ámbito industrial, nos permite recapacitar acerca de
+ nuestro lugar en los avances tecnológicos, pero sobre todo vislumbrar 
+aquello con lo que podemos contribuir para reducir las brechas 
+tecnológicas en los diferentes contextos, tanto nacionales como 
+internacionales.   Los
+ esfuerzos para reducir la brecha tecnológica de México en relación con 
+el panorama internacional están centrados en gran parte en el ámbito 
+académico, a quien se le asigna la responsabilidad de egresar capital 
+humano que asuma con éxito los retos y las innovaciones del contexto 
+actual. No obstante, como empresario de cualquier sector industrial es 
+necesario estar conscientes de que ese sector se retroalimenta 
+directamente con el desarrollo de la iniciativa privada. Los recursos 
+materiales y las oportunidades para llevar a cabo investigación bien 
+pueden residir en la perspectiva y la voluntad de las diferentes 
+industrias que utilizan la automatización y, por tanto, que buscan 
+eficientar y precisar sus sistemas de control.  Desde
+ el 2018, el entonces secretario de economía, Ildefonso Guajardo 
+Villarreal, ya anticipaba (en el marco del foro Industrial 4.0: retos 
+para México) lo siguiente:   La
+ visión del exsecretario de economía ha tomado forma, actualmente, 
+debido al contexto derivado de la pandemia por COVID-19, pues el cambio 
+de hábitos al que esta contingencia nos orilló expuso con mayor énfasis 
+la necesidad de integrar las tecnologías 4.0 a nuestras vidas para 
+lograr sortear obstáculos como la distancia, por ejemplo. Representantes
+ de sectores industriales dan fe de que el desarrollo de México en 
+cuanto a la revolución 4.0 está siendo posible gracias a la visión de 
+las empresas; así lo ha referido en el 2020 Guillermo Martínez, Channel 
+Account Manager de la firma estadounidense Pandiut: 
+La pandemia por COVID-19 permitió que la industria mexicana hiciera un análisis de sus necesidades tecnológicas y a mostrar mayor interés en migrar a la industria 4.0. Las empresas se dieron cuenta de la importancia de la tecnología para garantizar la continuidad de su negocio".
+ La
+ aplicación de la manufactura avanzada, por lo tanto, es posible en 
+México gracias a una constante colaboración entre el sector público, 
+académico y privado. Dentro de esta colaboración, el sector industrial 
+tiene las herramientas para guiar y potenciar a México mediante talento 
+4.0 que asimile eficientemente las tecnologías innovadoras con el fin de
+ desarrollar procesos industriales de manera óptima, precisa, 
+inteligente y competitiva a nivel internacional.  La
+ industria 4.0 abarca diferentes tecnologías de las que antes te hemos 
+hablado, tales como la nube, el internet de las cosas, la realidad 
+virtual o los macrodatos. Probablemente, varias de estas tecnologías ya 
+las empleas en tus líneas de producción, en menor o mayor medida; pero 
+siempre es posible incorporar dispositivos innovadores que optimicen tu 
+producción de manera segura y económica.  Implementar
+ con éxito dispositivos que aprovechen los recursos de la actual 
+revolución industrial es posible si cuentas con proveedores expertos en 
+piezas de automatización, así como su correspondiente cálculo y 
+programación, acordes con las necesidades de tu industria. La robótica y
+ sus respectivos cobots
+son un gran ejemplo para comenzar a integrar o renovar elementos que posicionen tu industria como líder en el escenario 4.0. URANY
+ trabaja de cerca con fabricantes de piezas para automatización, los 
+cuales tienen reconocimiento a nivel internacional; tales piezas 
+integran o están diseñadas para trabajar con las diversas tecnologías de
+ la industria 4.0. La visión de URANY contempla la vanguardia 
+tecnológica en tu industria como una forma de contribuir al 
+posicionamiento tecnológico de nuestro país. Te invitamos a conocer más 
+acerca de los diversos sectores industriales que abarcamos como 
+especialistas en temas de optimización industrial.  Visitar sección Industrias Comparte el artículo: Conoce más sobre: 
+industria 4.0
+ 
+tecnología 4.0
+ 
+cuarta revolución industrial
+ 
+automatización
+ 
+usuarios de internet
+ Suscríbete a nuestro boletín Recibe nuestras actualizaciones y casos de estudio directo a tu correo. 
+
+						octubre 30, 2024
+					
+ 
+					...
+				 
+
+						octubre 29, 2024
+					
+ 
+					Descubre los tipos de transportadores de banda plana y sus componentes. Además, conoce sus ventajas y múltiples aplicaciones industriales....
+				 
+
+						octubre 22, 2024
+					
+ 
+					...
+				 
+
+						octubre 15, 2024
+					
+ 
+					Compara modelos de transportadores para pallets y descubre qué modelo se adapta mejor a tus necesidades para aumentar la eficiencia en tu almacén....
+				 
+
+						octubre 08, 2024
+					
+ 
+					Conoce los factores a considerar al seleccionar un freno de seguridad industrial, los tipos de frenos Mayr, sus ventajas, límites de uso, entre otras ...
+				 
+
+						septiembre 24, 2024
+					
+ 
+					...
+				 Gracias por suscribirte, pronto recibirás noticias de URANY directo a tu correo. URANY© 2024, Todos los derechos reservados

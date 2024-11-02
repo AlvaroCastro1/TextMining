@@ -1,0 +1,243 @@
+Título: Inteligencia Artificial Generativa impacta la Educación
+URL: https://www.bcn.cl/delibera/pagina?tipo=1&id=inteligencia-artificial-generativa-impacta-la-educacion.html
+Número de palabras: 2098
+
+
+
+
+ En los últimos meses, ha habido una creciente preocupación en el ámbito académico y educacional por el uso de inteligencia artificial (IA) generativa de texto, como ChatGPT, Bing y el último Co-Pilot integrado dentro de la suite Microsoft Office. 
+Una de las principales preocupaciones es que los estudiantes puedan
+utilizar herramientas de inteligencia artificial generativa para
+hacer trampa o plagiar sus tareas escritas y exámenes. De
+hecho, una encuesta
+reciente
+entre estudiantes universitarios encontró que casi uno de cada
+tres estudiantes había utilizado alguna forma de IA, como un
+software de generación de ensayos, para completar sus estudios.
+Aproximadamente un tercio de los estudiantes universitarios
+encuestados (tamaño de muestra 1000) en los EE. UU. han utilizado el
+chatbot de IA como ChatGPT para completar tareas escritas, y el 60 %
+utiliza el programa en más de la mitad de sus tareas.
+El tipo ChatGPT de
+herramientas de inteligencia artificial generativa es capaz de imitar
+la escritura humana, y algunos estudiantes la usan para hacer trampa.
+El estudio encontró que el 75% de los estudiantes cree que usar el
+programa para hacer trampa está mal, pero aun así lo hace, y casi
+el 30% cree que sus profesores desconocen el uso de la herramienta.
+El estudio también señaló que algunos profesores están
+considerando incluir ChatGPT en sus lecciones o unirse a llamadas
+para prohibir, y el 46% de los estudiantes dicen que sus profesores o
+instituciones han prohibido la herramienta para las tareas. Esto ha
+llevado a solicitar regulaciones y sanciones más estrictas
+por mala conducta académica que involucre a la IA.
+Otra preocupación
+es que el uso de la IA generativa pueda provocar una disminución
+de las habilidades de escritura y pensamiento crítico de los
+estudiantes, a medida que se vuelven más dependientes de
+herramientas automatizadas para completar su trabajo. Algunos
+académicos sostienen que esto podría tener un impacto negativo en
+la calidad de la educación y, en última instancia, perjudicar los
+resultados de aprendizaje de los estudiantes.
+Estas preocupaciones
+han llevado a algunas universidades a prohibir el uso de IA
+generativa en sus programas académicos. Ocho de las 24
+universidades del prestigioso Russell Group del Reino Unido han
+declarado el uso del robot de IA para tareas como mala conducta
+académica, incluidas Oxford y Cambridge. Mientras tanto, muchas
+otras universidades de todo el mundo se apresuran a revisar sus
+políticas
+contra el plagio citando preocupaciones sobre la integridad
+académica. Algunas universidades australianas han tenido que
+modificar sus procedimientos de examen y evaluación para volver
+a utilizar lápiz y papel.
+Sin embargo, también
+hay quienes sostienen que la IA generativa tiene el potencial
+de revolucionar la educación y mejorar la experiencia de
+aprendizaje de los estudiantes. Por ejemplo, algunos expertos
+sugieren que la IA generativa podría usarse para brindar
+retroalimentación y apoyo personalizados a los estudiantes,
+ayudándolos a identificar áreas de debilidad y mejorar sus
+habilidades de manera adaptativa.
+La IA generativa es
+un subconjunto de la inteligencia artificial (IA) que se centra en la
+creación de nuevos datos o contenidos en lugar de analizar e
+interpretar datos existentes. Los transformadores generativos
+preentrenados (GPT) son un tipo de modelo de IA generativa que
+utiliza técnicas de aprendizaje profundo (Deep Learning) para
+generar texto en lenguaje natural. Las últimas versiones de GPT,
+GPT-3.5 y GPT-4, grandes modelos de lenguaje entrenados en un gran
+corpus de datos de texto, son capaces de producir texto similar al
+humano con altos niveles de coherencia, complejidad y diversidad.
+GPT-3.5 y GPT-4 son ejemplos de inteligencia artificial general
+(AGI), que es la capacidad de los sistemas de IA para realizar
+cualquier tarea intelectual que un humano pueda realizar. A
+diferencia de la inteligencia artificial estrecha (ANI), que
+está diseñada para realizar una tarea específica, la AGI está
+diseñada para realizar múltiples tareas y generalizar el
+conocimiento en diferentes dominios. Si bien GPT-3.5 y GPT-4 no
+son verdaderos sistemas AGI, representan un progreso significativo
+hacia el logro de AGI al demostrar la capacidad de realizar una
+amplia gama de tareas lingüísticas y generar texto similar a un
+humano. El desarrollo de modelos de IA generativa como GPT-3.5 y
+GPT-4 tiene el potencial de revolucionar muchos campos, incluido el
+procesamiento del lenguaje natural, la escritura creativa y la
+generación de contenido.
+Dado que las
+herramientas de IA generativa se han vuelto fácilmente accesibles
+para el público en los últimos meses, se están integrando
+rápidamente en diversos campos e industrias. Esto ha creado una
+necesidad urgente de que las universidades desarrollen una política
+educativa sobre IA que prepare a los estudiantes para trabajar
+con esta tecnología y comprender sus principios. Hay varias razones
+que respaldan esta necesidad:
+
+Los graduados
+	deberán tener una sólida comprensión de los principios de la IA
+	para tener éxito en los campos donde la IA ya está instalada, como
+	la economía, las finanzas, la atención sanitaria y el transporte.
+	Una política educativa de IA puede proporcionar a los estudiantes
+	los conocimientos y habilidades necesarias para
+	trabajar con IA a nivel profesional.
+
+La IA se puede
+	utilizar para mejorar el aprendizaje de los estudiantes
+	proporcionando retroalimentación personalizada en tiempo real y
+	adaptándose a los estilos de aprendizaje individuales. Al educar a
+	los estudiantes sobre IA, las universidades pueden ayudar a
+	prepararlos para ser participantes activos en el desarrollo y la
+	implementación de la tecnología de IA, garantizando que beneficie
+	a la sociedad en su conjunto.
+
+A medida que el
+	uso de la IA en la educación y la evaluación se vuelve más
+	frecuente, es esencial que los estudiantes comprendan los principios
+	detrás de la tecnología para mantener la integridad
+	académica y evitar las trampas, como se mencionó
+	anteriormente. Una política
+	educativa sobre IA puede enseñar a los estudiantes las
+	consideraciones éticas que rodean a la IA, como el sesgo y
+	la justicia, así como las posibles consecuencias del uso de la IA
+	en contextos académicos.
+
+La tecnología
+	de inteligencia artificial avanza rápidamente y es probable que
+	desempeñe un papel cada vez más importante en la sociedad en los
+	próximos años. Al brindar capacitación en IA a estudiantes y
+	docentes, las universidades pueden ayudar a garantizar que los
+	graduados estén preparados para contribuir al desarrollo de la IA y
+	afrontar los problemas éticos, sociales y económicos que
+	probablemente surjan a medida que la IA se generalice. Esta
+	formación también debería ayudar a los estudiantes a convertirse
+	en usuarios competentes y responsables de la IA en su vida
+	diaria.
+ 
+Una de las principales preocupaciones es que los estudiantes puedan
+utilizar herramientas de inteligencia artificial generativa para
+hacer trampa o plagiar sus tareas escritas y exámenes. De
+hecho, una encuesta
+reciente
+entre estudiantes universitarios encontró que casi uno de cada
+tres estudiantes había utilizado alguna forma de IA, como un
+software de generación de ensayos, para completar sus estudios.
+Aproximadamente un tercio de los estudiantes universitarios
+encuestados (tamaño de muestra 1000) en los EE. UU. han utilizado el
+chatbot de IA como ChatGPT para completar tareas escritas, y el 60 %
+utiliza el programa en más de la mitad de sus tareas. El tipo ChatGPT de
+herramientas de inteligencia artificial generativa es capaz de imitar
+la escritura humana, y algunos estudiantes la usan para hacer trampa.
+El estudio encontró que el 75% de los estudiantes cree que usar el
+programa para hacer trampa está mal, pero aun así lo hace, y casi
+el 30% cree que sus profesores desconocen el uso de la herramienta.
+El estudio también señaló que algunos profesores están
+considerando incluir ChatGPT en sus lecciones o unirse a llamadas
+para prohibir, y el 46% de los estudiantes dicen que sus profesores o
+instituciones han prohibido la herramienta para las tareas. Esto ha
+llevado a solicitar regulaciones y sanciones más estrictas
+por mala conducta académica que involucre a la IA. Otra preocupación
+es que el uso de la IA generativa pueda provocar una disminución
+de las habilidades de escritura y pensamiento crítico de los
+estudiantes, a medida que se vuelven más dependientes de
+herramientas automatizadas para completar su trabajo. Algunos
+académicos sostienen que esto podría tener un impacto negativo en
+la calidad de la educación y, en última instancia, perjudicar los
+resultados de aprendizaje de los estudiantes. Estas preocupaciones
+han llevado a algunas universidades a prohibir el uso de IA
+generativa en sus programas académicos. Ocho de las 24
+universidades del prestigioso Russell Group del Reino Unido han
+declarado el uso del robot de IA para tareas como mala conducta
+académica, incluidas Oxford y Cambridge. Mientras tanto, muchas
+otras universidades de todo el mundo se apresuran a revisar sus
+políticas
+contra el plagio citando preocupaciones sobre la integridad
+académica. Algunas universidades australianas han tenido que
+modificar sus procedimientos de examen y evaluación para volver
+a utilizar lápiz y papel. Sin embargo, también
+hay quienes sostienen que la IA generativa tiene el potencial
+de revolucionar la educación y mejorar la experiencia de
+aprendizaje de los estudiantes. Por ejemplo, algunos expertos
+sugieren que la IA generativa podría usarse para brindar
+retroalimentación y apoyo personalizados a los estudiantes,
+ayudándolos a identificar áreas de debilidad y mejorar sus
+habilidades de manera adaptativa. La IA generativa es
+un subconjunto de la inteligencia artificial (IA) que se centra en la
+creación de nuevos datos o contenidos en lugar de analizar e
+interpretar datos existentes. Los transformadores generativos
+preentrenados (GPT) son un tipo de modelo de IA generativa que
+utiliza técnicas de aprendizaje profundo (Deep Learning) para
+generar texto en lenguaje natural. Las últimas versiones de GPT,
+GPT-3.5 y GPT-4, grandes modelos de lenguaje entrenados en un gran
+corpus de datos de texto, son capaces de producir texto similar al
+humano con altos niveles de coherencia, complejidad y diversidad.
+GPT-3.5 y GPT-4 son ejemplos de inteligencia artificial general
+(AGI), que es la capacidad de los sistemas de IA para realizar
+cualquier tarea intelectual que un humano pueda realizar. A
+diferencia de la inteligencia artificial estrecha (ANI), que
+está diseñada para realizar una tarea específica, la AGI está
+diseñada para realizar múltiples tareas y generalizar el
+conocimiento en diferentes dominios. Si bien GPT-3.5 y GPT-4 no
+son verdaderos sistemas AGI, representan un progreso significativo
+hacia el logro de AGI al demostrar la capacidad de realizar una
+amplia gama de tareas lingüísticas y generar texto similar a un
+humano. El desarrollo de modelos de IA generativa como GPT-3.5 y
+GPT-4 tiene el potencial de revolucionar muchos campos, incluido el
+procesamiento del lenguaje natural, la escritura creativa y la
+generación de contenido. Dado que las
+herramientas de IA generativa se han vuelto fácilmente accesibles
+para el público en los últimos meses, se están integrando
+rápidamente en diversos campos e industrias. Esto ha creado una
+necesidad urgente de que las universidades desarrollen una política
+educativa sobre IA que prepare a los estudiantes para trabajar
+con esta tecnología y comprender sus principios. Hay varias razones
+que respaldan esta necesidad: Los graduados
+	deberán tener una sólida comprensión de los principios de la IA
+	para tener éxito en los campos donde la IA ya está instalada, como
+	la economía, las finanzas, la atención sanitaria y el transporte.
+	Una política educativa de IA puede proporcionar a los estudiantes
+	los conocimientos y habilidades necesarias para
+	trabajar con IA a nivel profesional. La IA se puede
+	utilizar para mejorar el aprendizaje de los estudiantes
+	proporcionando retroalimentación personalizada en tiempo real y
+	adaptándose a los estilos de aprendizaje individuales. Al educar a
+	los estudiantes sobre IA, las universidades pueden ayudar a
+	prepararlos para ser participantes activos en el desarrollo y la
+	implementación de la tecnología de IA, garantizando que beneficie
+	a la sociedad en su conjunto. A medida que el
+	uso de la IA en la educación y la evaluación se vuelve más
+	frecuente, es esencial que los estudiantes comprendan los principios
+	detrás de la tecnología para mantener la integridad
+	académica y evitar las trampas, como se mencionó
+	anteriormente. Una política
+	educativa sobre IA puede enseñar a los estudiantes las
+	consideraciones éticas que rodean a la IA, como el sesgo y
+	la justicia, así como las posibles consecuencias del uso de la IA
+	en contextos académicos. La tecnología
+	de inteligencia artificial avanza rápidamente y es probable que
+	desempeñe un papel cada vez más importante en la sociedad en los
+	próximos años. Al brindar capacitación en IA a estudiantes y
+	docentes, las universidades pueden ayudar a garantizar que los
+	graduados estén preparados para contribuir al desarrollo de la IA y
+	afrontar los problemas éticos, sociales y económicos que
+	probablemente surjan a medida que la IA se generalice. Esta
+	formación también debería ayudar a los estudiantes a convertirse
+	en usuarios competentes y responsables de la IA en su vida
+	diaria. Comentarios Revisa versiones Texto actualizado y completo de la Constitución Política de Chile de 1980.

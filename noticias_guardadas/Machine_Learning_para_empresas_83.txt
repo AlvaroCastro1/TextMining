@@ -1,0 +1,41 @@
+Título: Machine Learning para empresas
+URL: https://es.linkedin.com/pulse/machine-learning-para-empresas-rosana-ferrero
+Número de palabras: 595
+
+
+              Aceptar y unirse a LinkedIn
+             
+      Al hacer clic en «Continuar» para unirte o iniciar sesión, aceptas las Condiciones de uso, la Política de privacidad y la Política de cookies de LinkedIn.
+     
+                Crea tu cuenta gratuita o inicia sesión para continuar tu búsqueda
+                 
+              o
+             
+      Al hacer clic en «Continuar» para unirte o iniciar sesión, aceptas las Condiciones de uso, la Política de privacidad y la Política de cookies de LinkedIn.
+     
+                ¿Estás empezando a usar LinkedIn? Únete ahora
+ 
+                      o
+                     
+                ¿Estás empezando a usar LinkedIn? Únete ahora
+ 
+      Al hacer clic en «Continuar» para unirte o iniciar sesión, aceptas las Condiciones de uso, la Política de privacidad y la Política de cookies de LinkedIn.
+     El machine learning es una tecnología muy atractiva para las empresas, permite a los ordenadores aprender de la experiencia, es transversal y se aplica a cualquier tipo de negocio sea cual sea su actividad. Conforma los bloques de construcción de la Inteligencia artificial. Pero el machine learning puede mejorar el desempeño de las empresas solo si se aplica correctamente. Este artículo describe ejemplos de uso del aprendizaje automático, los roles laborales que deben incluirse y cómo encajan en el proceso de desarrollo de la empresa. Existen muchas diferencias entre los tipos de aprendizaje automático supervisado y no supervisado, y es importante comprender cómo se puede usar cada uno en un entorno empresarial. ¿Por qué es relevante para un director empresarial comprender si un proyecto pertenece a un determinado tipo de aprendizaje automático?  👉Solo el aprendizaje supervisado utiliza funciones de entrada (características; e.g. variables socio-demográficas del cliente) para aprender patrones con los cuales predecir la variable objetivo (etiquetas de salida, e.g. resultado de compra/no compra un seguro). Cada tipo de aprendizaje automático tiene sus ventajas y desventajas. Aquí tienes un breve resumen que otro día desarrollaremos.  Veamos los principales ejemplos del mundo real sobre la aplicación del aprendizaje automático supervisado y no supervisado. En cualquier empresa, es muy importante contratar a las personas adecuadas para trabajar en las necesidades de datos existentes y asegurarse de que sus habilidades y motivaciones estén alineadas con la madurez y los objetivos de los datos de la empresa.  Implementar una solución de aprendizaje automático puede ser costoso, en tiempo y recursos. Por ello, el rol del científico de datos es esencial, debe evaluar si tiene sentido implementar una solución de aprendizaje automático para resolver el problema en cuestión. La empresa no debe omitir los pasos de procesar y analizar los datos primero, buscar anomalías, crear modelos de predicción de prototipos, probar si pueden identificar la respuesta que se espera ocurra y luego, si muestra resultados prometedores, identifique oportunidades para una solución automatizada de aprendizaje automático.  En definitiva, es posible que un directivo empresarial no quiera tomar todas las decisiones, pero tener un conocimiento básico sólido de los roles de datos, las herramientas y las diferentes formas de estructurar una organización de datos es un conjunto de habilidades necesario para potenciar el trabajo de su equipo de ingeniería y ciencia de datos, y también para sobrevivir a sus discusiones. Senior Data Analyst at Telconet | Data Scientist | Business Intelligence Gracias Rosana Ferrero por el artículo 👍 
+Inicia sesión para ver o añadir un comentario.
+     
+                  
+        ¿Conoces R Markdown? Con RMarkdown puedes analizar, compartir y reproducir tus análisis de datos en una única…
+      
+                 
+                  
+        ERRORES mortales que incluso los expertos cometen Continúa leyendo, si te atreves..
+      
+                 
+                  
+        📌 Dentro de unos días comienza un nuevo proyecto en el que hemos puesto mucho trabajado y cariño, el nuevo Máster de…
+      
+                 
+                  
+        ✓ Programa 100% Online/Práctico‎ ✓ Personalizada (autorización individual) ✓ Bonificable para empresas ✓ Créditos: 66…
+      
+                 

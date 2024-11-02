@@ -1,0 +1,142 @@
+Título: Machine learning: ¿Qué es y cómo puede beneficiar a las empresas? | Conexión ESAN
+URL: https://www.esan.edu.pe/conexion-esan/machine-learning-que-es-y-como-puede-beneficiar-a-las-empresas
+Número de palabras: 2642
+
+ El machine learning es parte de la Inteligencia Artificial (IA) y se enfoca en crear sistemas que pueden aprender por sí mismos. Esta tecnología brinda múltiples ventajas en el ámbito empresarial. Por:
+																	Richard Moarri Nohra										el 23 Agosto 2022				 
+Compartir en:
+
+
+
+
+ ¿Qué tienen en común Netflix, The North Face y Spotify? Estas marcas de prestigio internacional aplican una tecnología llamada machine learning. Gracias al uso de esta herramienta, han logrado potenciar su servicio logístico y responder a tiempo las nuevas demandas de su público. El auge del machine learning –o aprendizaje automático– es a nivel mundial y así lo demuestran distintos estudios. Por ejemplo, un sondeo de Algorithmia reveló que el 76 % de las empresas encuestadas dio prioridad al machine learning sobre otras iniciativas de TI en 2021. Así lo reportó Forbes. El machine learning es una rama de la Inteligencia Artificial (IA) y componente del creciente campo de la ciencia de datos. Se enfoca en la creación de sistemas que pueden identificar patrones entre los datos masivos y utilizarlos para aprender por sí mismos. Mediante el uso de algoritmos, las máquinas son capaces de crear predicciones y realizar tareas específicas de forma autónoma. Es decir, sin la necesidad de ser programadas por humanos. "El machine learning es un maestro del reconocimiento de patrones. Es capaz de convertir una muestra de datos en un programa informático capaz de extraer inferencias de nuevos conjuntos de datos para los que no ha sido entrenado previamente", afirma José Luis Espinoza, científico de datos de BBVA México. La tecnología del machine learning consiste en algoritmos que se pueden dividir en los siguientes tres métodos: Son algoritmos que tienen un aprendizaje previo, cuya base es un sistema de etiquetas asociadas a unos datos. Este método facilita la toma de decisiones o predicciones de las máquinas. Por ejemplo, el detector de spam, que le asigna o no este rótulo a un e-mail dependiendo de los patrones que ha aprendido del historial de correos. En este caso, los algoritmos no se respaldan en un aprendizaje previo. Estos algoritmos analizan los datos y buscan patrones para organizarlos. En el marketing, este método se aplica para extraer información de las redes sociales y con ella crear campañas segmentadas en distintos públicos. Este método consiste en que un sistema aprenda a cumplir una tarea determinada luego de pasar por un proceso de pruebas y errores. Es decir, a partir de su propia experiencia. El aprendizaje por refuerzo se usa, por ejemplo, para clasificar secuencias de ADN o posibilitar el reconocimiento facial. El machine learning se aplica en muchos campos y para distintas misiones. Se puede emplear en la robótica como para la identificación del fraude en el uso de tarjetas de crédito. Por supuesto, esta tecnología también se implementa en el mundo empresarial. En un informe de Cloudera de 2019, el 47 % de las empresas encuestadas afirmó haber invertido en machine learning. Así lo reportó el portal Hosteltur. Estos son algunos beneficios que otorga esta tecnología a las empresas: Permite realizar proyecciones. Gracias al análisis de los hábitos de compra de los usuarios, el machine learning detecta las tendencias del mercado lo que ayuda a pronosticar con exactitud los productos y/o servicios que tendrán más demanda. Reduce la carga operativa. Automatiza procedimientos y reduce las tareas repetitivas, lo que genera una mejora en el desempeño del recurso humano y una significativa reducción de costes. Eleva y personaliza la calidad de la atención al cliente. Por ejemplo, por intermedio de los chatbots, que responden las 24 horas del día y recopilan datos, que sirven para profundizar en los intereses del consumidor. Mejora la segmentación de anuncios. Los algoritmos de machine learning cuentan con la capacidad de pronosticar qué contenidos son más eficaces para cada target. Optimiza diligencias internas de una empresa. Estas incluyen el control de inventario, la lectura de códigos de barras o el seguimiento de empleados. Potencia y acelera la toma de decisiones. Esto permite disminuir riesgos. Por ejemplo, el software puede hallar anomalías en el entorno de seguridad y reportarlo al instante.   En definitiva, el machine learning se ha convertido en un pilar clave en la era de la transformación digital. Y es que las empresas encuentran en esta tecnología nuevas y eficientes soluciones para distintas tareas. Fuentes bibliográficas: Forbes (2021, 17 de enero). 76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets. BBVA (2019, 8 de noviembre). 'Machine learning': ¿qué es y cómo funciona? IBM (2020, 15 de julio). Machine Learning. Iberdrola. Descubre los principales beneficios del 'Machine Learning'. Hosteltur (2019, 3 de enero). Nueve de cada diez grandes empresas están invirtiendo en machine learning.   Gracias al uso del machine learning, distintas empresas han logrado potenciar su servicio logístico y responder a tiempo las nuevas demandas de su público. Richard Moarri Nohra Ha participado en diversas corporaciones multinacionales como consultor y líder tecnológico en proyectos de racionalización e integración de procesos, y de modelamiento estratégico para la toma de decisiones. MBA por ESAN. Estudios de especialización en Chile y Estados Unidos en áreas de planeamiento estratégico y analítica de negocios. Certificación “MIT Professional Education Certificate of Completion” en Machine Learning (2019). Ha participado en diversas corporaciones multinacionales como consultor y líder tecnológico en proyectos de racionalización e integración de procesos, y de modelamiento estratégico para la toma de decisiones. MBA por ESAN. Estudios de especialización en Chile y Estados Unidos en áreas de planeamiento estratégico y analítica de negocios. Certificación “MIT Professional Education Certificate of Completion” en Machine Learning (2019). La inteligencia de negocios ayuda a las empresas a aprovechar mejor la data recabada de sus clientes para tomar decisiones más efectivas. Aquí te explicamos sus beneficios. El machine learning consiste en utilizar datos y algoritmos para complementar el aprendizaje humano. ¡Conoce sus tipos aquí! Business intelligence consiste en analizar datos y convertirlos en información de valor para ayudar a las empresas. ¡Conoce sus beneficios aquí! Suscríbete al newsletter de noticias y novedades. Universidad ESAN (en adelante, UESAN), asegura la reserva y protección de
+los datos personales proporcionados voluntariamente al momento de
+establecer un vínculo con la institución, a través del respeto a la privacidad y
+protección de la confidencialidad de los datos personales.
+ Confidencialidad de La Información UESAN tratará la información proporcionada voluntariamente de manera
+confidencial, teniendo en cuenta siempre las garantías y medidas de
+seguridad que reconoce la Ley N.° 29733, Ley de Protección de Datos
+Personales, y su reglamento. Por ello, su información será tratada
+directamente por la UESAN para los fines que se detallan en el presente
+documento.
+ Excepcionalmente, podrá compartir esta información con terceros, que serán
+oportunamente informados, que podrían colaborar con la UESAN en el
+desarrollo de determinadas actividades descritas en el presente documento
+y exclusivamente a efectos de cumplir con ellas. En cualquier caso, siempre
+se adoptarán las medidas necesarias para que este hecho no afecte la
+seguridad y confidencialidad de su información. La UESAN no vende ni cede a terceros la información personal recibida. Los
+datos personales que usted facilite serán tratados con total confidencialidad.
+Para estos efectos, hemos adoptado los niveles de seguridad de protección
+de los datos personales legalmente requeridos, y hemos implementado las
+medidas técnicas y organizativas necesarias para evitar la pérdida, mal uso,
+alteración, acceso no autorizado o robo de datos personales.
+ Autorización para el uso de sus datos personales Su consentimiento permite a la UESAN realizar el tratamiento de todos los
+datos personales que suministre o se generen de acuerdo al plazo de
+conservación señalado en el numeral 9. Sus datos serán almacenados en
+las basesde datos de titularidad y responsabilidad de la UESAN ubicada en
+Jr. Alonso de Molina 1652, Monterrico Chico, Santiago de Surco, Lima -
+Perú. La autorización resulta obligatoria para la realización de las actividades
+descritas en el presente documento. En caso de negativa, ellas no se podrán
+realizar, salvo las que resulten necesarias para la ejecución de una relación
+contractual o las que resulten obligatorias por ley. Tratamiento de datos personales de nuestros alumnos y egresados Si usted es alumno o egresado de UESAN, utilizaremos su información para
+las siguientes finalidades: i) gestión académica; ii) prestación de servicios
+provistos por la UESAN (por ejemplo, servicios educativos, culturales,
+deportivos) o por terceros con los que hubiéramos suscrito un convenio o
+contrato, para lo cual podemos compartir su información, exclusivamente,
+para las finalidades aquí descritas y siempre garantizando la seguridad de
+sus datos personales; iii) atención de consultas, reclamos y quejas; iv)
+ofrecimiento de servicios académicos, culturales, deportivos y similares
+organizados por la UESAN y sus respectivas unidades y centros de
+enseñanza; v) mantenimiento del registro de alumnos y egresados; vi) gestión
+del cobro de pensiones; vii) evaluación de su situación socioeconómica y la
+de su familia como parte de los procesos destinados a determinar o revisar la
+pensión que le corresponde; viii) realización de encuestas; ix) evaluación de
+solicitudes de crédito educativo, becas, y otros beneficios proporcionados por
+la UESAN o por terceros con los que hubiéramos suscrito un convenio, en
+cuyo caso podemos compartir su información exclusivamente para dichos
+fines, además algunos de sus datos serán utilizados para realizar consultas
+ante fuentes accesibles al público, a fin de determinar la veracidad de su
+información; x) acreditación académica de UESAN frente a entidades
+internacionales y/o nacionales; xi) gestión de oportunidades laborales en la
+bolsa de trabajo administrada por UESAN, para lo cual podremos brindar sus
+datos de contacto e información que incluya en su CV y Bolsa de Trabajo a
+empresas o entidades interesadas en contar con sus servicios profesionales;
+xii) atención de servicios de salud y evaluaciones, para lo cual podemos
+compartir su información con terceros con los que hubiéramos suscrito un
+convenio, exclusivamente, para dicho fin; xiii) obtención de grados
+académicos y títulos profesionales; xiv) mantenimiento de contacto con la red
+de alumnos egresados y graduados de la UESAN e invitación para afiliarse a
+las asociaciones respectivas; xv) de ser el caso, registrarlo como proveedor
+de servicios de UESAN y gestionar el pago por los mismos; xvi) atender
+requerimientos de información de entidades de la Administración Pública;
+xvii) remitir a los colegios de procedencia información académica general
+sobre sus egresados, y, xviii) en general, para el cumplimiento de cualquier
+finalidad conexa con su relación como alumno o egresado de la UESAN. Adicionalmente, utilizaremos sus datos como nombres y apellidos, correo
+electrónico, unidad académica UESAN, grados académicos, títulos
+profesionales, distinciones y premios obtenidos, publicaciones, producciones,
+e investigaciones, de ser el caso, para difundirlos en nuestro directorio en el
+portal web. Sin perjuicio de ello, otros datos personales que ingrese al CV
+podrán ser difundidos en las plataformas antes mencionadas según lo decida
+y configure usted en el Portal Académico.
+ Tratamiento de datos personales de los postulantes a pregrado y posgrado Si está postulando a una vacante académica en la UESAN, utilizaremos sus
+datos para las siguientes finalidades: i) atención de su postulación; ii) gestión
+de consultas y reclamos; iii) mantenimiento de un registro de prospectos y
+postulantes; iv) gestión del cobro de derechos académicos de postulación; v)
+publicación de los resultados de su postulación; vi) permitir que las
+autoridades de la institución educativa de la cual proviene consulten los
+resultados de su participación en el proceso de admisión; vii) informar sobre
+la oferta educativa de la UESAN a través de actividades de prospección; viii)
+realización de encuestas; y, ix) en general, para el cumplimiento de cualquier
+finalidad conexa con su postulación a la UESAN. Asimismo, autoriza a la
+UESAN a utilizar su imagen en nuestro portal institucional, afiches o en
+cualquier publicidad nuestra. Por otro lado, en caso haya obtenido una vacante luego del proceso de
+admisión, utilizaremos los datos que registre a través de la Ficha de
+Evaluación Socioeconómica para evaluar su situación socioeconómica y la
+de su familia a fin de determinar el grado de pensión en la cual debe ubicarse.
+Para lograr ello, es posible que algunos de sus datos sean utilizados para
+realizar consultas ante entidades públicas y privadas, o a través de fuentes
+accesibles al público, con el propósito de validar la veracidad de la
+información manifestada por usted.
+ Tratamiento de datos personales de participantes en otras actividades académicas y no académicas Si va a participar en una actividad académica o no académica, utilizaremos
+su información para las siguientes finalidades: i) gestión del proceso de
+inscripción; ii) atención de consultas y reclamos; iv) mantenimiento de un
+registro de inscritos; v) registro de ingreso al campus universitario y otros
+establecimientos de la UESAN; vi) gestión del cobro de derechos
+académicos; vii) publicación de los resultados de su inscripción; viii)
+expedición de certificaciones; ix) remisión de los resultados de su
+participación, entre otros datos conexos, a las instituciones públicas o
+privadas involucradas directamente con la actividad respectiva; x) invitación
+a eventos académicos, culturales, deportivos y similares organizados por la
+UESAN y sus respectivas unidades y centros de enseñanza; xi) realización
+de encuestas; y, xii) en general, para el cumplimiento de cualquier finalidad
+conexa con su participación en las actividades antes mencionadas. Tratamiento de datos personales para prospección Si usted lo autoriza en los formularios respectivos, su información podrá ser
+utilizada para el envío de publicidad sobre la diversa oferta educativa que la
+UESAN ofrece en sus distintas escuelas, facultades o programas. Para tal
+efecto, la información le será enviada principalmente a través de su correo
+electrónico UESAN o del correo personal que usted hubiera proporcionado. Información de menores de edad 14 - 18 años Los datos personales de contacto de menores de edad de entre 14 y 18 años
+serán recibidos para de atender su postulación a una vacante en la UESAN,
+y para gestionar su participación en actividades académicas y no académicas
+de su interés.
+ Si usted es menor de 14 años, deberá contar con la autorización de sus
+padres para el registro de su información en nuestro portal, motivo por el cual
+deberá brindarnos los datos de contacto de sus padres o apoderados para
+obtener su consentimiento. Compromiso de protección de datos personales Si por algún motivo, en el marco de la relación (académica o de prestación
+de servicios) que lo vincula con la UESAN, usted accede a datos personales
+que le proporcione la UESAN, se compromete a:
+ (i) Utilizar las bases de datos o los datos personales que pudiera recibir o
+acceder directa o indirectamente de la UESAN únicamente para los fines que
+disponga la Universidad. (ii) Guardar confidencialidad en el tratamiento de las bases de datos o de los
+datos personales, inclusive con posterioridad a la culminación de su relación
+con la UESAN. (iii) Devolver o destruir la información referida a bases de datos o datos personales que hubiera recibido de UESAN, según esta lo disponga. En caso de incumplimiento de este compromiso o de las disposiciones de la
+Ley de Protección de Datos Personales o su reglamento, la UESAN podrá
+tomar las acciones correctivas correspondientes, sin perjuicio de iniciar las
+acciones legales necesarias para resarcir cualquier daño que pueda sufrir
+como consecuencia del incumplimiento. Plazo de Conservación Los datos personales recogidos por los Sitios Webs o sus aplicaciones se
+conservarán por el plazo de 10 años, el que resulte necesario para el
+cumplimiento de las finalidades antes descritas o el requerido por norma para
+el cumplimiento de sus obligaciones legales, el que resulte mayor, y en tanto
+no sea revocado. Contáctenos Para ejercer cualquiera de los derechos reconocidos en la Ley de Protección
+de Datos Personales o informarle sobre el manejo de su información, puede
+comunicarse al correo legal@esan.edu.pe o a la siguiente dirección:
+Universidad ESAN, Jr. Alonso de Molina 1652, Monterrico Chico, Santiago de
+Surco, Lima - Perú. Dirección: Alonso de Molina 1652, Monterrico, Surco Teléfono:317-7200, 712-7200 Correo:informes@esan.edu.pe Esta web utiliza cookies propias y de terceros que permiten mejorar la usabilidad de navegación y recopilar información. No se utilizarán las cookies para recoger información de carácter personal. Solo se instalarán las cookies esenciales para la navegación. Aceptar

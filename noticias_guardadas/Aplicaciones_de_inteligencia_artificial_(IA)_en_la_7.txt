@@ -1,0 +1,44 @@
+Título: Aplicaciones de inteligencia artificial (IA) en la educación
+URL: https://www.educo.org/blog/aplicaciones-de-ia-en-la-educacion
+Número de palabras: 1138
+
+La inteligencia artificial tiene muchas aplicaciones en la educación, por ejemplo, un chatbot puede ayudar a un alumno o alumna a conocer las fechas de publicación de los resultados de un examen, pero esto es solo la punta del iceberg. En el post de hoy te contamos qué es la inteligencia artificial, qué recomendaciones da la UNESCO respecto a la aplicación de la IA en educación y cómo se puede utilizar la IA en la enseñanza.
+ 
+Aunque los ordenadores han avanzado mucho todavía no piensan igual que los humanos y, sobre todo, no tienen emociones humanas. Sin embargo, la IA puede ayudar en muchas tareas relacionadas con el aprendizaje de niños y niñas y fomentar la innovación educativa.  La inteligencia artificial se puede definir como la tecnología que es capaz de emular las capacidades de la mente humana, por lo que puede razonar, aprender, crear y planear. Básicamente, el sistema recibe datos (los puede recibir del exterior con sensores, por ejemplo, o son introducidos), los procesa y responde a ellos. Por ejemplo, cuando realizamos una búsqueda por internet la inteligencia artificial actúa considerando todos los datos que aportan los usuarios para darnos resultados que sean relevantes. Existen multitud de usos de la IA en muchos ámbitos y también en el educativo.  En el año 2019 la UNESCO publicó los llamados Consejos de Beijing sobre la inteligencia artificial y la educación en los que daba indicaciones para poder obtener provecho de la tecnología de la IA en la educación.
+ 
+Las recomendaciones más destacadas eran las siguientes: Planificar la IA en las políticas educativas para sacar provechos de sus posibilidades. Apoyar el desarrollo de nuevos modelos que han sido posibles gracias a las tecnologías de la inteligencia artificial con el objetivo de suministrar servicios educativos y en formación en los que las ventajas prevalezcan sobre los riesgos. Utilización de datos para planificar políticas basadas en información empírica. Velar por que la inteligencia artificial empodere a los docentes en lugar de reemplazarlos. Preparar a la próxima generación de trabajadores en base a valores y competencias para la vida y el trabajo más oportunas en la era de la inteligencia artificial. Promover la utilización equitativa e inclusiva de la inteligencia artificial, con independencia de cualquier discapacidad, estatus social o económico, origen étnico o cultural o situación geográfica, impulsando la igualdad de género y aplicando la ética. Según el Informe anual sobre el uso de la tecnología en la educación elaborado por BlinkLearning, el 68% de los docentes asegura que la motivación en el aula aumenta con las TIC y su principal ventaja pedagógica es el acceso a un mayor número de contenidos (74%). Por otro lado, el cambio en los intereses de los alumnos se debe a internet, a las redes sociales y a la información que encuentran navegando.
+ 
+Por lo tanto, el uso de la IA puede suponer muchas ventajas para profesores y alumnos. Algunas de las aplicaciones que tiene son las siguientes: Diseño de programas de estudios avanzados. La inteligencia artificial puede ayudar al profesorado a buscar información sobre contenidos relevantes para el diseño de los programas de estudio. De esta forma los contenidos que se elijan estarán actualizados y en línea con las últimas tendencias.
+	  Tutorías personalizadas. La Inteligencia artificial también se puede utilizar para elaborar las calificaciones de tests o exámenes, detectar los errores más habituales de los alumnos y alumnas o medir su aprendizaje. Además, como se trata de una herramienta virtual estará disponible las 24 horas del día y desde cualquier lugar.
+	  Evaluaciones de forma remota. Si algún alumno o alumna no puede asistir a la escuela, la inteligencia artificial se puede utilizar para realizar evaluaciones remotas de sus conocimientos y continuar con su aprendizaje.
+	  Contenidos de aprendizaje personalizados. Cada niño y niña tiene una forma de aprender y una velocidad para adquirir conocimientos y la IA se puede adaptar a cada caso y ofrecer los contenidos adecuados y en la forma que mejor encaje con el menor: vídeos, textos, audios etc.
+	  Actualización de los conocimientos de los docentes. Los profesores también podrán, a través de la IA, descubrir nuevas metodologías de enseñanza y actualizar sus conocimientos para estar siempre al día. Esto permitirá aumentar la calidad de la enseñanza y avanzar hacia una de las metas relacionadas con el objetivo de la educación de calidad de los Objetivos de Desarrollo Sostenible: "De aquí a 2030, aumentar considerablemente la oferta de docentes calificados, incluso mediante la cooperación internacional para la formación de docentes en los países en desarrollo, especialmente los países menos adelantados y los pequeños Estados insulares en desarrollo".
+	  Realización de predicciones de abandono escolar. El abandono escolar es uno de los problemas más graves en la educación. Muchos niños y niñas en familias desfavorecidas dejan de estudiar para ponerse a trabajar y ayudar a su familia. En España la tasa de abandono escolar ha aumentado en 2022 y se sitúa en 13,9%, tras varios años de descensos. La inteligencia artificial permite detectar el problema y adelantarse para proporcionar soluciones y evitar el abandono de la escuela.
+	  ​​​Recopilación y análisis de datos de los centros escolares. Las escuelas pueden utilizar la inteligencia artificial para recopilar datos de los alumnos de forma masiva y analizarlos en segundos para poder tomar decisiones más acertadas y rápidas en base a información actualizada y real. Como consecuencia de todo lo anterior, la inteligencia artificial, así como otras tecnologías, llegaron para quedarse y para facilitar muchas labores del día a día en la educación e incrementar su calidad. No obstante, no podemos olvidar el riesgo de la brecha digital en aquellos casos de escuelas o familias que no tienen recursos para acceder a la tecnología.
+ 
+Por lo tanto, la IA es una herramienta con un gran potencial para cambiar la forma en la que se enseña y en la que se aprende, por lo que es importante conocerla y analizar las aplicaciones que puede tener en el entorno educativo.
+
+Derechos de imagen: Andy Kelly en Unsplash 
+
+
+                                        IA
+                                    
+,                                    
+                                        inteligencia artificial
+                                    
+,                                    
+                                        profesores
+                                    
+,                                    
+                                        tendencias educación
+                                    
+ Conoce quiénes somos, qué hacemos y por qué lo hacemos. Recibe nuestra newsletter con todas las novedades. 
+            ¿TE IMAGINAS ABRIR LA NEVERA Y VERLA VACÍA?
+         
+            Es la realidad de miles de familias en España. Colabora con las BECAS COMEDOR.
+         
+ ¿TE IMAGINAS ABRIR LA NEVERA Y VERLA VACÍA? Es la realidad de miles de familias en España. Colabora con una BECA COMEDOR para que sus hijos tengan garantizada una buena alimentación. 
+                        (c) 2024 Educo. Todos los derechos reservados
+                     
+                        Haz tu donación y en tu próxima declaración de renta, podrás deducir de la cuota el 80% de tu donación hasta 150€, y hasta un 40% del resto de la donación (con límite del 10% de la base liquidable). Educo está inscrita en el Registro de Fundaciones de la Generalitat de Cataluña con el número 790. CIF G-60541554
+                    

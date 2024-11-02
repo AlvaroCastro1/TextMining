@@ -1,0 +1,34 @@
+Título: INTELIGENCIA ARTIFICIAL APLICADA A LAS EMPRESAS Y  NEGOCIOS – Fundación Educacional MR
+URL: https://fundacioneducacionalmr.com/curso/inteligencia-artificial-aplicada-a-los-negocios/
+Número de palabras: 670
+
+$70.000 La Inteligencia Artificial (IA) está cambiando drásticamente el entorno empresarial y cómo funcionan las empresas. Actualmente, es la tecnología más importante de nuestros tiempos ya que puede cambiar los procesos tradicionales, como de empoderar aquellas empresas que la aplican correctamente.
+Este curso, permite entregar las herramientas base a los profesionales de distintas áreas del conocimiento, que se inicien en esta tecnología, tanto para la incorporación a las empresas o negocios, como para ser utilizada como información complementaria en sus actividades profesionales cotidianas.  24 hrs  2023  70.000 OBJETIVOS 1. Profundizar en los fundamentos y conceptos clave de la IA, así como en los métodos y técnicas utilizadas para resolver problemáticas de negocio.
+2. Conocer los principales algoritmos y herramientas relacionados con el Machine Learning, para ser capaz de implementarlos en la resolución de problemas sin tener conocimientos previos de programación.
+3. Ser capaz de liderar proyectos de IA, no sólo desde un punto de vista técnico sino también gerencial, desarrollando perfiles multidisciplinares que sepan relacionar y conectar diferentes áreas de negocio y prácticas tecnológicas.
+4. Entender las aplicaciones de la IA en las diferentes Industrias y profundizar en los casos de uso con mayor impacto de negocio. MÓDULOS Módulo 1. Introducción a la Inteligencia Artificial.
+1. La Inteligencia Artificial en la actualidad. El futuro del crecimiento en la IA.
+2. El papel de la IA
+3. Vías de crecimiento basados en la IA.
+4. Ejemplos aplicados a la temática descrita en el Módulo 1. Módulo 2. Utilización de Machine Learning en la industria.
+1. Conceptos previos
+2. Fundamentos del Machine Learning.
+ Aprendizaje
+ Error y problemas de ajuste.
+ Etapas de un proyecto Machine Learning.
+3. Aprendizaje supervisado, no supervisado, reforzado y profundo.
+4. Aplicaciones de Machine Learning en la industria.
+5. Casos aplicados. a los temas tratados en el Módulo 2. Módulo 3. Herramientas de plataforma Inteligencia Artificial y Robótica.
+ Plataformas de IA y sus aplicaciones. TENSORFLOW (Google) y AZURE (Microsoft).
+ Introducción a la tecnología con enfoque en procesos y tareas. Análisis de casos.
+ Beneficios de la incorporación en la organización.
+ Casos aplicados a los conceptos planteados en el módulo 3. Módulo 4. Aplicaciones empresariales y su impacto en el negocio.
+1. Interacción inteligente: la optimización de la experiencia de cliente, a través de la hiper-personalización, interfaces conversacionales y la explotación de
+datos en tiempo real.
+2. Productos y servicios inteligentes: las capacidades que proporciona la IA y la búsqueda de nuevos modelos de negocio y mercados.
+3. Operaciones inteligentes: combinación de la IA con soluciones de automatización, para habilitar el auto-aprendizaje.
+4. Funciones de soporte corporativas inteligentes (seguridad, RRHH, tecnología, etc.): el uso de la IA para aumentar la inteligencia humana y mejorar la toma de decisiones.
+5. Casos aplicados a la temática presentada en el módulo 4. METODOLOGÍA El curso es 100% on line y utiliza una metodología basada en el constructivismo, en donde el alumno es actor principal de su propio aprendizaje, integrando los contenidos de enseñanza-aprendizaje (material bibliográfico, ejercicios formativos, actividades y evaluaciones) a través de una plataforma virtual planteada con tal fin. El diseño del curso es de tipo modular (en donde cada módulo contiene actividades que refuerzan conceptos vistos previamente) y foros de participación. Cada uno de los módulos es lineal, es decir, no podrá acceder al módulo 2 si no ha finalizado el módulo 1 y así, sucesivamente. Todo el trabajo se encuentra orientado por un tutor quien desempeña la labor de guía y retroalimenta las actividades, tanto individuales como colaborativas propuestas en plataforma. Así, cada alumno contará con un tutor, quien tendrá la responsabilidad de apoyarlo durante todo el proceso de estudio, atendiendo a sus dudas y consultas, referidas tanto al uso de la plataforma cómo a los contenidos (vía web y mensajería interna plataforma Moodle). CERTIFICACIÓN Los participantes que aprueben recibirán un Certificado Digital otorgado por Fundación Educacional MR. $70.000 Fundación Educacional MR +56 32 2954920 | +56 994353584
+contacto@fundacioneducacionalmr.com
+contacto@institutoprofesionalmr.org
+Calle Limache 1724 . Of 1107 . Edificio Contemporáneo . Viña del Mar. Chile.

@@ -1,0 +1,661 @@
+Título: Gemini - Google DeepMind
+URL: https://deepmind.google/technologies/gemini/
+Número de palabras: 1592
+
+Latest posts Latest research posts Latest technology posts Latest posts Technologies Updated production-ready Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more Technologies Gemini breaks new ground: a faster model, longer context and AI agents Technologies Our next-generation model: Gemini 1.5 Technologies The next chapter of our Gemini era The most general and capable AI models we've ever built. Each Gemini model is built for its own set of use cases, making a versatile model family that runs efficiently on everything from data centers to on-device. Ultra Our largest model for highly complex tasks. Pro Our best model for general performance across a wide range of tasks. Flash Our lightweight models in two variants, optimized for speed and efficiency. Nano Our most efficient model for on-device tasks. Project Astra explores the future of AI assistants. Building on our Gemini models, we’ve developed AI agents that can quickly process multimodal information, reason about the context you’re in, and respond to questions at a conversational pace, making interactions feel much more natural.  The demo shows two continuous takes: one with the prototype running on a Google Pixel phone and another on a prototype glasses device. Gemini models are built from the ground up for multimodality, seamlessly combining and understanding text, code, images, audio, and video. Following content is a visual/ descriptive representation of the functionality of Gemini: 
+Gemini
+models
+can
+generate
+code
+based
+on
+different
+kinds
+of
+inputs.
+ 
+            Gemini models can generate code based on different kinds of inputs.
+           Gemini 
+Gemini
+models
+can
+generate
+text
+and
+images,
+combined.
+ 
+            Could Gemini show me ideas for what to make?
+           Gemini 
+                      How about an octopus with blue and pink tentacles?
+                     
+Gemini
+models
+can
+understand
+and
+perform
+tasks
+involving
+several
+different
+written
+languages.
+ 
+
+                    Could
+                  
+
+                    Gemini
+                  
+
+                    explain
+                  
+
+                    what
+                  
+
+                    this
+                  
+
+                    means?
+                  
+ Gemini 
+              I see the time signature is 6/8. This means there are 6 eighth notes in each measure.
+             
+              The dynamic marking is piano, which means to play softly. Andante grazioso means to play at a graceful walking pace.
+             1.5 Pro and 1.5 Flash both have a default context window of up to one million tokens — the longest context window of any large scale foundation model. They achieve near-perfect recall on long-context retrieval tasks across modalities, unlocking the ability to process long documents, thousands of lines of code, hours of audio, video, and more. For 1.5 Pro, developers and enterprise customers can also sign up to try a two-million-token context window. Research Our research team is continually exploring new ideas at the frontier of AI, building innovative products that show consistent progress on a range of benchmarks. Capability Benchmark Description 
+            Gemini 1.5 Flash-8B
+           (Oct 2024) 
+            Gemini 1.5 Flash
+           (May 2024) 
+            Gemini 1.5 Flash
+           (Sep 2024) 
+            Gemini 1.5 Pro
+           (May 2024) 
+            Gemini 1.5 Pro
+           (Sep 2024) 
+            General
+           
+            MMLU-Pro
+           
+            Enhanced version of popular MMLU dataset with questions across
+            multiple subjects with higher difficulty tasks
+           
+            General
+           
+            MMLU-Pro
+           
+            Enhanced version of popular MMLU dataset with questions across
+            multiple subjects with higher difficulty tasks
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            58.7%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            59.1%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            67.3%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            69.0%
+           
+              Gemini 1.5 Pro
+             
+              (Sept 2024)
+             
+            75.8%
+           
+            Code
+           
+            Natural2Code
+           
+            Code generation across Python, Java, C++, JS, Go . Held out dataset
+            HumanEval-like, not leaked on the web
+           
+            Code
+           
+            Natural2Code
+           
+            Code generation across Python, Java, C++, JS, Go . Held out dataset
+            HumanEval-like, not leaked on the web
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            75.5%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            77.2%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            79.8%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            82.6%
+           
+              Gemini 1.5 Pro
+             
+              (Sep 2024)
+             
+            85.4%
+           
+            Math
+           
+            MATH
+           
+            Challenging math problems (incl. algebra, geometry, pre-calculus,
+            and others)
+           
+            Math
+           
+            MATH
+           
+            Challenging math problems (incl. algebra, geometry, pre-calculus,
+            and others)
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            58.7%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            54.9%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            77.9%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            67.7%
+           
+              Gemini 1.5 Pro
+             
+              (Sep 2024)
+             
+            86.5%
+           
+            HiddenMath
+           
+            Competition-level math problems, Held out dataset AIME/AMC-like,
+            crafted by experts and not leaked on the web
+           
+            HiddenMath
+           
+            Competition-level math problems, Held out dataset AIME/AMC-like,
+            crafted by experts and not leaked on the web
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            32.8%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            20.3%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            47.2%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            28.0%
+           
+              Gemini 1.5 Pro
+             
+              (Sep 2024)
+             
+            52.0%
+           
+            Reasoning
+           
+            GPQA (diamond)
+           
+            Challenging dataset of questions written by domain experts in
+            biology, physics, and chemistry
+           
+            Reasoning
+           
+            GPQA (diamond)
+           
+            Challenging dataset of questions written by domain experts in
+            biology, physics, and chemistry
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            38.4%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            41.4%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            51.0%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            46.0%
+           
+              Gemini 1.5 Pro
+             
+              (Sep 2024)
+             
+            59.1%
+           
+            Multilingual
+           
+            WMT23
+           
+            Language translation
+           
+            Multilingual
+           
+            WMT23
+           
+            Language translation
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            72.6
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            74.1
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            73.9
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            75.3
+           
+              Gemini 1.5 Pro
+             
+              (Sep 2024)
+             
+            75.1
+           
+            Long Context
+           
+            MRCR (1M)
+           
+            Diagnostic long-context understanding evaluation
+           
+            Long Context
+           
+            MRCR (1M)
+           
+            Diagnostic long-context understanding evaluation
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            54.7%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            70.1%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            71.9%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            70.5%
+           
+              Gemini 1.5 Pro
+             
+              (Sep 2024)
+             
+            82.6%
+           
+            Image
+           
+            MMMU
+           
+            Multi-discipline college-level multimodal reasoning problems
+           
+            Image
+           
+            MMMU
+           
+            Multi-discipline college-level multimodal understanding and
+            reasoning problems
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            53.7%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            56.1%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            62.3%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            62.2%
+           
+              Gemini 1.5 Pro
+             
+              (Sep 2024)
+             
+            65.9%
+           
+            Vibe-Eval (Reka)
+           
+            Visual understanding in chat models with challenging everyday
+            examples. Evaluated with a Gemini Flash model as a rater
+           
+            Vibe-Eval (Reka)
+           
+            Visual understanding in chat models with challenging everyday
+            examples. Evaluated with a Gemini Flash model as a rater
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            40.9%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            44.8%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            48.9%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            48.9%
+           
+              Gemini 1.5 Pro
+             
+              (Sep 2024)
+             
+            53.9%
+           
+            MathVista
+           
+            Mathematical reasoning in visual contexts
+           
+            MathVista
+           
+            Mathematical reasoning in visual contexts
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            54.7%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            58.4%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            65.8%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            63.9%
+           
+              Gemini 1.5 Pro
+             
+              (Sep 2024)
+             
+            68.1%
+           
+            Audio
+           
+            FLEURS (55 lang)
+           
+            Automatic speech recognition (based on word error rate, lower is
+            better)
+           
+            Audio
+           
+            FLEURS (55 lang)
+           
+            Automatic speech recognition (based on word error rate, lower is
+            better)
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            13.6%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            9.8%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            9.6%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            6.5%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            6.7%
+           
+            Video
+           
+            Video-MME
+           
+            Video analysis across multiple domains
+           
+            Video
+           
+            Video-MME
+           
+            Video analysis across multiple domains
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            66.2%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            74.7%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            76.1%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            77.9%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            78.6%
+           
+            Safety
+           
+            XSTest
+           
+            Measures how often models refuse to respond to safe/benign prompts.
+            The score represents how frequently models correctly fulfill
+            requests
+           
+            Safety
+           
+            XSTest
+           
+            Measures how often models refuse to respond to safe/benign prompts.
+            The score represents how frequently models correctly fulfill
+            requests
+           
+              Gemini 1.5 Flash-8B
+             
+              (Oct 2024)
+             
+            92.6%
+           
+              Gemini 1.5 Flash
+             
+              (May 2024)
+             
+            86.9%
+           
+              Gemini 1.5 Flash
+             
+              (Sep 2024)
+             
+            97.0%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            88.4%
+           
+              Gemini 1.5 Pro
+             
+              (May 2024)
+             
+            98.8%
+           May 2024 Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context December 2023 Gemini 1.0: A family of highly capable multimodal models For developers Integrate Gemini models into your applications with Google AI Studio and Google Cloud Vertex AI. Build Google AI Studio An easy way to develop model prompts and build quickly with the Gemini API. Build Vertex AI Purpose-built tools for data scientists and machine learning engineers. Build Gemma Next-gen open models for AI innovation. Try the models Example prompts for the Gemini API in Google AI Studio. Research Assistant Understand the key attributes of a research paper’s methodology. Plant care How do I best care for this plant? Which shape comes next? Given a series of shapes, guess which shape comes next. Our models undergo extensive ethics and safety tests, including adversarial testing for bias and toxicity.  Hands-on Gemini models are embedded in a range of Google experiences. Gemini app Chat to supercharge your ideas Workspace Boost productivity and creativity with Gemini in Gmail, Docs, Sheets, and more Pixel Pixel 8 Pro is the first smartphone with Gemini Nano, Google’s most efficient AI model built for on-device tasks Chrome Develop AI-powered web experiences and reimagine what's possible with Gemini Nano in Chrome Ads Gemini models are powering products to help businesses deliver growth and performance Cloud Innovate faster with enterprise-ready AI, enhanced by Gemini models Android Boost your productivity with Gemini in Android Studio Technologies Updated production-ready Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more We’re releasing two updated production-ready Gemini models Technologies Gemini breaks new ground: a faster model, longer context and AI agents We’re introducing a series of updates across the Gemini family of models, including the new 1.5 Flash, our lightweight model for speed and efficiency, and Project Astra, our vision for the future... Technologies Our next-generation model: Gemini 1.5 The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities. Technologies The next chapter of our Gemini era We're bringing Gemini to more Google products Sign up for news on the latest innovations from Google DeepMind. I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance with Google's Privacy Policy. 
+
+
+
+
+    
+  Google AI 
+
+
+
+
+    
+  Google AI for Developers 
+
+
+
+
+    
+  Gemini 
+
+
+
+
+    
+  Google Cloud 
+
+
+
+
+    
+  Google Labs I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance with Google's Privacy Policy.

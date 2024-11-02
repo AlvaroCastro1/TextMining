@@ -1,0 +1,17 @@
+Título: Big Data Vs Machine Learning: ¿Cuál es la diferencia?
+URL: https://merida.anahuac.mx/posgrado/blog/big-data-vs-machine-learning-diferencia
+Número de palabras: 479
+
+
+ Jan 5, 2022 10:53:30 AM / by
+                    
+                        Posgrado Anáhuac Mayab
+  En pleno 2021, las empresas más grandes del mundo están apostando por obtener el máximo provecho al Big Data y al Machine Learning; sin embargo, para poder entender mejor las implicaciones de estas dos áreas, es necesario identificar las diferencias entre ellas y la forma en que ambas se complementan.  El término Big Data comenzó a emplearse en la década de los 90, y se define como un área encargada de analizar y extraer grandes cantidades de información de manera sistemática, las cuales son demasiado extensas para procesar por medio de softwares convencionales.   Existen tres conceptos principales sobre los que se basa el Big Data:   El Big Data, entre otras cosas, sirve para realizar análisis estadísticos y predicción de comportamiento con información precisa para, así, identificar tendencias, prevenir acciones y combatir retos que de otra forma no se habrían podido identificar.Entre sus usos, destacan:      Este último presenta un universo de posibilidades para la mejora de operaciones en una empresa: El Big Data y la gran cantidad de información contenida en él ha permitido que las máquinas adquieran una mayor importancia, lo que tiene como resultado la generación de herramientas de Inteligencia Artificial y Machine Learning.Esta última abre la posibilidad a que las máquinas “aprendan” por medio de la generación de algoritmos, sin que alguien tenga que programarlas. El Machine Learning contempla cuatro enfoques principales:   1. Aprendizaje supervisado 2. Aprendizaje no supervisado 3. Aprendizaje semi supervisado 4. Aprendizaje de reforzamiento   Entre los principales beneficios del Machine Learning se encuentra la identificación de tendencias en el comportamiento de los clientes, patrones operativos en las empresas y bases sólidas para la generación de productos, anticipándose a las necesidades futuras del mercado.Las grandes compañías se encuentran aún en la tarea de absorber tanto conocimiento como sea posible a partir del Big Data y del Machine Learning para obtener el mayor provecho de ambas, siendo uno de los principales retos la selección y la filtración de los datos para crear un panorama de posibilidades más eficiente y eficaz.     Un programa de 8 fines de semana enfocado en entender cómo aplicar Big Data en las organizaciones, a fin de utilizar su información para una toma de decisiones más asertivas que les permitan mejorar sus estrategias empresariales.Está dirigido a profesionistas en puestos de gerencia media y directivos que requieran tomar decisiones estratégicas basadas en el manejo de información; el programa está basado en una perspectiva práctica, en la que se abordarán conceptos, herramientas y flujos de trabajo relacionados con el análisis de información moderno, entendiendo su aplicación para implementar soluciones en las organizaciones. Consulta nuestro programa de estudios aquí.     Otros artículos relacionados: 
+Teléfono: (999) 942 4800 con 5 líneas
+
+Carr. Mérida Progreso Km. 15.5  AP. 96 Cordemex, CP. 97310, Mérida, Yucatán, México.
+ 
+
+ 
+Miembro de 
+Sitio institucional   |   Aviso de privacidad   |   Términos y condiciones de uso

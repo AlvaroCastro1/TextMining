@@ -1,0 +1,117 @@
+Título: Inteligencia Artificial y su Impacto en Salud
+URL: https://www.eleconomista.com.mx/opinion/Inteligencia-Artificial-y-su-Impacto-en-Salud-20230421-0064.html
+Número de palabras: 1330
+
+Lectura 6:00 min José Luis Cárdenas T. / @PepoCardenasT José Luis Cárdenas T. viernes 21 de abril de 2023 - 13:46 En los últimos meses la conversación social sobre el avance vertiginoso de las inteligencias artificiales (“IA”) y sus múltiples aplicaciones en nuestra sociedad ha tomado una relevancia sin precedentes. La salud no es la excepción. Las formas de inteligencia artificial, como los algoritmos de aprendizaje profundo, aprendizaje automático y las redes neuronales, se están explorando intensamente para nuevas aplicaciones en salud en ámbitos como el diagnóstico por imagen, el análisis de riesgos, la gestión y el seguimiento del estilo de vida, la gestión de la información en salud y la asistencia virtual. Los beneficios esperados en estas áreas son amplios e incluyen una mayor velocidad en la obtención de imágenes, diagnósticos, una mayor comprensión de la detección predictiva y una disminución significativa en costos y atención ineficiente en salud. Sin embargo, las herramientas clínicas basadas en la IA también crean una serie de situaciones en las que los valores y principios éticos comúnmente aceptados, así como sus consideraciones legales, pueden verse cuestionados. Lo anterior ha sido objeto de un reciente estudio de 2022, por el Parlamento Europeo, denominado “Artificial intelligence in healthcare - Applications, risks, and ethical and societal impacts”. Por su parte, la consultura Accenture estimó que para el 2021, los hospitales invertirían 6,600 millones de dólares anuales en tecnologías relacionadas con la IA, fundamentalmente en países desarrollados. De la misma forma, los investigadores Safavi y Kalis, estiman que las aplicaciones de IA podrían generar hasta 150,000 millones de dólares de ahorro anual para el sistema de salud estadounidense al 2026. Por su parte, el National Bureau of Economic Research llega más allá, calculando un ahorro de entre el 5% y el 10% en el gasto en salud de EE.UU., es decir, entre 200,000 y 360,000 millones de dólares. Una de las aplicaciones más importantes de la IA en salud es el diagnóstico. Los sistemas de IA pueden analizar grandes cantidades de datos médicos, incluyendo imágenes médicas, para detectar enfermedades y condiciones de manera precisa y rápida. Por ejemplo, la IA puede analizar imágenes de tomografías computarizadas para identificar signos de cáncer de pulmón o puede analizar imágenes de retina para detectar problemas de visión. Ello es muy relevante dado que algunas estimaciones indican que los errores de diagnóstico representan el 60% de todos los errores médicos. En enfermedades raras, el uso de IA para el diagnóstico puede ser especialmente decisivo. De hecho, se conocen entre 6,000 y 8,000 enfermedades raras, que afectan a unos 400 millones de personas en todo el mundo. Se calcula que se necesita una media de cinco años para diagnosticar una enfermedad rara. Por lo tanto, los pacientes con enfermedades raras invierten tiempo, esfuerzos y recursos económicos para obtener un diagnóstico preciso. Ya hay algunas empresas que ofrecen servicios de diagnóstico de ADN para enfermedades raras utilizando IA. Como el personal médico no está especializado en todas las enfermedades raras, tienden a centrarse sólo en algunas de las que conocen, lo que producen muchos falso positivos o negativos. Otra aplicación importante de la IA en salud es la personalización del tratamiento. Los sistemas de IA pueden analizar los datos médicos de un paciente, incluyendo su historial médico y su perfil genético, para determinar el tratamiento más efectivo y personalizado para ese paciente. Esto puede ayudar a mejorar la eficacia de los tratamientos y reducir los efectos secundarios. Además, la IA puede utilizarse para predecir y prevenir enfermedades. Al analizar grandes cantidades de datos médicos, los sistemas de IA pueden identificar patrones y tendencias que pueden indicar un mayor riesgo de enfermedad en ciertos pacientes. Esto puede permitir a los médicos tomar medidas preventivas y ofrecer consejos personalizados para reducir el riesgo de enfermedad. En la actualidad, la IA ya ayuda a médicos y hospitales alrededor del mundo a mejorar la eficiencia y la productividad en la atención médica, por ejemplo, con la automatización de tareas administrativas, como la programación de citas y la gestión de registros médicos, dando oportunidad a los profesionales de la salud de centrarse en la atención al paciente. También pueden ayudar a los médicos a tomar decisiones más informadas y a gestionar mejor su tiempo. Sin embargo, es importante tener en cuenta que la IA no puede reemplazar a los profesionales de la salud. Los sistemas de IA son herramientas valiosas que pueden mejorar la atención médica, pero no pueden tomar decisiones por sí solos. Los médicos y otros profesionales de la salud deben seguir siendo responsables de la toma de decisiones clínicas, la atención al paciente; al igual que a la actualización médica continua y acceso al conocimiento. En ese sentido, se plantean importantes desafíos legales y éticos que deben ser abordados para garantizar que se utilice de manera responsable y segura. Respecto de la privacidad y protección de datos, la IA en salud al procesar grandes cantidades de datos personales y médicos sensibles, debe garantizarse su anonimización y almacenamiento seguro, y cumpliendo con las normativas de protección de datos y privacidad aplicables. En relación a la responsabilidad y toma de decisiones, la IA puede ayudar a los médicos y profesionales de la salud a tomar decisiones más informadas y precisas, sin embargo, debe dilucidarse quién es responsable legalmente de las decisiones, cuál es el deber de cuidado a utilizar y cómo se podrías cuestionar o impugnar las mismas en caso de errores. Otro riesgo relacionado a la IA es el sesgo y discriminación que las herramientas puedan tener, derivadas de los datos de entrenamiento y del diseño de los algoritmos, por lo que es esencial que existan mecanismos que permitan detectar y corregir a tiempo dichos errores, así como hackeos o similares. Las regulaciones de estos diversos y complejos aspectos, en varias partes del mundo, todavía están en etapas embrionarias y deben avanzar, para que la IA vinculada con salud, pueda desarrollarse adecuadamente, en medio de voces que llaman a suspender su avance. En definitiva, la IA tiene el potencial de transformar la atención médica y mejorar la calidad de vida de los pacientes. Es una realidad que avanza rápidamente en los países desarrollados, pero también tiene un gran potencial para los países en vías de desarrollo. Como se observó, existen riesgos y amplios beneficios, que deben ser ponderados adecuadamente para contar con regulaciones adecuadas, para que sea una herramienta que genera más salud para los pacientes, siempre en conjunto con los profesionales de la salud. *El autor es experto en políticas públicas en salud, Director de la Asociación Chilena de Derecho de la Salud, ha sido académico en diversas universidades chilenas sobre temas relacionados con sistemas de salud. El autor es abogado (Universidad de Chile) y Doctor en Derecho, Universidad de Friburgo, Alemania, experto en políticas públicas en salud, director de la Asociación Chilena de Derecho de la Salud, ha sido académico en diversas universidades chilenas sobre temas relacionados con sistemas de salud. Únete infórmate descubre 
+
+
+                Por Mariana Concepción Cuenca
+
+
+01/11/2024 - 15:43
+ 
+
+
+                Por Maribel Ramírez Coronel
+
+
+01/11/2024 - 12:25
+ 
+
+
+                Por Héctor Cárdenas Suárez
+
+
+01/11/2024 - 10:05
+ 
+
+
+                Por Jorge Bravo
+
+
+01/11/2024 - 10:04
+ 
+
+
+                Por Jaime Guerrero Vázquez
+
+
+01/11/2024 - 8:46
+ 
+
+
+                Por Ángel Jaramillo Torres 
+
+
+01/11/2024 - 8:32
+ 
+
+
+                Por Xavier Ginebra Serrabou
+
+
+01/11/2024 - 6:08
+ 
+
+
+                Por Alfonso Muñoz de Cote Otero
+
+
+01/11/2024 - 6:04
+ 
+
+
+                Por Vidal Llerenas Morales
+
+
+01/11/2024 - 0:46
+ 
+
+
+                Por Redacción El Economista
+
+
+01/11/2024 - 0:44
+ 
+
+
+                Por Eduardo Ruiz-Healy
+
+
+31/10/2024 - 23:58
+ 
+
+
+                Por Demetrio Sodi
+
+
+31/10/2024 - 23:54
+ 
+
+
+                Por Alberto Aguirre
+
+
+31/10/2024 - 23:52
+ 
+
+
+                Por Javier Núñez Melgoza
+
+
+31/10/2024 - 22:54
+ 
+
+
+                Por Gabriel Quadri de la Torre
+
+
+31/10/2024 - 22:45
+ 
+
+
+                Por Enrique Campos Suárez
+
+
+31/10/2024 - 21:27
+ Una empresa de Nacer Global Suscríbete a nuestros Newsletter. Al suscribirte, aceptas nuestras políticas de privacidad. Síguenos Copyright © 1988-2015 Periódico Especializado en Economía y Finanzas, S.A. de C.V. All Rights Reserved. Derechos Reservados. Número de reserva al Título en Derechos de Autor 04-2010-062510353600-203. Al visitar esta página, usted está de acuerdo con los términos del servicio Síguenos

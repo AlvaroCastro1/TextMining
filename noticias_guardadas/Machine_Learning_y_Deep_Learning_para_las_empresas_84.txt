@@ -1,0 +1,76 @@
+Título: Machine Learning y Deep Learning para las empresas
+URL: https://ticnegocios.camaravalencia.com/servicios/tendencias/machine-learning-deep-learning-para-empresas/
+Número de palabras: 2114
+
+
+La Inteligencia Artificial (IA) impulsó en los últimos años una revolución en el entorno empresarial que abrió las puertas a soluciones enfocadas en la automatización y rapidez en los procesos.
+De hecho surgió el Machine Learning y Deep Learning dos principios ligados a la IA y que han transformado el desempeño de los negocios.
+Antes de explicar ambas tecnologías, es necesario recordar que la Inteligencia Artificial se refiere a la capacidad de una máquina para procesar los datos que recibe, que a la vez son producto de experiencias previas. El trabajo es similar al funcionamiento del cerebro humano, que capta información y la transforma para generar conocimientos.
+Ahora bien, ¿sabes que es el Machine Learning y Deep Learning, diferencias, importancia y aplicación dentro de la empresa? Todas tus dudas las respondemos en el post.
+Qué es el Machine Learning
+¿Alguna vez has comprado por internet y mientras buscas un producto o marca, notas que aparecen otras opciones parecidas?
+La acción es posible gracias al Machine Learning, la tecnología de Inteligencia Artificial que permite a los sistemas identificar patrones y tomar decisiones basadas en datos y no en programaciones previas o supervisión humana. La innovación tiene presencia en diversas áreas, por lo que sus aplicaciones son amplias.
+Por ejemplo, en el mundo del marketing es de gran utilidad porque facilita el análisis del comportamiento y necesidades de clientes para impulsar las ventas y mejorar la experiencia del cliente.
+Además, está presente en tu día a día, como es el caso de las plataformas de streaming que recomiendan contenidos en particular o cuando llegan sugerencias de amistad en las redes sociales.
+Qué es el Deep Learning
+Por otro lado, el Deep Learning es un tipo de Machine Learning más avanzado que tiene como objetivo entrenar un sistema para que pueda aprender por sí mismo.
+En pocas palabras se trata de un algoritmo automático que imita la percepción humana inspirada en el cerebro y la conexión entre neuronas.
+Esta tarea es posible mediante el reconocimiento de patrones y la ejecución de actividades como las que realizan las personas.
+Como rama de la Inteligencia Artificial usa una clase particular de algoritmo, denominada redes neuronales.
+Es cierto que los algoritmos se crean y funcionan parecido al Machine Learning, pero existen capas de redes neuronales que se encargan de entregar de forma individual una interpretación diferente de los datos.
+Pues bien, el propósito es imitar la función del cerebro lo que abarca el reconocimiento de voz, la detección de objetos y la identificación de imágenes.
+El uso de Deep Learning no está tan lejos de nuestra vida diaria. Tal es el caso del reconocimiento facial para desbloquear pantallas de teléfonos inteligentes, de la tecnología que usan los asistentes de voz como Alexa de Amazon, o Siri de Apple e incluso, los sistemas biométricos de huellas dactilares, rostro, voz, entre otros.
+Diferencias entre Machine Learning y Deep Learning
+Deep Learning y Machine Learning son parecidos, pero no iguales.
+El Machine Learning trabaja con algoritmos de regresión o con árboles de decisión y el Deep Learning emplea redes neuronales que funcionan de forma similar a las conexiones biológicas del cerebro humano.
+La diferencia clave está en el método de aprendizaje, siendo el Deep Learning más autónomo y también más complejo.
+También hay otros aspectos como:
+
+Intervención humana. Aunque ambas disciplinas alcanzan a trabajar de forma individual, con el Machine Learning se requiere mayor presencia humana para lograr los resultados esperados; mientras que con el Deep Learning se puede obtener independencia.
+Nivel de complejidad. Se refiere a la diversidad de sus algoritmos y los recursos que necesitan para funcionar.
+
+Mientras que los sistemas de aprendizaje automático son más simples y pueden actuar en equipos convencionales, con el aprendizaje profundo es fundamental un software más robusto y potente para procesar sus redes neuronales.
+
+Tiempo. El periodo necesario para que una máquina trabaje con autonomía en la identificación de patrones y predicciones es menor en el Machine Learning. Sin embargo, sus resultados no alcanzan el grado de precisión que ofrece el Deep Learning.
+Datos. Para que el aprendizaje automático alcance su máximo potencial necesita que los datos hayan sido previamente estructurados.
+
+Por otro lado, el aprendizaje profundo puede trabajar sin dificultades con grandes volúmenes de datos no ordenados, siendo de gran valor si sirven para identificar tendencias o patrones.
+
+Modelización. En el Machine Learning se escogen de forma manual las cualidades y el clasificador para catalogarlas. Con el Deep Learning los pasos de extracción de características son automáticos.
+Patrones. Con Machine Learning es necesario guiar a la máquina en cada una de las fases del proceso para que aprenda a identificar. Por otro lado, en el Deep Learning el dispositivo se instruye por sí solo con cada nuevo input de información que recibe.
+
+Por qué son importantes el Machine Learning y el Deep Learning para las empresas
+El Machine Learning y el Deep Learning influyen para que las empresas obtengan escalabilidad, mayor rendimiento, ahorro de costes y tiempo.
+Además, aportan los siguientes beneficios:
+
+Según un estudio de la red de servicios profesionales Deloitte aplicar la Inteligencia Artificial en los negocios  genera un alto nivel de retorno financiero. 
+Con el Machine Learning es posible crear de forma más eficiente  algunos modelos para analizar datos que permiten identificar oportunidades rentables o de evitar riesgos desconocidos.
+Ayudan a estudiar los patrones de preferencias de los usuarios para ofrecer productos personalizados.
+Una de las grandes ventajas de estas dos tecnologías es que admiten la automatización de las tareas rutinarias dentro de una organización. Un punto positivo porque estas absorben mucho tiempo o esfuerzo del talento humano y no proporcionan valores añadidos.
+Las herramientas de aprendizaje automático previenen fallos y errores, ya que la Inteligencia Artificial puede excluir cualquier acción que comprometa o ponga en riesgo el desarrollo de productos y servicios.
+Protegen las redes, sistemas y terminales de las organizaciones ante los  peligros del ciberataque.
+Detectan fraudes y verifican cuáles transacciones son legítimas y cuáles no. Incluso son viables para develar la mala administración de recursos.
+
+Aplicaciones de Machine Learning y Deep Learning para empresas
+Si llegaste a este punto ya conoces las bondades del  Machine Learning y Deep Learning, así que vamos a conocer sus usos más extendidos dentro de los negocios: 
+
+Decisiones. De acuerdo con los datos históricos del algoritmo, se pueden contemplar diferentes escenarios posibles y cuáles son los más favorables para los objetivos de la organización.
+Chatbots. Estos chats orientados con Inteligencia Artificial sirven para atender sin restricción de horario las inquietudes de todos aquellos que visiten la web de una empresa.
+Recomendaciones a clientes. Se alcanza conociendo la actitud del cliente, las tendencias socio demográficas, el comportamiento, entre otros aspectos.
+Saber por qué se ha perdido un cliente. Ya que el Machine Learning y Deep Learning son útiles para detectar tendencias y señales de que la relación con un cliente está empezando a deteriorarse.
+Investigaciones de mercado. Permite a los negocios enviar el mensaje correcto, al público idóneo y en el momento adecuado.
+Detección de fraude. Porque se pueden descubrir anomalías en el comportamiento de clientes, por ejemplo, en sus gastos financieros.
+Control de calidad. Es probable decidir en décimas de segundo si un producto cumple con los estándares o no, si presenta defectos dimensionales o de cualquier otro tipo.
+Mantenimiento predictivo. Con la Inteligencia Artificial es posible conocer si un equipo tiene mayor probabilidad de fallar en un futuro concreto.
+
+Es cierto que aún es complejo visualizar los beneficios del Machine Learning y Deep Learning en las empresas, pero podemos asegurar que sí es posible que impulsen la transformación digital.
+Como ya sabes, aplicar la tecnología a favor de los productos, servicios y procesos de tu negocio generará valor para el cliente y en consecuencia aumenta la ventaja competitiva.
+  La Inteligencia Artificial (IA) impulsó en los últimos años una revolución en el entorno empresarial que abrió las puertas a soluciones enfocadas en la automatización y rapidez en los procesos. De hecho surgió el Machine Learning y Deep Learning dos principios ligados a la IA y que han transformado el desempeño de los negocios. Antes de explicar ambas tecnologías, es necesario recordar que la Inteligencia Artificial se refiere a la capacidad de una máquina para procesar los datos que recibe, que a la vez son producto de experiencias previas. El trabajo es similar al funcionamiento del cerebro humano, que capta información y la transforma para generar conocimientos. Ahora bien, ¿sabes que es el Machine Learning y Deep Learning, diferencias, importancia y aplicación dentro de la empresa? Todas tus dudas las respondemos en el post. ¿Alguna vez has comprado por internet y mientras buscas un producto o marca, notas que aparecen otras opciones parecidas? La acción es posible gracias al Machine Learning, la tecnología de Inteligencia Artificial que permite a los sistemas identificar patrones y tomar decisiones basadas en datos y no en programaciones previas o supervisión humana. La innovación tiene presencia en diversas áreas, por lo que sus aplicaciones son amplias. Por ejemplo, en el mundo del marketing es de gran utilidad porque facilita el análisis del comportamiento y necesidades de clientes para impulsar las ventas y mejorar la experiencia del cliente. Además, está presente en tu día a día, como es el caso de las plataformas de streaming que recomiendan contenidos en particular o cuando llegan sugerencias de amistad en las redes sociales. Por otro lado, el Deep Learning es un tipo de Machine Learning más avanzado que tiene como objetivo entrenar un sistema para que pueda aprender por sí mismo. En pocas palabras se trata de un algoritmo automático que imita la percepción humana inspirada en el cerebro y la conexión entre neuronas. Esta tarea es posible mediante el reconocimiento de patrones y la ejecución de actividades como las que realizan las personas. Como rama de la Inteligencia Artificial usa una clase particular de algoritmo, denominada redes neuronales. Es cierto que los algoritmos se crean y funcionan parecido al Machine Learning, pero existen capas de redes neuronales que se encargan de entregar de forma individual una interpretación diferente de los datos. Pues bien, el propósito es imitar la función del cerebro lo que abarca el reconocimiento de voz, la detección de objetos y la identificación de imágenes. El uso de Deep Learning no está tan lejos de nuestra vida diaria. Tal es el caso del reconocimiento facial para desbloquear pantallas de teléfonos inteligentes, de la tecnología que usan los asistentes de voz como Alexa de Amazon, o Siri de Apple e incluso, los sistemas biométricos de huellas dactilares, rostro, voz, entre otros. Deep Learning y Machine Learning son parecidos, pero no iguales.
+El Machine Learning trabaja con algoritmos de regresión o con árboles de decisión y el Deep Learning emplea redes neuronales que funcionan de forma similar a las conexiones biológicas del cerebro humano. La diferencia clave está en el método de aprendizaje, siendo el Deep Learning más autónomo y también más complejo. También hay otros aspectos como: Mientras que los sistemas de aprendizaje automático son más simples y pueden actuar en equipos convencionales, con el aprendizaje profundo es fundamental un software más robusto y potente para procesar sus redes neuronales. Por otro lado, el aprendizaje profundo puede trabajar sin dificultades con grandes volúmenes de datos no ordenados, siendo de gran valor si sirven para identificar tendencias o patrones. El Machine Learning y el Deep Learning influyen para que las empresas obtengan escalabilidad, mayor rendimiento, ahorro de costes y tiempo. Además, aportan los siguientes beneficios: Si llegaste a este punto ya conoces las bondades del  Machine Learning y Deep Learning, así que vamos a conocer sus usos más extendidos dentro de los negocios:  Es cierto que aún es complejo visualizar los beneficios del Machine Learning y Deep Learning en las empresas, pero podemos asegurar que sí es posible que impulsen la transformación digital. Como ya sabes, aplicar la tecnología a favor de los productos, servicios y procesos de tu negocio generará valor para el cliente y en consecuencia aumenta la ventaja competitiva. Categorías Tandem Marketing Digital Agencia de marketing online especializada en Posicionamiento SEO y otros servicios digitales como: Diseño Web, Posicionamiento SEM, Hosting, Ecommerce y Social Media. ¿Eres un proveedor de soluciones TIC y quieres aparecer en este portal? ¿Eres una empresa y no encuentras lo que estás buscando? Recibe, cada dos semanas, todas las novedades sobre las tecnologías de la información para empresas. C/Poeta Querol, 15 - 46002
+							València 
+Asesoramiento en digitalización - 963 103 924 
+Atención a partners y socios - 963 103 970 
+Gestión Comercial - 963 103 949
+Marketing y Comunicación - 963 103 960 
+ Mañanas atención telefónica y online: 8:30h a 14:00h (de lunes a viernes) 
+							Tardes atención online: 15:30 a 18:30 (de lunes a jueves)     
