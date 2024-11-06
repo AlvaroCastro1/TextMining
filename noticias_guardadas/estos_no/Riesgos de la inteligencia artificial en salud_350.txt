@@ -1,0 +1,104 @@
+Título: Riesgos de la inteligencia artificial en salud
+URL: https://www.telefonicaempresas.es/grandes-empresas/blog/riesgos-inteligencia-artificial-salud/
+Número de palabras: 1482
+
+La aplicación de la inteligencia artificial en salud representa grandes oportunidades, de las que ya he escrito en varias ocasiones. Y es que la agregación de los datos de salud procedentes de las historias clínicas electrónicas a los algoritmos puede permitir importantes avances, tanto científicos como en el cuidado inmediato de los pacientes. Si, además, somos capaces de incorporar los datos procedentes de nuestro genoma o de los weareables las posibilidades se magnifican. Aun así, hay implicaciones éticas y algunos riesgos de la inteligencia artificial en salud. También los hemos abordado. La Comisión Europea ya publicaba en 2019 sus “Directrices éticas para una inteligencia artificial fiable”. Y este pasado mes de junio veía la luz otro interesante trabajo, procedente del Servicio de Investigación del Parlamento Europeo. Lleva por título “Inteligencia artificial en salud. Aplicaciones, riesgos e impactos éticos y sociales”. El estudio identifica cuatro grandes áreas de aplicación de la inteligencia artificial en salud: El informe desglosa a continuación los peligros que conlleva la aplicación de la inteligencia artificial  en el campo de la salud: Los algoritmos dedicados al diagnóstico de una enfermedad se entrenan a partir de muchísimos datos y luego se comprueban una y otra vez con otros conjuntos de datos de prueba. Se obtiene, así, un “algoritmo entrenado”. No obstante, no es perfecto y puede equivocarse tanto al identificar una enfermedad donde no la hay (falso positivo) como al ignorar un caso real (falso negativo). Todo esto puede suponer tratamientos inadecuados y programaciones o priorizaciones de intervenciones médicas incorrectas. Por supuesto, una vez diseñado, desarrollado y entrenado el algoritmo, lo usan personas. Típicamente, profesionales sanitarios. Estos deben tener formación y entender correctamente los usos y las limitaciones de dichas herramientas a la hora de ponerlas en práctica, para no caer en errores que puedan llevar a diagnósticos erróneos y potenciales daños a los pacientes.  El mal uso de las herramientas de inteligencia artificial cobra más relevancia cuando el resultado de los algoritmos se pone directamente en manos de los pacientes, que pueden malinterpretar los resultados si no tienen la adecuada información sobre los mismos, o esta se halla oculta en gigantescos e ilegibles términos de servicio. Este es, sin duda, el peligro más documentado de los riesgos de la inteligencia artificial en salud. Los algoritmos se entrenan con datos pero esos datos no son “inocentes”. Por ejemplo, es posible que los datos que se hayan recogido de una determinada enfermedad de todos los pacientes que han pasado por un hospital durante un largo periodo de tiempo sean más en volumen y más fiables para un determinado colectivo (el de hombres blancos, casados, de mediana edad, con hijos, e ingresos medios-altos es un clásico).  Esa “desigualdad” en los datos termina trasladándose al algoritmo, que aprenderá a diagnosticar mejor a unos colectivos que a otros. Es algo que resulta de especial importancia cuando se le dan atribuciones a los algoritmos que, a mi juicio, no deberían tener, como priorizar la lista de espera para un trasplante. Si el algoritmo coge datos de trasplantes en el pasado y trata de priorizar en función de las probabilidades de supervivencia del paciente, introducirá necesariamente sesgos socioeconómicos y empezará a discriminar a los colectivos más desfavorecidos. Un problema de los algoritmos en medicina es que ven cosas que nosotros no vemos… pero no sabemos qué. Se ha descubierto que un algoritmo puede detectar el sexo de una persona a partir de una retinografía. Es algo que un oftalmólogo no es capaz de hacer pero no es posible explicar qué encuentra el algoritmo en la imagen que lo lleva a dicha conclusión.  Cuando uno “entra” en las tripas del algoritmo solo encuentra un cúmulo sucesivo de operaciones algebraicas con matrices numéricas, en las que el “entrenamiento” ha modelado una serie de parámetros de las operaciones. Pero ninguno de esos parámetros da ninguna pista de algo que podamos entender en términos humanos. Ocurre como cuando observamos la comunicación entre las neuronas de nuestro cerebro: sabemos lo que están haciendo y lo que acaban deduciendo, pero nada de lo que vemos nos permite explicar el mecanismo que se sigue.  Hay dos niveles de transparencia necesarios: transparencia en cuanto al proceso de desarrollo y uso del algoritmo (trazabilidad) y transparencia en cuanto al proceso de deducción (explicabilidad). Incluso con una regulación profundamente garantista como la que nos ofrece el Reglamento General de Protección de Datos de la Unión Europea, la privacidad y seguridad de nuestros datos de salud es una preocupación constante de instituciones y ciudadanos. La inteligencia artificial añade un punto de estrés a esta preocupación, pues empresas o particulares pueden, de forma maliciosa, deducir información valiosa sobre nuestra salud para luego comercializarla o usarla de forma indebida. ¿Cuál es la responsabilidad de un algoritmo? Y, ¿quién se hace cargo de ella: el desarrollador, quien proporcionó los datos, el que los usó? ¿Qué pasa cuando hay un daño a un individuo o a un colectivo y se busca al culpable? Hoy en día la regulación va muy por detrás de la tecnología y no es capaz de responder a estas preguntas, que están presentes desde el mismo momento en que se desarrollan los algoritmos y se ponen a trabajar. Muchas de las herramientas de inteligencia artificial se han desarrollado recientemente. Algunos  de los obstáculos que encuentran para ser puestas en valor en la práctica clínica habitual son: Por último, tras los riesgos de la inteligencia artificial en salud, el informe termina detallando los reglamentos existentes de aplicación al desarrollo de algoritmos de inteligencia artificial, así como los mecanismos de autocomprobación que sus creadores pueden poner en marcha. También expone las posibilidades que el Parlamento Europeo se encuentra a la hora de ampliar la regulación existente. En resumen, ¡os animo a leer estas interesantes 85 páginas!: un tema candente para este caluroso verano. Imagen: Shawn Carpenter   
+25/10/2024
+5 min
+ Proyecto pionero de cardioprotección en 200 farmacias rurales extremeñas El pasado 16 de octubre se celebraba el Día europeo de concienciación sobre el paro cardiaco. Los días internacionales ... 
+21/06/2024
+7 min
+ Un hub de innovación turístico para acelerar la digitalización del sector La semana pasada Telefónica anunciaba la creación del Hub de innovación turístico para prestar apoyo y soporte técnico especializado ... 
+28/05/2024
+9 min
+ Aprendizaje continuo, capitalizar la IA y otras claves del Talent Day En la última edición del Talent Day, que se celebró la semana pasada, Marta Machicot, directora global de Recursos ... Toda nuestra experiencia de transformación e innovación a tu alcance. Porque en Telefónica Empresas contamos con un equipo con experiencia tanto en proyectos internos de la compañía, como con clientes de distintos sectores y tamaños. Déjanos tus datos y tu asesor comercial contactará contigo para resolver dudas o ayudarte en lo que necesites. Si lo prefieres también puedes llamarnos al 1489 Calidad delservicio 
+
+
+
+Contacta con un asesor
+
+
+
+
+
+
+
+Section
+
+
+Contacta con un asesor
+Si eres un particular o  PYME envía tu consulta a través de www.movistar.es
+Déjanos tus datos y tu asesor comercial contactará contigo para resolver dudas o ayudarte en lo que necesites.
+
+
+
+Section
+
+Nombre y Apellidos
+        *
+
+
+
+
+Cargo
+        *
+
+
+
+
+Teléfono
+        *
+
+
+
+
+A qué hora quieres que te llamemos
+        *
+
+
+A qué hora quieres que te llamemos*A cualquier horaPor la mañanaPor la tarde 
+
+
+Email
+        *
+
+
+
+
+Nombre Empresa
+        *
+
+
+
+
+CIF
+        *
+
+
+
+
+Áreas de interés
+        *
+
+
+Áreas de interés*ConectividadCloudCiberseguridad y Seg. tecnológicaProcesosClientesEmpleadosOtros 
+
+
+Otra área de interés
+        *
+
+
+
+*Campos obligatorios
+
+Newsletter
+        *
+
+  
+ Ya soy cliente de Telefónica Empresas
+ 
+ No soy cliente de Telefónica Empresas
+
+
+Consulta aquí la política de privacidad  Contacta con un asesor Si eres un particular o  PYME envía tu consulta a través de www.movistar.es Déjanos tus datos y tu asesor comercial contactará contigo para resolver dudas o ayudarte en lo que necesites. Telefónica Empresas informa de que los datos que se facilitan en el presente formulario serán tratados por Telefónica de España S.A.U. y Telefónica Móviles España S.A.U. (en adelante “Telefónica Empresas”) como corresponsables, con la finalidad de realizar las gestiones para proporcionarle la información comercial solicitada así como el resto de finalidades que se hubieran permitido o autorizado de conformidad con lo dispuesto en la Política de Privacidad. Asimismo, Telefónica Empresas informa al usuario de que, de conformidad con su interés legítimo en poder darle una atención comercial adecuada, podrá comprobar fuentes de datos externas con la finalidad de asegurar que se identifica correctamente el segmento al que pertenece. Puede consultarse el detalle de dichas fuentes externas en www.movistar.es/privacidad/info-adicionalempresas. Telefónica Empresas informa que dispondrá de los siguientes medios para ejercer sus derechos dirigiendo un escrito Referencia DATOS, en caso de que sea cliente Telefónica Empresas o lo haya sido en algún momento, a la dirección de correo electrónico TE_datos@telefonica.com o dirigiendo un escrito al Apartado de Correos 46155, 28080 Madrid. En caso de que no sea cliente Telefónica Empresas podrá ejercer sus derechos escribiendo un correo electrónico a arcopcl@telefonica.com o llamando al número 900 10 50 92.
+ Δ  ¿Todavía no estás registrado?

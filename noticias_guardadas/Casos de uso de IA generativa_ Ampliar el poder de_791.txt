@@ -1,0 +1,151 @@
+Título: Casos de uso de IA generativa: Ampliar el poder de la automatización | SS&C Blue Prism
+URL: https://www.blueprism.com/es/resources/blog/generative-ai-use-cases-automation/
+Número de palabras: 3232
+
+Visión general Desarrollar 
+Process Assessment
+
+
+												Evaluar y priorizar candidatos de automatización
+											
+ 
+Process Intelligence
+
+
+												La percepción para automatizar y monitorear procesos
+											
+ 
+Capture
+
+
+												Capturar procesos y generar prototipos
+											
+ 
+UX Builder
+
+
+												Desarrollo de aplicaciones de código bajo/sin código
+											
+ 
+Automation Lifecycle Mgt
+
+
+												Acelere su proceso de automatización
+											
+ Automatizar 
+Desktop
+
+
+												Ejecute automatizaciones de escritorio de manera responsable
+											
+ 
+Interact
+
+
+												Colaboración entre humanos y trabajadores digitales para maximizar los resultados
+											
+ 
+Decision
+
+
+												Automatice decisiones similares a las humanas usando ML
+											
+ 
+Decipher IDP
+
+
+												Extract and validate data from documents
+											
+ 
+Document Automation
+
+
+												Extract data accurately, at speed, and with ease
+											
+ Orquestar 
+Chorus
+
+
+												Acelere el procesamiento directo
+											
+ 
+Process Intelligence
+
+
+												La percepción para automatizar y monitorear procesos
+											
+ Plataforma 
+Blue Prism Next Generation
+
+
+												Plataforma nativa de la nube que ofrece automatización inteligente
+											
+ 
+Blue Prism Enterprise
+
+
+												Plataforma de automatización inteligente segura y escalable
+											
+ 
+Blue Prism Cloud
+
+
+												Plataforma SaaS completamente administrada
+											
+ 
+IA Generativa
+
+
+												Amplíe el poder de la automatización inteligente con IA
+											
+ 
+Digital Exchange
+
+
+												Integre y amplíe las automatizaciones de procesos de expansión rápidamente
+											
+ 
+ROM™ 2
+
+
+												Incorpore las mejores prácticas en su programa de automatización inteligente
+											
+ 
+Todas las industrias
+
+
+													Muchas industrias se están dando cuenta del valor de la automatización
+												
+ 
+
+
+
+													Automatizaciones departamentales para que su equipo trabaje de manera más inteligente, no más intensa.
+												
+ 
+Nuestros socios
+
+
+													Explore tecnologías avanzadas de automatización inteligente de nuestro ecosistema de socios.
+												
+ Recursos Educación 
+
+
+
+
+								Gartner® Magic Quadrant™
+													 Contáctenos Comparta el enlace de recursos: Copia el enlace de recursos: Comparta el enlace de recursos: Copia el enlace de recursos: La inteligencia artificial (IA) generativa es el centro de atención de todo el mundo, incluidos todos los sectores del mercado, desde el sector bancario y financiero hasta la atención médica y la manufactura, y no pueden evitar preguntarse cómo aprovechar al máximo el uso de esta tecnología en desarrollo para conseguir una ventaja.  El tema de la IA trae consigo muchas preguntas y opiniones. Las herramientas generativas como ChatGPT, GitHub, Copilot y decenas de otros generadores de música y arte son las que más suenan. Seguramente, ya haya incursionado en la tecnología al preguntarle al simpático asistente virtual de IA de su barrio qué comida reparar para la semana o cómo redactar un correo electrónico para su jefe. Además, es muy probable que haya escuchado hablar de ella en las noticias.  Las herramientas de IA generativa emergentes facilitan aún más la generación de ideas “nuevas”, contenido creativo y soluciones. Sin embargo, a su vez, suponen el riesgo de dar pasos en falso en cuanto a la propiedad intelectual, las leyes de cumplimiento, los estándares de seguridad, la privacidad y seguridad de los datos, el impacto en la mano de obra y en la equidad y la ética. En el futuro, las normativas de cumplimiento de la IA generativa tendrán un papel muy importante para aquellas industrias que estén interesadas en usar esta tecnología. La IA generativa presenta una nueva posibilidad para reducir el tiempo para producir valor en las iniciativas de transformación digital al ofrecer al público en general una mejor accesibilidad a las tecnologías avanzadas. Hay mucho temor en torno a los aspectos desconocidos de la IA generativa, pero, ¿cómo podemos usarla? Y lo que es aún más importante, ¿cómo podemos usarla de manera segura en nuestras empresas? Ante el ojo inexperto, la IA generativa parece extrañamente humana. Aunque, en realidad, es un algoritmo sofisticado que crea contenido relevante nuevo en función de indicaciones e informado por la gran cantidad de datos recopilados sobre los cuales ha sido entrenada.  La IA generativa es una herramienta poderosa que funciona en diversos medios, incluidas las imágenes, videos, música, código de software e incluso interacciones de conversación. Pero no reemplaza a las personas y está de hacerlo. Debemos ver a la IA generativa como un colaborador y no como un exterminador. “La IA generativa tiene una amplia variedad de aplicaciones. Por ejemplo, puede usarse para la generación de imágenes, para crear nuevas composiciones musicales, generar textos casi humanos, mejorar y modificar el contenido existente o incluso simular entornos realistas con fines de formación en campos como los juegos o la realidad virtual (RV). Es importante destacar que, si bien la IA generativa puede generar resultados impresionantes, continúa siendo un campo en desarrollo, por lo que el contenido generado puede no ser siempre perfecto y sin fallas. Sin embargo, continúa avanzando y ha mostrado tener un enorme potencial en varias áreas creativas y de resolución de problemas”. La IA generativa utiliza varias técnicas en evolución, entre las que se incluyen el procesamiento del lenguaje natural (NLP) y los grandes modelos de lenguaje (LLM), que están equipadas para imitar el lenguaje humano. En general, estas aplicaciones están creadas sobre la base de lo que llamamos modelos fundacionales (FM), que son sistemas de IA basados en el aprendizaje profundo. Pensemos en ellos como bases de formación en las que su IA estudia y aprende a partir de un amplio conjunto de datos. En su forma más básica, la IA usa algoritmos predictivos para generar contenido “nuevo” como imágenes. Hola. ¿Me puedes explicar qué es la IA generativa? “¡Claro! La IA generativa, también conocida como inteligencia artificial generativa, se refiere a un campo dentro de la inteligencia artificial que se centra en crear sistemas o modelos de negocios capaces de generar contenido nuevo y original. Estos modelos están diseñados para comprender patrones y estructuras en los datos existentes y usan esos conocimientos para generar datos nuevos, anteriormente desconocidos.  “Los modelos de IA generativa pueden formarse en varios tipos de datos como imágenes, texto, música o incluso videos. Aprenden los patrones y las características subyacentes de los datos de formación, y luego usan ese aprendizaje para crear contenido nuevo que es similar en su estilo o estructura”. Gracias por la ayuda. “De nada. Me alegra haber podido ayudar. Si tiene más preguntas, no dude en consultar. ¡Buena suerte con sus proyectos!”  Gartner considera que es posible que la IA generativa se convierta en “Una tecnología de uso general con un impacto similar al de la máquina de vapor, la electricidad e internet” y sostiene que “el campo de la IA generativa tendrá un progreso rápido tanto en el descubrimiento científico como en la comercialización de la tecnología”. Es importante pensar en las tecnología de IA generativa como asistentes o colaboradores. Aportan al trabajo humano mediante la generación de ideas y la investigación, a la vez que dejan lugar para le empatía humana, algo que la IA no puede reemplazar. En general, la IA generativa se entrena en los modelos de aprendizaje profundo y luego los aplica al contenido nuevo, mediante la imitación de lo que aprendió de los datos de formación. Los modelos generativos aprenden las características subyacentes y la distribución de los datos de formación a fin de generar nuevas muestras de datos que sean similares a los originales. La IA generativa no se trata solamente de crear arte, texto o música. Tiene el potencial de transformar las operaciones diarias de front y back office al optimizar los flujos de trabajo y asistir en la toma de decisiones. Según un informe de McKinsey, “Los sectores de banca, alta tecnología y ciencias biológicas son los que podrían experimentar el mayor impacto ya que un porcentaje de sus ingresos proveniente de la IA generativa”. Se observa el potencial que tienen estos sectores en la automatización de las actividades laborales que actualmente absorben entre el 60 y el 70% del tiempo de sus empleados. La IA generativa puede aplicarse a diversos campos. Estas son algunas aplicaciones de alto nivel de la IA generativa: La industria de la atención médica puede ser uno de los sectores más grandes en beneficiarse de la IA y la automatización inteligente (AI). La IA generativa tiene el potencial salvador de ayudar a los médicos a lograr un diagnóstico temprano de los pacientes. Por ejemplo, puede asistir a los radiólogos en la detección de manchas de cáncer al analizar las imágenes médicas para obtener un diagnóstico más preciso y rápido. Las tecnologías como el procesamiento del lenguaje natural (NLP) pueden leer conjuntos de datos de atención médica grandes y no estructurados como lo que se encuentran en los registros médicos electrónicos (EHR). Esto otorga a la IA generativa el poder de convertir radiografías, tomografías computarizadas y resonancias magnéticas en imágenes más realistas, lo que ayuda a identificar posibles anomalías de forma más sencilla. A medida que esta tecnología desarrolla sus capacidades de toma de decisiones, puede utilizar conjuntos de datos de atención médica para ingresar la historia médica de un paciente, el estilo de vida y la genética, lo que ayuda a crear un plan de tratamiento personalizado. Esto mejora los servicios a los pacientes de atención médica y otorga más tiempo al personal clínico para que se centre en la atención del paciente. Las empresas farmacéuticas pueden utilizar la IA generativa para analizar grandes conjuntos de datos sobre los efectos secundarios, los resultados de estudios clínicos y la eficacia. A medida que esto se desarrolla, combinará estos conjuntos de datos más grandes con datos más pequeños recopilados en tiempo real de los pacientes y las personas dentro de la población objetivo, lo que le permite hacer conexiones dentro de los datos y ordenar posibles soluciones con base en ensayos clínicos anteriores. Gartner calcula que “Para 2025, más del 30% de los nuevos medicamentos y materiales se descubrirán sistemáticamente mediante las técnicas de IA generativa, de los cero que se descubren hoy en día”. Esto beneficiará en gran medida en la industria farmacéutica al reducir el tiempo de descubrimiento de medicamentos y posiblemente reducir el tiempo de comercialización al crear datos sintéticos basados en la información ya recopilada de los ensayos clínicos. Según un estudio de Deloitte sobre el descubrimiento inteligente de medicamentos, la IA “Abrirá un nuevo futuro para la industria de la salud, ya que un mayor nivel de conocimiento sobre los mecanismos de las enfermedades aumenta la cantidad de tratamiento disponibles y, en muchos casos, también cura enfermedades que antes no habían tenido tratamiento efectivos”. Deloitte sugiere que los líderes con conocimiento digital deberán integrar nuevas estrategias en sus unidades de investigación a medida que se amplíen las capacidades de la IA generativa. A la fecha, los Estados Unidos lideran el sector de descubrimiento de medicamentos de IA, con un 60% de las nuevas empresas que utilizan la tecnología, mientras que el nivel de uso en el Reino Unido y la Unión Europea aumentó en un 10,8% y un 10,3% respectivamente. Con un buen modelo de gobernanza en funcionamiento, la IA generativa puede ayudar con la gestión de riesgo y la detección de fraude. La industria bancaria y de servicios financieros son industrias altamente reguladas, en las cuales el cumplimiento tiene una gran importancia. La IA generativa aún debe seguir evolucionando antes de encajar en todos los aspectos del sector bancario, como la regulación de la protección de documentos privados, pero tiene el potencial de analizar los datos para la calificación crediticia, la gestión de la cartera, el comercio, la optimización de precios, las predicciones del mercado, entre otras tareas. Estas son algunas maneras en las que lo hace: El desarrollo de software asistido por la IA está haciendo un gran avance en la programación. Con tecnologías como Copilot, la IA generativa puede asistir en la generación de código mediante el uso de una amplia base de datos de técnicas de programación.  Con la capacidad de la IA de sintetizar datos, puede ejecutar pruebas dentro del sistema para verificar si hay errores o ineficiencias, lo que ayuda a los desarrolladores a optimizar el código. Una vez que el código pasa la fase de inspección, la IA puede implementarlo de manera automática en el flujo de trabajo y supervisarlo de forma constante a medida que funciona.  Las soluciones de IA generativa pueden utilizarse en el desarrollo de software al: En verdad, es probable que la IA generativa abarque todos los sectores en el futuro, desde las pruebas automotrices y aeroespaciales hasta los mensajes de marketing y los servicios personalizados. Es un tren bala de innovaciones con mucho potencial. Sin embargo, como sucede con cualquier máquina que se mueve rápidamente, también hay riesgos. Los desarrolladores que han alcanzado una buena comprensión del modelo de la IA generativa y su resultado deseado pueden utilizar técnicas de ingeniería de las indicaciones para experimentar y ajustar diferentes indicaciones, y así optimizar el rendimiento del modelo a fin de alinearlo con la tarea o el objetivo deseado. Es posible que ya ha oído hablar sobre algunos de los riesgos de la IA generativa: los deepfakes, la violación de los derechos de autor, la filtración de documentos privados o la publicación de datos incorrectos. La IA puede brindarle con confianza información incorrecta sin omitir detalles, y los deepfakes aparecen como videos convincentes de políticos o celebridades en los que dicen cosas que ellos nunca dijeron.  Las tecnologías como el ChatGPT y otras herramientas generativas están formadas sobre datos públicos sin cumplimiento de las leyes de derechos de autor o el Reglamento General de Protección de Datos (GDPR). En otras palabras, si usted usa la IA generativa en su empresa, le recomendamos tener precaución en cómo la aborda y respecto de lo que sostiene que es “suyo”. No obstante, con los modelos, lineamientos y supervisión adecuados, la IA generativa tiene el potencial de transformar por completo el trabajo en varias industrias, entre las que se incluyen la atención médica y las ciencias biológicas, la manufactura, el sector bancario y financiero, la energía, la TI, entre otras. ¿Cree que la IA generativa quitará puestos de trabajo a las personas? “La repercusión de la IA generativa en el mercado laboral es un tema de debate y especulación constantes. Si bien la IA generativa tiene el potencial de automatizar ciertas tareas y cambiar la naturaleza del trabajo, no necesariamente está destinada a reemplazar por completo el trabajo de las personas... “...Cabe destacar que el alcance que tendrá la repercusión de la IA generativa en los puestos de trabajo varía según la industria y los puestos de trabajo específicos. Si bien algunos trabajos experimentarán la automatización o cambios significativos, también es posible que surjan nuevas oportunidades y nuevos puestos de trabajo. Se debe poner el foco en cómo adaptarse a estos cambios, adoptar aprendizajes para toda la vida y aprovechar las habilidades y cualidades únicas que nos hacen seres humanos”.   La IA generativa es una fuerza imparable, por lo que debemos pensar en cómo usar su poder para hacer el bien a la vez que tenemos en cuenta siempre el impacto ambiental, social y de gobierno (ESG). Antes de que las organizaciones comiencen a implementar rápidamente la IA generativa en sus operaciones, deben pensar en el impacto que puede tener en su reputación, sus ingresos y su posible responsabilidad legal. Para hacerlo, las organizaciones necesitarán tener una estrategia de gestión de riesgos de gobierno establecida, que cuente con normas y principios sobre cómo la IA generativa puede respaldar su estrategia de automatización a la vez que se mantiene el cumplimiento. Independientemente de cómo permitimos que nos afecte la IA generativa, es una tecnología que viene avanzando a todo vapor. Puede tener un efecto positivo, siempre y cuando las organizaciones la usen teniendo en cuenta la gobernanza y la protección de los datos. Debido a que las leyes respecto de la IA generativa cambian rápidamente, es necesario que su organización supervise los entornos normativos en sus países y zonas de influencia.  Los grandes modelos de lenguajes (LLM) son un tipo de modelo de IA específicamente diseñados para comprender y generar lenguaje humano, al imitar las respuestas normales de las personas. Están formados sobre grandes cantidades de datos de texto y pueden realizar varias tareas relacionadas con el lenguaje, entre las que se incluyen la generación de texto, resumen, comprensión de consulta, traducción, entre otras. Hay muchos aspectos para tener en cuenta al incorporar la IA generativa en su programa de automatización. Estos son algunos consejos principales que debe incluir en su estrategia: Las capacidades y la accesibilidad de la IA generativa no tienen precedentes, ya que ofrecen al espacio de automatización de cualquier sector el potencial de usarla y beneficiarse de ella. Los avances en el procesamiento del lenguaje natural (NLP) en especial se volverán más centrales para las industrias como la atención médica, finanzas y experiencia del cliente (CX). Estos son los beneficios clave que veremos en los usos futuros de la IA generativa: La IA generativa puede ofrecer a las empresas la posibilidad de hacer lo siguiente:  Con esto llega la advertencia de que un sistema de IA generativa solo conoce lo que se le enseña, y con las restricciones en camino sobre las protecciones de derechos de autor y las leyes de propiedad, es una tecnología que las organización deben usar con precaución, y con el respaldo de una buena gobernanza y buenas prácticas recomendadas. La IA generativa es, primero y principal, un creador de contenido, lo que cambiará la naturaleza del trabajo de las personas. De hecho, Gartner predice que “Para 2026, más de 100 millones de personas incorporarán colegas robots para que colaboren con su trabajo”. Depende de las organizaciones anticipar este paisaje cambiante y ver cómo van a reaccionar al futuro del trabajo. Con el avance rápido de la IA y el potencial que tiene para transformar las industrias, es importante asociarse con proveedores de soluciones que sean confiables e innovadores como SS&C Blue Prism. Entrevistamos a ChatGPT para descubrir de qué se trataba la IA generativa (por supuesto, verificamos la veracidad de esas afirmaciones con una investigación más profunda). En cada respuesta, ChatGPT daba una advertencia final similar en varias iteraciones. Esta es una de ellas:  “...Si bien la IA generativa ofrece estos beneficios, también hay ciertas consideraciones como implicaciones éticas, posibles sesgos y la necesidad de validar y evaluar detalladamente los resultados generados. La implementación y supervisión responsables de los sistemas de IA generativa son fundamentales para garantizar su efectividad y mitigar cualquier riesgo potencial. Como nota final, le pedimos a ChatGPT que nos escriba un resumen. ¡Así es! Le pedimos a la IA generativa que hable sobre sí misma. Esto es lo que dijo: “La IA generativa tiene una amplia variedad de aplicaciones. Por ejemplo, puede usarse para la generación de imágenes, para crear nuevas composiciones musicales, generar textos casi humanos, mejorar y modificar el contenido existente o incluso simular entornos realistas con fines de formación en campos como los juegos o la realidad virtual (RV). Es importante destacar que, si bien la IA generativa puede generar resultados impresionantes, continúa siendo un campo en desarrollo, por lo que el contenido generado puede no ser siempre perfecto y sin fallas. Sin embargo, continúa avanzando y ha mostrado tener un enorme potencial en varias áreas creativas y de resolución de problemas”. SVP and Managing Director, Product Management
+                 Tiempo de lectura: 16 minutos 
+                                  Tendencias de la industria
+                  ,                                  RPA a velocidad
+                  ,                                  Producto
+                                                
+ 
+																	Blog
+															 
+								Cómo prepararse para la IA generativa: una guía de supervivencia
+							 
+																	Blog
+															 
+								La IA y la RPA: el equipo supremo
+							 SS&C Blue Prism permite a los líderes empresariales del futuro sortear los obstáculos de la transformación digital en curso para realmente remodelar y evolucionar la forma en que se realiza el trabajo, para mejor. Si YouTube está bloqueado en su red, usted no podrá ver el video en esta página. En ese caso, utilice otro dispositivo. Al hacer clic en reproducir en el video, se establecerán cookies de YouTube de terceros. Lea nuestra Política de cookies para obtener más información.

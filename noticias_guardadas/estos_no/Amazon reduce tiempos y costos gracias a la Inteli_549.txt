@@ -1,0 +1,222 @@
+Título: Amazon reduce tiempos y costos gracias a la Inteligencia Artificial - El Sol de México | Noticias, Deportes, Gossip, Columnas
+URL: https://www.elsoldemexico.com.mx/finanzas/amazon-reduce-tiempos-y-costos-gracias-a-la-inteligencia-artificial-12703343.html
+Número de palabras: 3454
+
+
+  / lunes 14 de octubre de 2024
+ 
+Juan Luis Ramos / El Sol de México
+ Nashville.- En dos décadas, Amazon pasó de realizar entregas de productos como papel higiénico de un promedio de ocho días a unas cuantas horas. Ahora, con la implementación de la Inteligencia Artificial (IA) y el uso de robots de última generación en sus procesos, el gigante de las ventas en línea prevé optimizar sus tiempos y costos en 25 por ciento. La compañía fundada por Jeff Bezos está implementando la IA en prácticamente todos sus procesos, desde la descripción que el vendedor hace de su producto y las reseñas que lee el usuario que entra a la página o la app a comprar, hasta los métodos de distribución y entregas. Durante el evento Delivering the Future 2024, directivos de la empresa explicaron las implementaciones y desarrollos basados en esta tecnología que están haciendo más eficiente su labor y que, en el mediano plazo, se verán reflejados en un beneficio en el gasto para el consumidor final.  
+
+
+ Tecnología 
+
+
+
+
+
+
+
+
+Entrevista con Ravyn Lyte, la primera artista creada con IA: el alma de la música siempre será humana
+
+
+
+
+ 
+ Tecnología 
+ “Hoy, los centros logísticos de nuestra red global funcionan con tecnología avanzada e inteligencia artificial. A lo largo de los años, hemos creado y ampliado la flota de robótica industrial más grande del mundo que facilita las tareas de los empleados y mejora la seguridad operativa”, dijo Doug Herrington, director ejecutivo de Tiendas Amazon en todo el mundo. El directivo destacó que por primera vez la compañía introdujo soluciones tecnológicas en todas sus áreas clave de producción. Puedes leer: La Inteligencia Artificial puede reducir a la mitad el trabajo de directivos de empresas Hace unos días, Amazon inició las operaciones de su nuevo centro de distribución en Shreveport, Louisiana, complejo conocido como SHV1 que cuenta con cinco pisos y más de 2.5 millones de pies cuadrados, lo que equivale a 50 campos de fútbol, y con una capacidad de maneje alrededor de un millón de productos al día. A medida que seguimos acelerando el uso de la IA y la robótica para reimaginar la logística, creemos que la escala y el impacto de nuestra innovación seguirán creciendoDoug Herrington, director ejecutivo global de tiendas Amazon Pero más allá del tamaño, lo relevante de este complejo es la nueva tecnología que la compañía ha implementado para usar el potencial de la IA y la robótica en materia de logística. El directivo destacó el uso de Sequoia, un sistema de inventario que permite a los empleados almacenar y seleccionar productos de forma más rápida y segura, ya que puede albergar más de 30 millones de artículos a la vez que coordina los esfuerzos de miles de robots móviles y un conjunto de brazos robóticos para llevar los productos hasta los puestos de los trabajadores. 
+
+
+
+
+
+
+Brazo robótico de Amazon / Cortesía, Amazon
+
+
+
+
+
+ A esto se agregan tres brazos robóticos creados por la compañía: Robin, Cardinal y Sparrow, los cuales son impulsados por IA para clasificar, apilar y consolidar millones de artículos y pedidos de clientes con precisión. Amazon también integró en sus centros al robot Proteus, un equipo móvil totalmente autónomo que puede transportar carros de paquetes de hasta 800 libras (unos 400 kilos) para que puedan cargarse en camiones. Udit Madan, vicepresidente de Operaciones Globales de Amazon, destacó que la adopción de la tecnología robótica en sus centros de distribución transformó la manera de gestionar los pedidos de sus clientes. Subrayó que la implementación de esta tecnología reducirá los tiempos de procesamiento de pedidos en 25 por ciento para lograr entregas más rápidas y eficientes. “Este sitio es la mayor manifestación física de la tecnología de IA y robótica en el mundo”, dijo Madan sobre el SHV1 de Shreveport, Louisiana. Tres brazos robóticos creados por la compañía e impulsados por IA sirven para clasificar, apilar y consolidar millones de artículos y pedidos de clientes con precisión  Pero la IA no sólo se implementa al interior de los centros de la compañía, sino que también se ha integrado en los medios de entrega para hacer de éstas más seguras y eficientes. La empresa mostró sus furgonetas con recuperación de paquetes asistida por visión (VAPR), una nueva solución impulsada por IA que encuentra los paquetes que se van a entregar de manera más rápida. Esta tecnología, que es una forma de visión artificial desarrollada originalmente para centros logísticos para identificar automáticamente los artículos durante las operaciones de almacenamiento o selección de inventario, reemplaza la necesidad de escanear manualmente los códigos de barras. 
+
+
+
+
+
+
+Robot móvil de Amazon / Cortesía, Amazon
+
+
+
+
+
+ Cuando la camioneta de Amazon llega a una ubicación de entrega, VAPR proyectará automáticamente una "O" verde en los paquetes que se entregarán en esa parada y una "X" roja en el resto, lo que eficienta el trabajo de los repartidores que, además, dependerán mucho de sus dispositivos móviles para comprobar los productos a entregar. “Durante las temporadas pico de entrega, nuestro objetivo es lograr una mejora en el costo de servicio en nuestras instalaciones de última generación. Estos son ahorros que podemos trasladar a nuestros clientes”, destacó Herrington. Las innovaciones de Amazon no sólo se quedan en sus procesos, empiezan desde el sitio más básico para la compañía: su página web y su app, donde la IA ayuda tanto a vendedores como a los clientes a tener reseñas más precisas sobre los productos. La compañía comenzó con la introducción de las Guías de Compra con IA en su aplicación y sitio web móvil en Estados Unidos para más de cien productos que van desde televisores, alfombras, comida para perros y tenis, hasta auriculares y humectantes faciales. Estas guías ayudan al usuario a reducir el tiempo de revisión de productos previo a realizar una compra, esto al consolidar de manera proactiva la información clave de lo que busca el usuario junto con una selección relevante de productos. La selección se hace con base en la preferencia de los usuarios y el análisis de miles de equipos disponibles, así como reseñas de otros usuarios, que se analizan en instantes gracias a la IA y ofrecen la mejor opción para el comprador. En el caso de los vendedores, esta tecnología también les ayuda a crear una reseña más precisa de su producto, que destaque las cualidades más solicitadas por los clientes que han hecho búsquedas sobre él. En dos décadas, Amazon pasó de realizar entregas de productos como papel higiénico de un promedio de ocho días a unas cuantas horas  Las guías ofrecen además contenido educativo e información sobre los clientes para ayudar a tomar decisiones de compra informadas y en función de las necesidades de cada quien. Además, Amazon presentó el asistente de compras generativo Rufus, que también es impulsado por IA y con el que los clientes pueden recibir rápidamente respuestas a cualquier pregunta adicional que surja mientras realizan consultas para compras.  
+
+
+ Tecnología 
+
+
+
+
+
+
+
+
+La IA moldea lo que escucha la Generación Z
+
+
+
+
+ 
+ Tecnología 
+ Más allá de la experiencia de compra, la compañía con sede en Seattle también llevó la IA hacia el entretenimiento, al aplicarla en su app Amazon Music para que los usuarios puedan encontrar una playlist ad hoc a su estado de ánimo utilizando emojis en la descripción. Ya sea una carita feliz o triste, una estrella, la figura de fuego o un changuito con la cara tapada, la aplicación puede interpretar lo que el usuario quiso decir y elegir una lista de canciones y artistas a su gusto, con base en su historial de reproducciones. Se trata de Maestro, el nuevo generador de listas de reproducción que utiliza la IA para poder hacer una selección de canciones lo más cercana a los gustos musicales de cada usuario. Basta con escribir una sencilla descripción para crear automáticamente una lista de reproducción basada en los gustos del usuario, la cual se podrá añadir a la biblioteca de música. Pero además del texto, Maestro admite órdenes mediante voz y, lo más novedoso, es que la IA es capaz de interpretar emojis, por lo que los usuarios pueden utilizar estos iconos para representar situaciones o emociones. Si una usuaria pone “quiero besar a mi novio” y en lugar de la palabra “besar” utiliza el emoji de la carita con un corazón saliendo de sus labios, la IA lo interpretará, igual que si en lugar de besar pone un icono sobre “golpear” o “reciclar”, Maestro interpretará de inmediato el estado de ánimo de la escucha. Ryan Redington, gerente general de Amazon Music, explicó que con Maestro la compañía comenzó a utilizar grandes y novedosos modelos de lenguaje. “Puedes convertir emojis en lo que sea que tengas en mente y crearemos instantáneamente una lista de reproducción, crearemos un título, una descripción y armaremos 50 canciones para ti en el momento”, refirió. La IA, explicó, también se aplica dentro de la app para los podcast, luego de que Amazon recibió comentarios de los clientes durante varios años respecto a su gusto por estos contenidos e inquietudes sobre cómo buscar temas de interés. De esta manera, si un usuario escucha un podcast sobre un tema como la cafeína, por ejemplo, la app, a través de este gran modelo de lenguaje, le da la opción de hacer clic en un icono resaltado que lo llevará a todos los podcasts relacionados. “Tratamos de hacer que sea fácil para los clientes descubrir cosas nuevas y que sea simple para ellos”, comentó el directivo. Así, Maestro es capaz de seleccionar una serie de contenido que se adapte al momento específico, el interés o el estado de ánimo del usuario. ➡️ Suscríbete a nuestro Newsletter y recibe noticias relevantes sobre más ideas disruptivas “Creo que cuando tienes una tecnología que evoca ese tipo de emoción, es algo realmente poderoso”, dijo Redington. Las innovaciones de Amazon se aplican por ahora principalmente al mercado estadounidense, al ser cuestionados sobre su llegada a otras regiones, como América Latina, en particular a México, dijeron que son datos que no están disponibles para compartir por el momento.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nashville.- En dos décadas, Amazon pasó de realizar entregas de productos como papel higiénico de un promedio de ocho días a unas cuantas horas. Ahora, con la implementación de la Inteligencia Artificial (IA) y el uso de robots de última generación en sus procesos, el gigante de las ventas en línea prevé optimizar sus tiempos y costos en 25 por ciento. La compañía fundada por Jeff Bezos está implementando la IA en prácticamente todos sus procesos, desde la descripción que el vendedor hace de su producto y las reseñas que lee el usuario que entra a la página o la app a comprar, hasta los métodos de distribución y entregas. Durante el evento Delivering the Future 2024, directivos de la empresa explicaron las implementaciones y desarrollos basados en esta tecnología que están haciendo más eficiente su labor y que, en el mediano plazo, se verán reflejados en un beneficio en el gasto para el consumidor final.  
+
+
+ Tecnología 
+
+
+
+
+
+
+
+
+Entrevista con Ravyn Lyte, la primera artista creada con IA: el alma de la música siempre será humana
+
+
+
+
+ 
+ Tecnología 
+ “Hoy, los centros logísticos de nuestra red global funcionan con tecnología avanzada e inteligencia artificial. A lo largo de los años, hemos creado y ampliado la flota de robótica industrial más grande del mundo que facilita las tareas de los empleados y mejora la seguridad operativa”, dijo Doug Herrington, director ejecutivo de Tiendas Amazon en todo el mundo. El directivo destacó que por primera vez la compañía introdujo soluciones tecnológicas en todas sus áreas clave de producción. Puedes leer: La Inteligencia Artificial puede reducir a la mitad el trabajo de directivos de empresas Hace unos días, Amazon inició las operaciones de su nuevo centro de distribución en Shreveport, Louisiana, complejo conocido como SHV1 que cuenta con cinco pisos y más de 2.5 millones de pies cuadrados, lo que equivale a 50 campos de fútbol, y con una capacidad de maneje alrededor de un millón de productos al día. A medida que seguimos acelerando el uso de la IA y la robótica para reimaginar la logística, creemos que la escala y el impacto de nuestra innovación seguirán creciendoDoug Herrington, director ejecutivo global de tiendas Amazon Pero más allá del tamaño, lo relevante de este complejo es la nueva tecnología que la compañía ha implementado para usar el potencial de la IA y la robótica en materia de logística. El directivo destacó el uso de Sequoia, un sistema de inventario que permite a los empleados almacenar y seleccionar productos de forma más rápida y segura, ya que puede albergar más de 30 millones de artículos a la vez que coordina los esfuerzos de miles de robots móviles y un conjunto de brazos robóticos para llevar los productos hasta los puestos de los trabajadores. 
+
+
+
+
+
+
+Brazo robótico de Amazon / Cortesía, Amazon
+
+
+
+
+
+ A esto se agregan tres brazos robóticos creados por la compañía: Robin, Cardinal y Sparrow, los cuales son impulsados por IA para clasificar, apilar y consolidar millones de artículos y pedidos de clientes con precisión. Amazon también integró en sus centros al robot Proteus, un equipo móvil totalmente autónomo que puede transportar carros de paquetes de hasta 800 libras (unos 400 kilos) para que puedan cargarse en camiones. Udit Madan, vicepresidente de Operaciones Globales de Amazon, destacó que la adopción de la tecnología robótica en sus centros de distribución transformó la manera de gestionar los pedidos de sus clientes. Subrayó que la implementación de esta tecnología reducirá los tiempos de procesamiento de pedidos en 25 por ciento para lograr entregas más rápidas y eficientes. “Este sitio es la mayor manifestación física de la tecnología de IA y robótica en el mundo”, dijo Madan sobre el SHV1 de Shreveport, Louisiana. Tres brazos robóticos creados por la compañía e impulsados por IA sirven para clasificar, apilar y consolidar millones de artículos y pedidos de clientes con precisión  Pero la IA no sólo se implementa al interior de los centros de la compañía, sino que también se ha integrado en los medios de entrega para hacer de éstas más seguras y eficientes. La empresa mostró sus furgonetas con recuperación de paquetes asistida por visión (VAPR), una nueva solución impulsada por IA que encuentra los paquetes que se van a entregar de manera más rápida. Esta tecnología, que es una forma de visión artificial desarrollada originalmente para centros logísticos para identificar automáticamente los artículos durante las operaciones de almacenamiento o selección de inventario, reemplaza la necesidad de escanear manualmente los códigos de barras. 
+
+
+
+
+
+
+Robot móvil de Amazon / Cortesía, Amazon
+
+
+
+
+
+ Cuando la camioneta de Amazon llega a una ubicación de entrega, VAPR proyectará automáticamente una "O" verde en los paquetes que se entregarán en esa parada y una "X" roja en el resto, lo que eficienta el trabajo de los repartidores que, además, dependerán mucho de sus dispositivos móviles para comprobar los productos a entregar. “Durante las temporadas pico de entrega, nuestro objetivo es lograr una mejora en el costo de servicio en nuestras instalaciones de última generación. Estos son ahorros que podemos trasladar a nuestros clientes”, destacó Herrington. Las innovaciones de Amazon no sólo se quedan en sus procesos, empiezan desde el sitio más básico para la compañía: su página web y su app, donde la IA ayuda tanto a vendedores como a los clientes a tener reseñas más precisas sobre los productos. La compañía comenzó con la introducción de las Guías de Compra con IA en su aplicación y sitio web móvil en Estados Unidos para más de cien productos que van desde televisores, alfombras, comida para perros y tenis, hasta auriculares y humectantes faciales. Estas guías ayudan al usuario a reducir el tiempo de revisión de productos previo a realizar una compra, esto al consolidar de manera proactiva la información clave de lo que busca el usuario junto con una selección relevante de productos. La selección se hace con base en la preferencia de los usuarios y el análisis de miles de equipos disponibles, así como reseñas de otros usuarios, que se analizan en instantes gracias a la IA y ofrecen la mejor opción para el comprador. En el caso de los vendedores, esta tecnología también les ayuda a crear una reseña más precisa de su producto, que destaque las cualidades más solicitadas por los clientes que han hecho búsquedas sobre él. En dos décadas, Amazon pasó de realizar entregas de productos como papel higiénico de un promedio de ocho días a unas cuantas horas  Las guías ofrecen además contenido educativo e información sobre los clientes para ayudar a tomar decisiones de compra informadas y en función de las necesidades de cada quien. Además, Amazon presentó el asistente de compras generativo Rufus, que también es impulsado por IA y con el que los clientes pueden recibir rápidamente respuestas a cualquier pregunta adicional que surja mientras realizan consultas para compras.  
+
+
+ Tecnología 
+
+
+
+
+
+
+
+
+La IA moldea lo que escucha la Generación Z
+
+
+
+
+ 
+ Tecnología 
+ Más allá de la experiencia de compra, la compañía con sede en Seattle también llevó la IA hacia el entretenimiento, al aplicarla en su app Amazon Music para que los usuarios puedan encontrar una playlist ad hoc a su estado de ánimo utilizando emojis en la descripción. Ya sea una carita feliz o triste, una estrella, la figura de fuego o un changuito con la cara tapada, la aplicación puede interpretar lo que el usuario quiso decir y elegir una lista de canciones y artistas a su gusto, con base en su historial de reproducciones. Se trata de Maestro, el nuevo generador de listas de reproducción que utiliza la IA para poder hacer una selección de canciones lo más cercana a los gustos musicales de cada usuario. Basta con escribir una sencilla descripción para crear automáticamente una lista de reproducción basada en los gustos del usuario, la cual se podrá añadir a la biblioteca de música. Pero además del texto, Maestro admite órdenes mediante voz y, lo más novedoso, es que la IA es capaz de interpretar emojis, por lo que los usuarios pueden utilizar estos iconos para representar situaciones o emociones. Si una usuaria pone “quiero besar a mi novio” y en lugar de la palabra “besar” utiliza el emoji de la carita con un corazón saliendo de sus labios, la IA lo interpretará, igual que si en lugar de besar pone un icono sobre “golpear” o “reciclar”, Maestro interpretará de inmediato el estado de ánimo de la escucha. Ryan Redington, gerente general de Amazon Music, explicó que con Maestro la compañía comenzó a utilizar grandes y novedosos modelos de lenguaje. “Puedes convertir emojis en lo que sea que tengas en mente y crearemos instantáneamente una lista de reproducción, crearemos un título, una descripción y armaremos 50 canciones para ti en el momento”, refirió. La IA, explicó, también se aplica dentro de la app para los podcast, luego de que Amazon recibió comentarios de los clientes durante varios años respecto a su gusto por estos contenidos e inquietudes sobre cómo buscar temas de interés. De esta manera, si un usuario escucha un podcast sobre un tema como la cafeína, por ejemplo, la app, a través de este gran modelo de lenguaje, le da la opción de hacer clic en un icono resaltado que lo llevará a todos los podcasts relacionados. “Tratamos de hacer que sea fácil para los clientes descubrir cosas nuevas y que sea simple para ellos”, comentó el directivo. Así, Maestro es capaz de seleccionar una serie de contenido que se adapte al momento específico, el interés o el estado de ánimo del usuario. ➡️ Suscríbete a nuestro Newsletter y recibe noticias relevantes sobre más ideas disruptivas “Creo que cuando tienes una tecnología que evoca ese tipo de emoción, es algo realmente poderoso”, dijo Redington. Las innovaciones de Amazon se aplican por ahora principalmente al mercado estadounidense, al ser cuestionados sobre su llegada a otras regiones, como América Latina, en particular a México, dijeron que son datos que no están disponibles para compartir por el momento.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ Tecnología 
+ 
+ Tecnología 
+ 
+ Tecnología 
+ 
+ México 
+ 
+ Finanzas 
+ 
+A este factor de riesgo para el crecimiento económico, le sigue la inseguridad y garantizar un Estado de Derecho
+ 
+ Mundo 
+ 
+No solo se elegirá al presidente y al Poder Legislativo, sino también habrá iniciativas sociales
+ 
+ Metrópoli 
+ 
+Desde hace 28 años, Mario se dedica a la venta y confección de prendas para mujer, pero hoy su negocio peligra debido a los precios de la competencia asiática
+ 
+ Finanzas 
+ 
+El gobierno asiático hizo un llamado a BYD, SAIC y Geely para pausar inversiones en los países que aplicarán los aranceles
+ 
+ Finanzas 
+ 
+Desde finales de 2022 han ingresado al país 1.5 millones de unidades a través del programa de regularización
+ 
+ Metrópoli 
+ 
+Según la SSC 348 elementos fueron desplegados para vigilar la primera Rodada del Terror
+ 
+
+Gerardo Jiménez
+
+ 
+
+Gerardo Jiménez
+
+ 
+
+Alejandro Jiménez
+
+ 
+
+Miguel Reyes Razo
+

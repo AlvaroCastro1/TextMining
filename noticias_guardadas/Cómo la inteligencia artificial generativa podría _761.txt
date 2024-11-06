@@ -1,0 +1,69 @@
+Título: Cómo la inteligencia artificial generativa podría cambiar radicalmente los videojuegos | CNN
+URL: https://cnnespanol.cnn.com/2023/10/23/inteligencia-artificial-generativa-videojuegos-trax
+Número de palabras: 1523
+
+
+(CNN) – Cuando lees las palabras “inteligencia artificial”, probablemente piensas en innovaciones como ChatGPT, pero la inteligencia artificial (IA) se ha utilizado en los videojuegos desde la década de 1950.
+     
+            Desde los fantasmas característicos de Pacman hasta la toma de decisiones autónoma de “Los Sims”, la IA es esencial para crear personajes y argumentos adaptables.
+     
+            Ahora, el rápido desarrollo de la IA generativa está abriendo una nueva frontera para los videojuegos: mundos abiertos infinitos, contenidos únicos, personajes autónomos y la posibilidad de desarrollar juegos más rápidamente.
+     
+            La IA generativa, inteligencia artificial que crea texto, imágenes y audio en respuesta a una solicitud, está llamada a revolucionar uno de los componentes característicos de los videojuegos: los personajes no jugables, también conocidos como NPC o PNJ. Estos personajes suelen tener un patrón de comportamiento fijo, y sus gestos y su forma de hablar suelen ser rebuscados y poco naturales.
+     
+            “Cuando pensamos en esos NPC, nos parecen un poco extraños”, dice Alexis Rolland, director de Desarrollo de La Forge China, la rama china de la Unidad de Investigación y Desarrollo del editor de videojuegos Ubisoft. “Te das cuenta de que hay algo raro en lo que ves u oyes”.
+     
+            Aquí es donde entra la IA generativa: a principios de este año, La Forge lanzó Ghostwriter, una herramienta de IA generadora de texto diseñada para ayudar a los escritores a crear una mayor variedad de diálogos originales para los NPC, y en 2022, probó una nueva tecnología que ayuda a generar gestos más realistas y naturales que coinciden con el tono y el estado de ánimo de su discurso.
+     
+            “Toma el habla como entrada y genera gestos corporales como salida, así que podemos imaginar a esos NPC expresándose con diálogos no guionizados, teniendo una animación corporal casi natural, sintetizada a partir del habla”, dice Rolland.
+     
+            Combinando elementos de IA generativa como el diálogo y la animación se podría crear “un NPC con IA que podría tener un comportamiento un poco más natural e impredecible”, afirma Rolland.
+     
+            Jitao Zhou, estudiante de la Universidad Rikkyo de Tokio, está haciendo precisamente eso para generar NPC más realistas, más inteligentes y menos predecibles.
+     
+            “Este NPC, que utiliza deep learning, no tiene un patrón fijo, por lo que puede tener una mayor variedad de movimientos”, dice Zhou, y añade que los NPC más inteligentes harán que los juegos sean más entretenidos y desafiantes.
+     
+            Algunos editores ya están empleando IA generativa en los NPC para que las conversaciones sean más realistas. La empresa china de videojuegos NetEase utiliza ChatGPT para generar los diálogos de los NPC en su juego para celulares recién estrenado “Justice”, mientras que Replica Studios introdujo recientemente “NPC inteligentes potenciados por IA” para el gigante de los motores de juegos Unreal Engine, que permite a los desarrolladores de juegos utilizar IA para leer los diálogos de los NPC, en lugar de contratar a un actor de doblaje humano.
+     
+            Sin embargo, uno de los riesgos de utilizar NPC generados por IA es que los diseñadores de juegos podrían perder el control de la narrativa del juego, afirma Julian Togelius, profesor asociado de la Universidad de Nueva York, donde investiga sobre IA y juegos. “Pueden decir cosas que rompan el juego, sean groseros o rompan la inmersión”, explica.
+     
+            Crear “buenos” NPC generados por IA que ayuden al jugador también es mucho más difícil que crear enemigos que luchen contra ti, añade Togelius. “No hemos tenido tantos avances en la inteligencia artificial que controla a los otros personajes de los juegos, o que intenta modelar al jugador, o intenta generar el mundo… así que veremos muchos avances en estas direcciones”.
+     
+            Los juegos de mundo abierto, como “Grand Theft Auto”, “Skyrim” y “Elden Ring”, plantean un juego con misiones e historias no lineales. Esto ofrece otra oportunidad para que la IA generativa modifique la experiencia de juego.
+     
+            Togelius imagina un “enorme juego abierto” con infinitas oportunidades, nuevas ciudades, paisajes y personas, cada uno con su propia historia y elementos interactivos. Utilizando los datos sobre el jugador recopilados en partidas anteriores, la IA generativa podría crear historias únicas y misiones a medida para jugadores con el nivel adecuado, “como un dungeon master personalizado”, añade.
+     
+            Ya se están realizando algunas investigaciones en este campo. Takehiko Hoshino, también estudiante de la Universidad de Rokkyo, creó una herramienta de IA a la que está enseñando a generar sus propios laberintos y calabozos de casilla en casilla, basándose en los anteriores que ha encontrado.
+     
+            Todavía está en las primeras fases de desarrollo, pero Hoshino dice que el siguiente paso es embellecer el laberinto con elementos como “cofres del tesoro, personajes enemigos y otras características propias de los juegos, como trampas y otras fichas”.
+     
+            Los mundos abiertos casi infinitos ya son posibles hasta cierto punto: “No Man’s Sky” (2016) es un “juego prácticamente infinito”, dice Togelius, que utiliza una técnica llamada contenido generado de manera procedural para crear fauna, flora, geología y condiciones atmosféricas personalizadas para sus planetas, de los que hay 18 trillones de variaciones únicas.
+     
+            Para el ciudadano de a pie, la generación procedural de contenidos se parece mucho a la IA generativa, explica Togelius. Pero utiliza algoritmos que generan contenidos según reglas predefinidas, a partir de los datos introducidos por el desarrollador del juego.
+     
+            Mientras que los desarrolladores conservan el control sobre el contenido generado de este modo, la IA generativa tiene el potencial de desarrollar niveles injugables o desviarse de forma involuntaria de la narrativa del juego. “Los juegos tienen limitaciones funcionales, como que los niveles se puedan completar y que los NPC no mientan sobre el mundo del juego”, añade Togelius.
+     
+            Pero la IA generativa podría impactar al mundo del juego de otras maneras.
+     
+            Los jugadores ya están adaptando el juego a sus propias preferencias y necesidades con contenido generado por el usuario (UGC), que es un componente clave de muchos juegos, incluidos “Fortnite”, “Minecraft” y “Los Sims”. La IA generativa podría hacer que la producción de UGC sea más fácil y accesible para los jugadores, así como elevar la calidad del contenido.
+     
+            “La IA generativa tiene el potencial de permitir un conjunto mucho más amplio y emergente de experiencias de jugador personalizadas y reactivas”, dijo un portavoz de Maxis, el desarrollador detrás de “Los Sims”, a CNN en un correo electrónico.
+     
+            “La personalización del jugador hoy en día está limitada por la complejidad de las herramientas y [la experiencia de usuario] a las que podemos exponer a los jugadores, pero algunos de los nuevos modelos pueden facilitar que el juego interprete y responda a lo que el jugador quiere hacer”, afirma Maxis.
+     
+            Aunque los jugadores están entusiasmados con el potencial de juego, es probable que la IA generativa afecte al desarrollo antes de alterar la experiencia del usuario.
+     
+            Maxis está desarrollando herramientas de IA generativa, actualmente en distintas fases de madurez, que pueden ayudar a los diseñadores de juegos, eliminando tareas repetitivas y permitiendo a los desarrolladores trabajar en problemas más interesantes, según un portavoz.
+     
+            En La Forge, herramientas de IA generativa como Ghostwriter o ZooBuilder, un animador 3D que anima animales cuadrúpedos basándose en videos, podrían ayudar a los diseñadores a “acelerar la parte más tediosa de su proceso, para que puedan centrarse realmente en las partes más creativas e interesantes”, dice Rolland.
+     
+            A los creativos de todo tipo de sectores les preocupa que la IA generativa les quite el trabajo, pero Rolland se apresura a añadir que esta nueva tecnología no sustituirá a los desarrolladores humanos de juegos. Los animadores se enfrentaron a una amenaza existencial similar con la llegada de la captura de movimiento, que, según Rolland, no afectó realmente a los puestos de trabajo, sino que se convirtió en una herramienta para crear mejores gráficos.
+     
+            “Nunca hemos tenido tantos animadores como ahora, y seguimos necesitando más. La captura de movimiento pasó a formar parte de su flujo de trabajo como una herramienta más”, afirma Rolland. “Creo que con la IA generativa, es esencialmente lo mismo, o al menos, lo estamos enfocando con exactamente la misma mentalidad aquí en Ubisoft”. Sin embargo, aún quedan muchos “aspectos legales y éticos” por resolver en el uso de la IA generativa, incluidos los derechos de autor de los artistas, añade.
+     
+            La Forge está ansioso por explorar las oportunidades, como el potencial para aumentar la velocidad de iteración, y los diseñadores de juegos independientes también van a beneficiarse de ello, añade. “Esta tecnología cada vez más accesible va a permitir a muchos de los estudios más pequeños producir juegos y escalar sus producciones, y quizá alcanzar una calidad superior a la que habrían tenido sin IA generativa”.
+     
+            La IA generativa Ghostwriter y la animación de voz a gesto han “superado la fase de simple prototipo”, afirma Rolland, y La Forge está estudiando ahora cómo funcionarían estas tecnologías en el proceso de desarrollo.
+     
+            “A los videojuegos les espera un largo viaje en los próximos diez o veinte años”, afirma Togelius. “Requiere que cambiemos nuestra forma de pensar a la hora de diseñar juegos, pero creo que cuando esto ocurra, los juegos serán mucho mejores”.
+     © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

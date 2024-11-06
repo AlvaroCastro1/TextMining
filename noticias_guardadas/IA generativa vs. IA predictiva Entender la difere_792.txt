@@ -1,0 +1,150 @@
+Título: IA generativa vs. IA predictiva Entender la diferencia | SS&C Blue Prism
+URL: https://www.blueprism.com/es/resources/blog/generative-ai-vs-predictive-ai/
+Número de palabras: 1357
+
+Visión general Desarrollar 
+Process Assessment
+
+
+												Evaluar y priorizar candidatos de automatización
+											
+ 
+Process Intelligence
+
+
+												La percepción para automatizar y monitorear procesos
+											
+ 
+Capture
+
+
+												Capturar procesos y generar prototipos
+											
+ 
+UX Builder
+
+
+												Desarrollo de aplicaciones de código bajo/sin código
+											
+ 
+Automation Lifecycle Mgt
+
+
+												Acelere su proceso de automatización
+											
+ Automatizar 
+Desktop
+
+
+												Ejecute automatizaciones de escritorio de manera responsable
+											
+ 
+Interact
+
+
+												Colaboración entre humanos y trabajadores digitales para maximizar los resultados
+											
+ 
+Decision
+
+
+												Automatice decisiones similares a las humanas usando ML
+											
+ 
+Decipher IDP
+
+
+												Extract and validate data from documents
+											
+ 
+Document Automation
+
+
+												Extract data accurately, at speed, and with ease
+											
+ Orquestar 
+Chorus
+
+
+												Acelere el procesamiento directo
+											
+ 
+Process Intelligence
+
+
+												La percepción para automatizar y monitorear procesos
+											
+ Plataforma 
+Blue Prism Next Generation
+
+
+												Plataforma nativa de la nube que ofrece automatización inteligente
+											
+ 
+Blue Prism Enterprise
+
+
+												Plataforma de automatización inteligente segura y escalable
+											
+ 
+Blue Prism Cloud
+
+
+												Plataforma SaaS completamente administrada
+											
+ 
+IA Generativa
+
+
+												Amplíe el poder de la automatización inteligente con IA
+											
+ 
+Digital Exchange
+
+
+												Integre y amplíe las automatizaciones de procesos de expansión rápidamente
+											
+ 
+ROM™ 2
+
+
+												Incorpore las mejores prácticas en su programa de automatización inteligente
+											
+ 
+Todas las industrias
+
+
+													Muchas industrias se están dando cuenta del valor de la automatización
+												
+ 
+
+
+
+													Automatizaciones departamentales para que su equipo trabaje de manera más inteligente, no más intensa.
+												
+ 
+Nuestros socios
+
+
+													Explore tecnologías avanzadas de automatización inteligente de nuestro ecosistema de socios.
+												
+ Recursos Educación 
+
+
+
+
+								Gartner® Magic Quadrant™
+													 Contáctenos Comparta el enlace de recursos: Copia el enlace de recursos: Comparta el enlace de recursos: Copia el enlace de recursos: Recientemente, ha habido una explosión de tecnologías de inteligencia artificial (IA). Se está utilizando la IA generativa para generar contenido nuevo, incluidos textos, imágenes, videos, códigos y música. Mientras tanto, se está utilizando la IA predictiva para predecir eventos futuros. Por su parte, el aprendizaje automático (ML) está involucrado en todo esto.  Hace algunos años, pedirle a una computadora que creara una imagen o una canción únicas sonaba muy lejano. En la actualidad, ese pensamiento mágico es una realidad, y muchas organizaciones se preguntan cómo pueden usar estas tecnologías ambiciosas para mejorar sus empresas.  Primero, no son conceptos que se contraponen. El aprendizaje automático (ML) es la base de la IA predictiva y la IA generativa. Pero, mientras que la IA generativa usa los modelos de ML para crear contenido, la IA predictiva usa el ML para identificar señales de alerta tempranas y determinar resultados futuros.  Si bien las dos usan el ML y la IA, sus algoritmos funcionan de manera diferente. Podrá ver algunos cruces en la forma en que estas tecnologías pueden aplicarse a casos de uso del mundo real.  Piense en la IA generativa como el lado “creativo”. La IA generativa usa el aprendizaje profundo para generar contenido nuevo basado en los datos sobre los cuales está formada.  Piense en la IA predictiva como el lado “comercial”. La IA predictiva, también conocida como análisis predictivo, usa datos históricos y actuales para identificar patrones y hacer deducciones según esa información. Se basa en algoritmos estadísticos y el ML.  Comparemos la IA generativa con la IA predictiva:  IA generativa  IA predictiva  Se centra en crear contenido nuevo.  Se centra en predecir eventos futuros.  Se usa para generar imágenes realistas y demás contenido nuevo.  Se usa para identificar patrones y hacer deducciones.  Utiliza redes neurales y aprendizaje automático.  Utiliza modelos estadísticos y algoritmos de aprendizaje automático.  La IA generativa se trata de crear algo nuevo.  Las tecnologías de IA generativa están formadas sobre la base de un conjunto de datos y solo pueden generar contenido con base en esa información que reciben. Los riesgos de la IA generativa surgen con los datos de mala calidad o aquellos con contenido sin licencia, lo que puede provocar la violación de los derechos de autor, el incumplimiento de los derechos de privacidad, sesgos y falta de cumplimiento.  Para poder mitigar estos riesgos, las organizaciones que usan la IA generativa deben establecer estándares de gobernanza de la IA, en especial aquellas que pertenecen a industrias altamente reguladas como los servicios financieros y la atención médica. Garantizar el cumplimiento de la IA puede ahorrarles a las organizaciones sanciones legales, filtraciones de datos y participación en actividades poco éticas.  Las herramientas de IA generativa están diseñadas para aumentar el trabajo de los escritores, diseñadores, artistas, creadores de código y músicos, no para reemplazarlo. Es particularmente útil para acelerar el proceso creativo y aportar ideas nuevas o diferentes. Toda organización que desee usar estas herramientas primero debe echar un vistazo a Cómo prepararse para la IA generativa.  Estos son los beneficios que veremos en los usos futuros de la IA generativa:  Más allá de la creación de contenido, la IA generativa tiene muchos casos de uso comerciales. Al aplicar la IA generativa a su programa de automatización inteligente, usted puede optimizar y personalizar aún más los procesos automatizados. Estas son algunas de las aplicaciones de la IA generativa:  Explore otros casos de uso de la IA generativa para ampliar el poder de la automatización.  La IA predictiva se trata de la predicción.  Debido a que la IA predictiva se forma a partir de grandes cantidades de datos para realizar una predicción, la falta de datos o la imprecisión de ellos puede dañar gravemente su eficacia. Incluso con todos estos datos, la IA predictiva es un adivino infalible. Puede hacer predicciones basadas en patrones y tendencias, pero ningún evento futuro puede predecirse con absoluta certeza. Toda organización que utilice esta tecnología debe reconocer que, como sucede con todo, esta tecnología tiene limitaciones.  Los modelos de IA predictiva están diseñados para acelerar la toma de decisiones al ayudar a las empresas a tomar decisiones precisas e informadas. Analiza patrones y hace predicciones al identificar anomalías en los datos y extrapolar eventos futuros. Esto puede reducir el tiempo que toma a las empresas investigar y estudiar información para que puedan dedicar más tiempo a una toma de decisiones estratégica.  Estas son algunas de las aplicaciones de la IA predictiva:  El objetivo de la automatización inteligente es ahorrar tiempo y dinero y optimizar los procesos a fin de reducir los residuos. Con los avances de las tecnologías de IA, estas capacidades seguirán en expansión a medida que pueda automatizar procesos más complejos y automatizar más procesos de principio a fin.  Cada vez más organizaciones piensan en grande sobre la automatización. Lea nuestro ebook para descubrir cómo puede sobrecargar la automatización inteligente con la IA generativa.  ¿Necesita un repaso? Esta es nuestra tabla de tecnologías:  Inteligencia artificial (IA)  Imita la inteligencia humana para resolver problemas.  IA predictiva  También conocida como análisis predictivo, la IA predictiva usa algoritmos de aprendizaje automático que se basan en datos históricos para identificar patrones, hacer predicciones y predecir tendencias.  IA generativa  Usa un algoritmo sofisticado para crear contenido nuevo, incluido texto, imágenes, video y audio, en función de indicaciones de lenguaje natural.  Aprendizaje automático (ML)  Es una rama de la IA que usa datos y algoritmos para imitar el aprendizaje humano y mejorar su precisión con el tiempo.  Procesamiento del lenguaje natural (NLP)  Es una tecnología de ML que sintetiza el lenguaje humano natural.  Automatización cognitiva  La automatización cognitiva, otro nombre para la automatización inteligente, imita el comportamiento y la inteligencia humana para facilitar la toma de decisiones y realizar tareas complejas.  Gestión de procesos comerciales (BPM)  Es una herramienta para que las empresas puedan automatizar, administrar y optimizar sus procesos.  La automatización robótica de procesos (RPA)  Imita la capacidad humana de realizar tareas.  Automatización inteligente (AI)  La AI combina la BPM, la IA y la RPA para automatizar procesos.  SVP Product
+                 Tiempo de lectura: 7 minutos 
+                                  RPA a velocidad
+                  ,                                  Producto
+                                                
+ 
+																	Blog
+															 
+								Casos de uso de IA generativa: Ampliar el poder de la automatización
+							 
+																	Blog
+															 
+								Cómo prepararse para la IA generativa: una guía de supervivencia
+							 SS&C Blue Prism permite a los líderes empresariales del futuro sortear los obstáculos de la transformación digital en curso para realmente remodelar y evolucionar la forma en que se realiza el trabajo, para mejor. Si YouTube está bloqueado en su red, usted no podrá ver el video en esta página. En ese caso, utilice otro dispositivo. Al hacer clic en reproducir en el video, se establecerán cookies de YouTube de terceros. Lea nuestra Política de cookies para obtener más información.

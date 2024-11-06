@@ -1,0 +1,40 @@
+Título: ChatGPT for Google - Chrome Web Store
+URL: https://chromewebstore.google.com/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf
+Número de palabras: 894
+
+3.6K ratings Display ChatGPT response alongside search engine results 🔥 Display GPT-4&Bard&Claude's intelligent answer alongside search engine's general results.Enhance your browsing experience with AI!
+ChatGPT for Google is an extension that shows AI responses alongside Google, Bing, DuckDuckGo, and other search engines.
+
+Compared to the scattered and chaotic information from search engines, AI has already summarized and categorized this information for you, allowing you to see the results you want more intuitively. Moreover, you can ask further questions based on AI responses to gain a deeper understanding of the question.
+
+---
+💪 Key Features:
+👉 Search Enhancement: Obtain concise, accurate answers to your questions right within the search engine interfaces you already use.
+👉 Search Agent: Just ask a question, ChatGPT for Google will search using multiple keywords, review all the results, and find the right answer for you.
+👉 All-In-One Chat: Compare the answers of ChatGPT, GPT-4, Bard, and Claude in one page to enhance your search experience.
+👉 Quick Ask: Enter "gpt" in the browser address bar, then press "Tab" or "Space" to enter quick ask mode.
+In Quick Ask mode, enter your query and hit "Enter" to instantly send it to ChatGPT or any AI Model you like.
+
+🥳 How ChatGPT for Google Shines Above the Competitors?
+✔ Supports all popular search engines: Google, Bing, DuckDuckGo, and other search engines.
+✔ Supports official API (GPT-4, GPT-4 Turbo, Bard)
+✔ Markdown rendering
+✔ Code highlights
+✔ Dark mode
+✔ Custom trigger mode
+✔ Custom content text size
+✔ Supports 50+ languages
+
+---
+❓ Frequently Asked Questions:
+📌 What is ChatGPT for Google?
+ChatGPT for Google is a browser extension that enhances search engines with the power of ChatGPT. It works by showing ChatGPT responses alongside normal search engine results.
+
+📌 Is ChatGPT for Google free to use?
+Yes, we offer limited use for free. For unlimited access, you can choose the Premium Plan.
+
+📌 What search engines are supported?
+Currently, ChatGPT for Google supports Google, Bing, DuckDuckGo, and other search engines. More search engines will be supported in the future.
+
+📌 Do I need a ChatGPT/OpenAI account?
+ChatGPT for Google offers two usage modes: a free mode and a subscription-based mode. In the free version, users can utilize the search enhancement feature by either signing into their personal OpenAI ChatGPT account or by using their own OpenAI API key. Conversely, the premium mode allows users full access to all features without the need for any API keys or OpenAI account. Google doesn't verify reviews. Learn more about results and reviews. excellent Nice Way too restricted for people who just want to use their own API key. Allow people the same functionality from their own API key as they get from paying for a subscription through your service, but don't advertise being able to use my own API key only to then find the extension is artificially crippled unless I pay for the Pro service. 1 star. ChatGPT for Google has disclosed the following information regarding the collection and usage of your data. More detailed information can be found in the developer's privacy policy. Monica Search - New Tab for AI Search Experience the free, unlimited search with ChatGPT! Luna - ChatGPT for Chrome ChatGPT for Chrome ChatGPT Writer: Use AI on Any Site (GPT-4o, Claude, Gemini, and More) Write emails, correct grammar, translate, research, and do much more. One-click access to top AI models and many more features. ChatGPT Optimizer - Boost Your AI Workflow Enhance the Chat GPT interface and bring GPT trough all the web! Enhanced ChatGPT Enhanced ChatGPT extension adds new features to ChatGPT, including chat export and prompt templates. A must-have for ChatGPT users. ChatGPT Assistant - Use AI Everywhere Use ChatGPT in search engines, to write emails, and on any website 프롬프트 지니: ChatGPT 자동 번역기 ChatGPT 쓸 때 질문을 영어로 번역해 주고, 답변도 한글로 번역해 주는 번역기입니다. WebChatGPT: ChatGPT with internet access Augment your ChatGPT prompts with relevant web search results through web browsing. Monica - Your AI Copilot powered by GPT-4o & Claude 3.5 Your AI Copilot powered by GPT-4. Answers complex questions. Writes emails, reads articles, searches smartly. Usable everywhere. ChatGPT & YouTube Summary by Glasp Access ChatGPT from the Chrome toolbar and get transcripts and summaries of YouTube videos. Powered by ChatGPT & Claude. Remail - Your AI Assitant Everywhere Achieve Better AI Answers 73% more often with Multiple Chatbots ChatGenie Unlock the power of conversation with ChatGenie - the ultimate browser extension for accessing Chatgpt! Monica Search - New Tab for AI Search Experience the free, unlimited search with ChatGPT! Luna - ChatGPT for Chrome ChatGPT for Chrome ChatGPT Writer: Use AI on Any Site (GPT-4o, Claude, Gemini, and More) Write emails, correct grammar, translate, research, and do much more. One-click access to top AI models and many more features. ChatGPT Optimizer - Boost Your AI Workflow Enhance the Chat GPT interface and bring GPT trough all the web! Enhanced ChatGPT Enhanced ChatGPT extension adds new features to ChatGPT, including chat export and prompt templates. A must-have for ChatGPT users. ChatGPT Assistant - Use AI Everywhere Use ChatGPT in search engines, to write emails, and on any website 프롬프트 지니: ChatGPT 자동 번역기 ChatGPT 쓸 때 질문을 영어로 번역해 주고, 답변도 한글로 번역해 주는 번역기입니다. WebChatGPT: ChatGPT with internet access Augment your ChatGPT prompts with relevant web search results through web browsing.

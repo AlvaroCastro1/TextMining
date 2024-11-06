@@ -1,0 +1,12 @@
+Título: Sin título
+URL: https://www.iti.es/techtransfer/inteligencia-artificial/
+
+Máquinas que aprenden
+Diseño e Implementación de técnicas que permitan a las computadoras aprender, mediante la creación de algoritmos capaces de generalizar comportamientos, reconocer patrones a partir de una información suministrada y mejorar mediante técnicas de interacción y aprendizaje.
+
+Estas técnicas de aprendizaje son de aplicación al reconocimiento de formas, resolución de problemas de fabricación, digitalización y análisis de imagen médica.
+
+Algunas de las líneas de trabajo de ITI son el análisis de datos médicos para facilitar el diagnóstico y detección precoz de enfermedades, y el análisis y clasificación de imágenes en tres dimensiones, que facilita la inspección industrial, el control de calidad y la detección de defectos de fabricación.
+
+Algunas de las líneas de trabajo de ITI son el análisis 
+

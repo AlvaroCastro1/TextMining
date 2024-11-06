@@ -1,0 +1,54 @@
+Título: Inteligencia artificial en salud: Retos éticos y legales | #AnticipandoelFuturo
+URL: https://www.institutoroche.es/observatorio/retoseticosylegales
+Número de palabras: 448
+
+Hoy en día los sistemas de información, y en concreto
+la Inteligencia Artificial (IA), están jugando un papel
+muy importante en la transformación digital de nuestro
+entorno. La IA busca emular la inteligencia humana a
+través de algoritmos y herramientas computacionales
+para generar conocimiento de manera autónoma a
+	 partir del análisis de gran cantidad de datos. El número de aplicaciones de IA aumenta exponencialmente,
+siendo cada vez más complejas y sofisticadas.
+Además, también son más las áreas en las que
+encuentran aplicación, desde el sector financiero hasta
+el sector sanitario. En concreto, en este último campo,
+se prevé que las herramientas de IA contribuirán a la
+realización de tareas sencillas y repetitivas que consumen
+el tiempo del personal sanitario, liberándoles para
+que realicen otro tipo de tareas asistenciales de más valor.
+Pero también a la resolución de problemas complejos
+de salud, como la detección de la predisposición a desarrollar
+enfermedades, la detección de portadores de
+enfermedades hereditarias o la predicción de la respuesta
+	individual a tratamientos. Estos algoritmos de IA se sirven para su desarrollo y
+aprendizaje del uso masivo de datos que pertenecen a
+los individuos. Es necesario tener en cuenta que los individuos
+tienen derechos sobre sus datos, que hay que
+respetar, y el hecho de que las herramientas basadas
+en IA empleen dichos datos puede entrar en conflicto
+con los derechos de los individuos, planteando retos
+desde el punto de vista ético y legal. Además, existen
+otras cuestiones que, dado el ritmo vertiginoso de aplicación
+de estas herramientas, hay que tener en consideración
+y plantear para darles respuesta. Por ejemplo, el riesgo
+de identificar los datos del paciente, la capacidad
+de las herramientas de IA para establecer relaciones
+entre datos a través de del big data, el riesgo de que se
+tomen decisiones sesgadas con base en estos datos, la
+tendencia a la automatización y la opacidad sobre los
+elementos esenciales y sobre el proceso por el que
+un sistema de IA ha llegado a una conclusión que se
+suman al debate sobre quién debe ser responsable de
+los resultados de la aplicación de IA en el campo de
+	la salud. Es por esto que, de cara a poder trasladar estas herramientas
+a la práctica clínica y contribuir a la digitalización
+de la Medicina Personalizada de Precisión en el futuro, los
+profesionales sanitarios, científicos, juristas, poderes
+públicos y la sociedad en general deberán enfrentarse
+	y buscar de manera conjunta soluciones a estos retos. Soluciones que, sin que estas herramientas supongan
+la sustitución del profesional sanitario, permitan que
+los sistemas de IA se empleen en la práctica clínica
+por profesionales pasando por la elaboración de códigos
+de conducta internacionales y garanticen los
+derechos de los individuos.

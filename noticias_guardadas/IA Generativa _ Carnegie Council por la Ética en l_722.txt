@@ -1,0 +1,43 @@
+Título: IA Generativa | Carnegie Council por la Ética en los Asuntos Internacionales | Carnegie Council por la Ética en los Asuntos Internacionales
+URL: https://es.carnegiecouncil.org/explore-engage/key-terms/generative-ai
+Número de palabras: 747
+
+La IA generativa se refiere a una clase de tecnologías de inteligencia artificial (IA) que producen resultados como texto, imágenes, conjuntos de datos u otros medios en respuesta a las instrucciones del usuario. Estas tecnologías suelen basarse en el aprendizaje automático o en grandes modelos lingüísticos para identificar patrones en un conjunto de datos de entrenamiento y utilizarlos para generar resultados. En un artículo de la Iniciativa Inteligencia Artificial e Igualdad (AIEI) de Carnegie Council titulado "Now is the Moment for a Systemic Reset of AI and Technology Governance" (Ahora es el momento de un reajuste sistémico de la gobernanza de la IA y la tecnología), los investigadores Wendell Wallach y Anja Kaspersen destacan los "asombrosos" avances de la tecnología de IA generativa en los últimos años, aunque advierten de que los algoritmos que hay detrás de estas soluciones "pueden descubrir y regurgitar palabras y conceptos perspicaces, pero no comprenden la profundidad del significado de estas palabras y conceptos". La rapidez, facilidad de uso y accesibilidad de esta tecnología plantea problemas éticos tanto a las empresas como a las escuelas, universidades y particulares. Existen problemas de propiedad intelectual y derechos de autor que llevaron a Amazon a advertir a sus empleados que no compartieran el código con ChatGPT. En el caso de las instituciones académicas, dependiendo de cómo aprovechen los estudiantes la IA generativa, las prácticas aceptables de investigación y realización de tareas podrían verse afectadas. Para más información sobre este tema, consulte los siguientes artículos, podcasts y recursos externos creados y seleccionados por la red de Carnegie Council. El rápido despliegue de las tecnologías de IA generativa pone de relieve la importancia de establecer mecanismos eficaces de gobernanza para la supervisión ética y jurídica. Esta nota conceptual propone la creación inmediata de un Observatorio Mundial de la IA (GAIO) apoyado por mecanismos consultivos de cooperación para identificar y difundir las mejores prácticas, normas y herramientas para la gobernanza internacional integral de los sistemas de IA. Wallach y Kaspersen plantean una pregunta importante: ¿Cómo podemos garantizar que las tecnologías que se están desarrollando actualmente se utilicen para el bien común, en lugar de para el beneficio de unos pocos elegidos? ¿Qué respondió ChatGPT a la pregunta de qué significan los avances de la inteligencia artificial para la condición humana? En un artículo de la Iniciativa Inteligencia Artificial e Igualdad (AIEI) de Carnegie Council, los investigadores Anja Kaspersen y Wendell Wallach, junto con el consejero de la AIEI Kobi Leins, afirman:"En la carrera por desplegar modelos y tecnologías de IA generativa, sin suficientes barreras o regulaciones, los individuos ya no son vistos como seres humanos sino como puntos de datos, que alimentan una máquina más amplia de eficiencia para reducir costes y cualquier necesidad de contribuciones humanas. De este modo, la IA amenaza con permitir tanto la banalidad como la radicalidad del mal, y alimenta potencialmente el totalitarismo". 
+MAR 29, 2022
+-
+
+    Podcast
+    
+ 
+NOV 3, 2021
+-
+
+    Podcast
+    
+ 
+        En este episodio del podcast "Artificial Intelligence & Equality Initiative", la investigadora principal Anja Kaspersen habla con Gary Marcus sobre la necesidad de un discurso científico abierto y sano sobre la IA. ¿Qué podemos aprender de la física de partículas y del CERN?
+       Organizado por Anja Kaspersen 
+JUN 22, 2022
+-
+
+    Podcast
+    
+ 
+        En este episodio del podcast "Artificial Intelligence & Equality Initiative", Wendell Wallach, becario de Carnegie-Uehiro, y Angela Kane, presidenta del Consejo de Gobierno de la Universidad de las Naciones Unidas, debaten sobre cómo la inteligencia artificial puede cambiar la geopolítica.
+       Organizado por Wendell Wallach La Iniciativa Inteligencia Artificial e Igualdad pretende sentar las bases de un diálogo inclusivo sobre ética de la IA y potenciar la ética como herramienta para tomar decisiones meditadas sobre cómo la IA se integra en nuestras vidas. 
+            Carnegie Council El investigador Arthur Holland Michel analiza algunas de las posibles repercusiones sociales del ChatGPT.
+       
+            "Tratar el ChatGPT como una fuente objetiva de conocimiento, por lo tanto, no sólo es erróneo sino que reproduce las desigualdades en el conocimiento".
+       
+            "La inteligencia artificial (IA) y su introducción en las vías clínicas plantea toda una serie de cuestiones éticas . . ."
+       
+            Wendell Wallach, miembro de Carnegie-Uehiro, analizó las implicaciones de una "carrera armamentística sobre la IA" entre ambos países.
+       
+            "Cuando se entrena con un gran corpus de datos de texto o imágenes, el modelo reproduce de forma natural cualquier sesgo representativo de su fuente".
+       
+            Utilizar el poder de la ética para construir un mundo mejor
+       
+[email protected]
+212-838-4122
+170 East 64th Street
+Nueva York, NY 10065

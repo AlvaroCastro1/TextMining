@@ -1,0 +1,10 @@
+Título: Utilizar la IA para generar contenidos para las redes sociales
+URL: https://knowledge.hubspot.com/es/social/use-hubspots-ai-assistant-to-create-social-posts
+Número de palabras: 220
+
+Última actualización: 
+
+                        
+                        octubre 17, 2024
+                        
+                       En la herramienta social de HubSpot, inicia e introduce indicaciones en Breeze Copilot by HubSpot para generar automáticamente contenido para tus publicaciones sociales cuando crees publicaciones sociales en el escritorio o desde la aplicación móvil de HubSpot. En el escritorio, también puede utilizar Copilot para refinar sus publicaciones sociales o crear publicaciones sociales a partir de publicaciones de blog.  Nota: Evita suministrar información sensible en tus prompts. Para mejorar el producto, HubSpot registra y almacena tus prompts, el texto generado y las métricas de uso cuando utilizas los asistentes de IA. HubSpot comparte tus prompts con OpenAI para habilitar esta herramienta y esta empresa almacenará tus prompts para la moderación del contenido, además de guardar la información del usuario que los origina. Tus prompts te serán atribuidos. Al utilizar los asistentes de IA en beta, aceptas cumplir los Términos de la beta de HubSpot, así como las Políticas de uso de OpenAI, Política de contenidos, y Política de publicación y uso compartido. Para generar contenido con Copilot al crear una publicación social en escritorio:      Después de crear una entrada de blog, genera un resumen para utilizarlo en tus publicaciones sociales y promocionar tu contenido.          Mientras te desplazas, puedes introducir indicaciones para generar automáticamente contenido para tus publicaciones sociales en . La aplicación móvil de HubSpot.     

@@ -1,0 +1,91 @@
+Título: 10 efectos de la inteligencia artificial en nuestra vida cotidiana | liberties.eu | liberties.eu
+URL: https://www.liberties.eu/es/stories/impacto-inteligencia-artificial-vida-cotidiana/44222
+Número de palabras: 2269
+
+No hace tanto tiempo, la inteligencia artificial, o IA, parecía cosa de ciencia ficción. Los comandantes de naves espaciales se valían de ella para navegar a través de los "agujeros de gusano" o para entender a otras especies que habitaban el amplio universo. Hoy todos somos, en cierto modo, comandantes de naves espaciales. Utilizamos la IA para resolver problemas de nuestra vida cotidiana: para encontrar el camino más rápido entre nuestra casa y el lugar de trabajo, leer páginas web escritas en otro idioma, buscar información y un sinfín de otros propósitos.
+ 
+
+ La utilización de la inteligencia artificial cada vez en más ámbitos es aplaudida debido a que facilita las cosas y ahorra mucho tiempo. Sin embargo, tiene un precio. La IA plantea grandes retos y amenazas éticas, sociales y jurídicas a nuestras sociedades. Estos deben analizarse minuciosamente, mitigarse y, en algunos casos, eliminarse.
+ ¿Qué es entonces la IA?
+ Cuando hablamos de "IA", nos referimos a algoritmos que simulan la inteligencia humana, imitando comportamientos como el "aprendizaje" y la "resolución de problemas". Los programas informáticos "normales" que utilizábamos cuando solo el comandante Spock tenía acceso a la IA eran escritos por algún programador avispado y ahí se acababa la historia: el código no cambiaba por su cuenta. Los programas que utilizan IA son diferentes, se les "entrena" con enormes conjuntos de datos de forma que van adquiriendo nuevas características y capacidades.
+ Ahora consideremos las 10 formas en que la inteligencia artificial afecta (o probablemente lo haga en breve) nuestra vida cotidiana, entre lo bueno, lo malo y lo feo.
+ 
+
+
+
+
+
+
+
+
+              Donate to liberties
+            
+
+
+Juntos podemos exigir responsabilidades a las grandes tecnológicas.Al igual que tú, nos indigna que se sacrifiquen los derechos humanos para que las Big Tech puedan maximizar sus beneficios. Únete a Liberties para que la IA sea segura para todas las personas.
+
+
+
+
+
+Ayuda a Liberties a plantarle cara a las grandes tecnológicas y a los gobiernos del Gran Hermano.Nuestro equipo de personas expertas en IA está presionando a la UE para que proteja tus derechos de los riesgos derivados de la misma. Pero los lobbies de las empresas de IA, sobradamente financiados, están logrando convencer a los responsables políticos para que limiten estas garantías. En tanto que observatorio pequeño e independiente, esta lucha es como la de David contra Goliat. Pero no podemos permitir que el lucro triunfe sobre los derechos humanos. Refuerza Liberties realizando una aportación hoy mismo.
+
+
+
+
+
+
+
+ 
+
+
+
+ Al igual que tú, nos indigna que se sacrifiquen los derechos humanos para que las Big Tech puedan maximizar sus beneficios. Únete a Liberties para que la IA sea segura para todas las personas. Nuestro equipo de personas expertas en IA está presionando a la UE para que proteja tus derechos de los riesgos derivados de la misma. Pero los lobbies de las empresas de IA, sobradamente financiados, están logrando convencer a los responsables políticos para que limiten estas garantías. En tanto que observatorio pequeño e independiente, esta lucha es como la de David contra Goliat. Pero no podemos permitir que el lucro triunfe sobre los derechos humanos. Refuerza Liberties realizando una aportación hoy mismo.
+ La tecnología de reconocimiento facial se ha ido convirtiendo poco a poco en algo cotidiano, ya sea a través de las cámaras de video vigilancia instaladas en lugares públicos o de las tecnologías de reconocimiento facial que llevan incorporadas los teléfonos inteligentes. En los teléfonos inteligentes, la IA se utiliza normalmente para bloquear y desbloquear el acceso. Esa información se queda en tu dispositivo, solo se utiliza para ahorrarte el tiempo de teclear una contraseña o un código. Suena bastante inocente, ¿verdad? Bueno, podría ser peor, pero dista mucho de ser inocente. Otras personas pueden desbloquear tu teléfono mientras duermes simplemente mostrando tu cara. La tecnología puede ser burlada, con lo que los datos almacenados en tu teléfono serían accesibles para personas no autorizadas. También puede normalizar el escaneo facial, logrando que la idea de que tu cara sea escaneada por otros resulte cada vez menos inquietante. Cuando se conecta a la videovigilancia, la tecnología suele justificarse por "cuestiones de seguridad", por su eficacia en la prevención de la delincuencia. Pero incluso un sistema de reconocimiento facial que funcione perfectamente y que no implique una discriminación sistémica (como ocurre con nuestros sistemas actuales) sería inaceptable. Estos sistemas amenazan la privacidad, el derecho al anonimato y la libertad personal. No se puede vivir una buena vida bajo vigilancia constante,sin poder expresar y compartir libremente opiniones que puedan generar controversia o ser críticas con el gobierno, sin poder ser simplemente quien se es.
+ Aunque lo más probable es que aún no hayas visto uno en su realidad física, los juguetes sexuales que utilizan IA están llegando al mercado. Según sus inventores y productores, son inofensivos y, de hecho, su uso puede ser terapéutico para la salud mental. Hay quien cree que lograrán acabar con el acoso sexual y otros delitos similares gracias a que ofrecerán a hombres y mujeres un lugar donde descargar sus impulsos excesivos.
+ Sin embargo, científicos y expertos, por ejemplo de los Hospitales Universitarios de St George del Servicio Nacional de Salud (NHS) de Londres y del Women’s Health Academic Centre del King's College de Londres, advierten que esas opiniones optimistas carecen de pruebas científicas. Es muy posible que la propagación de estos robots normalice la violación. Además, los robots sexuales también suponen un grave peligro para la intimidad y el anonimato, y pueden convertirse en objeto de ciberataques y ciberchantajes.
+ Aunque parezca mentira, ya existen cocineros robots en el mercado. Si bien es cierto que por el momento la tecnología no es barata, es posible que en los próximos años vaya a más, del mismo modo que se han propagado los cajeros automáticos en los supermercados. (Por cierto, ¿sabías que la mujer del inventor de los cajeros automáticos no los utiliza nunca? Va a la sucursal de su barrio a sacar el dinero. La tecnología puede agilizar las cosas, pero la falta de interacciones humanas casuales puede ser perjudicial para la calidad de nuestras vidas). La tecnología puede hacer que las tareas de acogida que realizan un buen número de personas puedan resultar prescindibles, y, los pocos puestos de trabajo que queden, pueden plantear problemas de riesgos laborales, con las consiguientes implicaciones jurídicas.
+ Dicho esto, el gran elefante en la habitación serán los problemas de privacidad. Qué ocurre cuando los sensores y las cámaras que transmiten los datos al sistema automatizado registran información personal delicada de clientes o del personal; permitir que estos sistemas vayan generando perfiles personalizados podría significar la creación de historiales médicos personales, de alergias o enfermedades, para los que la confidencialidad absoluta es la única solución aceptable.
+ ¿Cómo sabe Amazon que justo estaba pensando comprarme ese par de zapatillas Nike blancas? La tecnología de IA se utiliza mucho en las páginas web de compras para crear recomendaciones personalizadas a los clientes. Los sitios recopilan el historial de navegación, las preferencias y los intereses de la persona usuaria, y además, rastrean su actividad en las aplicaciones y sitios web de otras empresas. Gracias a la IA, las marcas pueden escudriñar de forma más inteligente y eficiente petabytes de datos para predecir el comportamiento de los clientes y ofrecerles recomendaciones relevantes y útiles.
+ Este grado de inteligencia artificial es vital para ofrecer una experiencia de compra personalizada al consumidor. ¿Es bueno? Es extremadamente cómodo, sin duda. Sin embargo, la cantidad de datos que las empresas tecnológicas recopilan sobre nosotros y el hecho de que su elaboración de perfiles, unida a los intereses comerciales, puede volverse en nuestra contra, es ciertamente muy preocupante. Además, ¿no te apetece a veces pensar de forma distinta y hacer algunas elecciones de ropa atrevidas? ¿Qué tal, por ejemplo, unas Vans rosa neón con estampado de cebra?
+ 
+
+      La IA avanza rápido. Mantente alerta.
+  
+
+
+
+
+
+            Subscribe
+        
+
+
+
+I agree to Liberties' Terms of Use and Privacy Policy (mandatory).
+
+
+
+
+ Los asistentes digitales de voz son una herramienta que todos utilizamos de vez en cuando y se encuentran en la mayoría de los smartphones. Permiten realizar una búsqueda mediante un comando de voz, así como recuperar información a través de la síntesis de voz. En bastantes hogares del primer mundo también hay asistentes de voz digitales independientes que se utilizan para encender y apagar la radio, comprar billetes de tren o enviar mensajes a los seres queridos.
+ Sin embargo, su uso dista mucho de ser seguro. Existen denuncias relacionadas con asistentes de voz que enviaron 1.700 archivos de audio personales a otro usuario, o que graban una conversación privada y la envían a un número aleatorio de la agenda sin permiso.
+ Al igual que los teléfonos, los hogares también se están volviendo "inteligentes". Nuestros termostatos aprenden nuestras preferencias y hábitos diarios, de modo que cuando volvemos de casa nos recibe nuestra temperatura ideal. Algunos frigoríficos crean listas de lo que necesitas en función de lo que te falta y te ofrecen recomendaciones de vinos que acompañarían tu cena. Y, por supuesto, los asistentes digitales de voz pueden conectarse a tus sistemas y dispositivos inteligentes, de modo que puedes decir "más luz" y habrá más luz.
+ 
+ Sin embargo, los hogares inteligentes pueden ser peligrosos. Tu calefacción, que funciona con un interruptor manual, no puede ser hackeada. La calefacción conectada a Internet, sí. La única función de tu nevera de la vieja escuela es mantener la comida fría. Tu nevera inteligente puede empezar a minar criptomonedas de forma paralela sin que lo sepas.
+ Muchos enviamos al menos uno (o varios) correos electrónicos al día, y probablemente unos cuantos mensajes de texto. Las funciones de texto predictivo basadas en la IA nos ayudan a redactar los mensajes. Esto a veces da lugar a intercambios divertidos (puedes leer bastantes en Bored Panda), pero en general, si escribes muchos mensajes durante el día, te facilita mucho la vida. Sin embargo, no pienses que esto no conlleva ningún problema potencial: las palabras clave que tu teléfono u ordenador aprenden pueden decir mucho sobre ti si llegan a manos equivocadas.
+ La mayoría de nosotros no pasa un día sin buscar algo en Google: una duda o un producto sin el que no podemos vivir. Los buscadores no podrían escanear toda la red y proporcionar la información que quieres sin ayuda de la inteligencia artificial. ¿Y esos anuncios que parece que te siguen a todas partes? Sí, están habilitados por la IA, se basan en tu historial de búsqueda y están personalizados para ofrecerte artículos que los algoritmos creen que vas a valorar.
+ Además, cuando un buscador se vuelve tan dominante como ahora Google, tiene un enorme poder sobre la información que encontramos y lo que nos parece relevante. Asimismo, adquiere un enorme poder sobre otras empresas que intentan venderte algo, ya que aparecer en el puesto 78 de la clasificación de relevancia o en el 7 puede significar prosperar o hundirse.
+ Al final del día, cuando llega el momento de descansar y relajarse, muchos recurrimos a servicios de streaming como Netflix. El sistema de recomendaciones de la empresa se basa en la inteligencia artificial y utiliza tu historial de visionado para ofrecerte sugerencias sobre lo que podría apatecerte ver (por ejemplo, géneros, actores, periodos de tiempo, etc.). Su herramienta llega a ser tan concreta que tiene registrada la hora del día en la que has visto algo y lo que normalmente te gusta ver en ese momento. Además de reducir tu capacidad de experimentación, los sistemas de recomendación también pueden suponer un riesgo, por ejemplo, al revelar tus preferencias sexuales o políticas a quienes echen un vistazo a tu pantalla.
+ El impacto de la IA sobre la atención sanitaria es profundo y de gran alcance. La IA podría ayudar a las personas a mantenerse sanas, de forma que los médicos sean menos necesarios: las apps de salud que utilizan IA ya están ayudando a las personas a llevar un estilo de vida saludable. Gracias a su capacidad de análisis de datos, la IA ya se utiliza para detectar enfermedades, como el cáncer, con mayor precisión y en sus primeras fases. Junto con la tecnología vestible y otros dispositivos médicos, la IA permite supervisar enfermedades cardíacas en sus primeras fases, y de este modo permite que los médicos puedan predecir episodios que ponen en peligro la vida en una fase temprana en la que podría ser posible evitar ese desenlace. Sin embargo, los dispositivos vestibles, o "wearables" pueden revelar información delicada sobre tu salud (ubicación) y esa información puede llegar a lugares donde no quieres, por ejemplo, a posibles empleadores.
+ La tecnología no debe ser denostada. Nos hace la vida más fácil, más larga y más feliz. Sin embargo, como ciudadanos, debemos ser conscientes de los riesgos que entrañan los distintos sistemas. Y también debemos exigir a nuestros gobiernos y a la UE que inicien y apliquen normas que protejan nuestros derechos e intereses más importantes.
+   As a watchdog organisation, Liberties reminds politicians that respect for human rights is non-negotiable. We're determined to keep championing your civil liberties, will you stand with us? Every donation, big or small, counts.
+ Your contributions help us in the following ways
+ ► Liberties remains independent► It provides a stable income, enabling us to plan long-term► We decide our mission, so we can focus on the causes that matter► It makes us stronger and more impactful
+ As a watchdog organisation, Liberties reminds politicians that respect for human rights is non-negotiable. We're determined to keep championing your civil liberties, will you stand with us? Every donation, big or small, counts.
+  
+          You will get the latest reports before anyone else!
+          
+          You can follow what we are doing for your rights!
+          
+          You will know about our achivements!
+        

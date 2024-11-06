@@ -1,0 +1,277 @@
+Título: EL IMPACTO DE LA INTELIGENCIA ARTIFICIAL EN LA PROTECCIÓN DE DATOS PERSONALES
+URL: https://www.worldcomplianceassociation.com/2767/articulo-el-impacto-de-la-inteligencia-artificial-en-la-proteccin-de-datos-personales.html
+Número de palabras: 7496
+
+Usamos cookies en nuestro sitio web para brindarte la experiencia más relevante recordando tus preferencias y visitas repetidas. Haz clic en "Aceptar todas las cookies" para disfrutar de esta web con todas las cookies, configura tus preferencias antes de aceptarlas, o utiliza el botón "Rechazar todas las cookies" para continuar sin aceptar. Este sitio web utiliza cookies para mejorar su experiencia mientras navega por el sitio web. Fuera de estas cookies, las cookies que se clasifican como necesarias se almacenan en su navegador, ya que son esenciales para el funcionamiento de las funcionalidades básicas del sitio web. También utilizamos cookies de terceros que nos ayudan a analizar y comprender cómo utiliza este sitio web. Estas cookies se almacenarán en su navegador solo con su consentimiento. También tiene la opción de optar por no recibir estas cookies. Pero la exclusión voluntaria de algunas de estas cookies puede afectar su experiencia de navegación. Mostrar más Los servicios web prestados por World Compliance Association (en adelante WCA), pueden utilizar cookies cuando un usuario navega por el sitio.  ¿Qué son las cookies? Tipos posibles de Cookies Según la entidad que las gestiona Según el plazo que permanecen activas Según su finalidad. Tipos de Cookies utilizadas. El usuario tiene la posibilidad de configurar su navegador para ser avisado de la recepción de cookies y para impedir su instalación en su equipo. Por favor, consulte las instrucciones y manuales de su navegador para ampliar esta información. Para utilizar el sitio web, no resulta necesario que el usuario permita la instalación de las cookies enviadas por el sitio, o el tercero que actúe en su nombre, sin perjuicio de que sea necesario que el usuario inicie una sesión como tal en cada uno de los servicios cuya prestación requiera el previo registro o 'login'. Las cookies utilizadas en este sitio web tienen, en todo caso, carácter temporal con la única finalidad de hacer más eficaz su transmisión ulterior. En ningún caso se utilizarán las cookies para recoger información de carácter personal. En particular, los tipos de cookies utilizados por los servicios de WCA incluyen: 
+Addthis: Cookies de complemento para intercambiar contenidos sociales y publicitarios. El servicio AddThis permite compartir contenidos a través de redes sociales como Facebook o Twitter, correo electrónico u otros medios. AddThis utiliza también cookies para recopilar información anónima con fines publicitarios.
+Google Analytics: Google Analytics es la herramienta de análisis que ayuda a los propietarios de sitios web y de aplicaciones a entender cómo interactúan los visitantes con sus propiedades. Esta herramienta puede utilizar un conjunto de cookies para recopilar información y ofrecer estadísticas de uso de los sitios web sin identificar personalmente a los visitantes de Google. La principal cookie que utiliza Google Analytics es "__ga". Además de para ofrecer estadísticas de uso de los sitios web, Google Analytics también se puede utilizar junto con algunas de las cookies publicitarias descritas anteriormente para mostrar anuncios más relevantes en las propiedades de Google (p. ej., en el buscador de Google) y en toda la Web.
+Vimeo: Aparecen en las páginas que usan videos de Vimeo y son usadas por dicho servicio para prestar los servicios de visualización de videos. Sendinblue: Cookies relacionadas con nuestro servicio de marketing relacional. Se utilizan al acceder a los servicios web de WCA a través de los enlaces de las newsletter.
+ Además, se informa al usuario que desde los servicios web de WCA se puede acceder a otros servicios externos gestionados por terceros, y ajenos a WCA(Twitter, Youtube,...) en los que se pueden utilizar cookies, siendo aconsejable para el usuario que verifique en cada caso la Política sobre el uso de las mismas.
+				
+				Listado de Cookies utilizadas.
+
+
+
+
+Cookies Funcionales
+
+
+Cookie
+Tipo
+Duración
+Descripción
+
+
+
+
+PHPSESSID
+Propia
+Sesión
+Esta cookie es usado por el lenguaje de encriptado PHP para permitir que las variables de SESIÓN sean guardadas en el servidor web. Esta cookies es esencial para el funcionamiento de la web.
+
+
+cookies_funcionales_aceptadas
+Propia
+2 meses
+La cookie se coloca mediante el consentimiento de cookies de GDPR. Funcionalidad: para comprobar si se pueden colocar cookies funcionales.
+
+
+cookies_estadisticas_aceptadas
+Propia
+2 meses
+La cookie se coloca mediante el consentimiento de cookies de GDPR. Funcionalidad: para comprobar si se pueden colocar cookies estadisticos.
+
+
+cookies_marketing_aceptadas
+Propia
+2 meses
+La cookie se coloca mediante el consentimiento de cookies de GDPR. Funcionalidad: para comprobar si se pueden colocar cookies de marketing.
+
+
+__atuvc
+Third party
+1 hora
+Cookie del widget de intercambio social AddThis:Almacena una página de recuento de acciones actualizada.
+
+
+__atuvs
+Third party
+30 minutos
+Cookie del widget de intercambio social AddThis:Cookie necesaria para que los visitantes puedan compartir contenidos con una variedad de plataformas de redes y el intercambio. 
+
+
+__atssc
+Third party
+Sesión
+Cookie del widget de intercambio social AddThis:Cookie necesaria para establecer los marcadores sociales de Facebook, Twitter y Google + para compartir contenidos.
+
+
+chat_privacy_policy
+Third party
+1 mes
+Cookie del asistente virtual especializada en el actual brote de coronavirus, Carina. Almacena la aceptacion de su política de privacidad.
+
+
+_GRECAPTCHA
+Third party
+6 meses
+Cookie de Google:Proporciona protección contra el spam.
+
+
+SEARCH_SAMESITE
+Third party
+2 meses
+Cookie de Google:Proporciona protección contra el spam.
+
+
+CONSENT
+Third party
+2 años
+Cookie de Google:Función de almacenar el estado del usuario en relación con sus elecciones de cookies.
+
+
+SOCS
+Third party
+13 meses
+Cookie de Google:Función de almacenar el estado del usuario en relación con sus elecciones de cookies.
+
+
+AEC
+Third party
+6 meses
+Cookie de Google:Se usan para evitar el spam, el fraude y el abuso. Garantiza que las solicitudes dentro de una sesión de navegación las haga el usuario y no otros sitios. Esta cookie impiden que sitios maliciosos realicen acciones en nombre de un usuario sin su conocimiento.
+
+
+
+
+Cookies Estadisticas
+
+
+Cookie
+Tipo
+Duración
+Descripción
+
+
+
+
+uid
+Third party
+1 año
+Cookie del widget de intercambio social AddThis:Almacena un único user ID. Cookie de seguimiento para compartir en redes sociales
+
+
+_ga
+Third party
+2 años
+Cookie de Google Analytics:Genera un id de usuario único, que es el que se utiliza para hacer recuento de cuantas veces visita el sitio un determinado usuario.
+
+
+_gat
+Third party
+1 minuto
+Cookie de Google Analytics:Se usa para distinguir a los usuarios.
+
+
+_gid
+Third party
+24 horas
+Cookie de Google Analytics:Se usa para limitar el porcentaje de solicitudes. 
+
+
+
+
+Cookies de Marketing
+
+
+Cookie
+Tipo
+Duración
+Descripción
+
+
+
+
+
+									__Secure-3PSIDCC
+									__Secure-1PSIDCC
+									__Secure-3PSID
+									__Secure-1PAPISID
+									__Secure-3PSIDTS
+									__Secure-1PSIDTS
+									__Secure-3PAPISID
+									__Secure-1PSID
+								
+Third party
+2 años
+Cookies de Google:Publicitaria. Estas galletas se utilizan para entregar ANUNCIOS más relevantes para ti y a tus intereses.
+
+
+ouid
+Third party
+1 año
+Cookie del widget de intercambio social AddThis:Almacena un único user ID. Cookie de seguimiento para compartir en redes sociales.
+
+
+na_tc
+Third party
+sesión
+Cookie del widget de intercambio social AddThis:Se utiliza para almacenar variables dinámicas desde el navegador
+
+
+
+									SIDCC
+									SAPISID
+									APISID
+									HSID
+									SID
+									SSID
+
+Third party
+2 años
+Cookies de Google Ads Optimization:Se usa para distinguir a los usuarios.
+
+
+
+									_fbp
+								
+Third party
+3 meses
+Cookies de Facebook:Se usa para distinguir a los usuarios.
+
+
+na_id
+Third party
+cute;n
+Cookie del widget de intercambio social AddThis:
+
+
+OTZ
+Third party
+1 mes
+Cookie de Google: recopila información sobre las preferencias del usuario para usarlas con fines publicitarios.
+
+
+1P_JAR
+Third party
+ mes
+Cookie de Google: Se usa para recopilar estadísticas del sitio web y rastrear las tasas de conversión.
+
+
+NID
+Third party
+6 meses
+Cookie de Google: recopila información sobre las preferencias del usuario para usarlas con fines publicitarios.
+
+
+
+
+ Listado de Cookies utilizadas. Aceptación de la política de cookies WCA muestra información sobre su Política de cookies en la parte inferior de cualquier página del portal con cada inicio de sesión con el objeto de que usted sea consciente. Ante esta información es posible llevar a cabo las siguientes acciones: 
+Aceptar cookies. No se volverá a visualizar este aviso al acceder a cualquier página del portal durante la presente sesión.
+Modificar la configuración. Podrá obtener más información sobre qué son las cookies, conocer la Política de cookies de WCA y modificar la configuración de su navegador para restringir o bloquear las cookies de WCA en cualquier momento. En el caso de restringir o bloquear las cookies puede ver reducidas las funcionalidades de la web.
+
+  Cómo modificar la configuración de las cookies Usted puede restringir, bloquear o borrar las cookies cualquier sitio web, utilizando su navegador. En cada navegador la operativa es diferente, la función de 'Ayuda" le mostrará cómo hacerlo. Le indicamos a continuación los enlaces a los servicios de soporte de los diferentes proveedores de los navegadores web, en los que se indica como Borrar, habilitar y administrar cookies: Internet Explorer  Microsoft Edge Chrome FireFox Safari Opera   La protección de los datos personales se ve desafiada por el rápido desarrollo y el veloz despliegue de la Inteligencia Artificial (en adelante, “IA”), pues su utilización implica necesariamente el tratamiento de datos masivos, dentro de los cuales se incluyen diferentes categorías de datos personales[1]. Como bien señala la Agencia de Protección de Datos Personales de Noruega, la mayoría de las aplicaciones de IA requieren grandes volúmenes de datos para aprender y tomar decisiones inteligentes[2]. En ese sentido, los datos son necesarios no solo para que la IA alcance su máximo potencial, sino también para que ésta pueda evitar sesgos o errores al momento de realizar un tratamiento.  Cabe recordar que la legislación peruana toma como referencia normativa a la Ley Orgánica de Protección de Datos Personales española de 1999, por lo que fue diseñada en un contexto histórico en el que la cantidad de datos era limitada, se podía tener control sobre quienes hacían su tratamiento y las finalidades para las cuales estaban siendo usados. El rápido avance de la tecnología y las herramientas de IA han traído cambios que posibilitan el procesamiento de millones de datos en diferentes partes del mundo y por diferentes actores a una velocidad inimaginable; estos cambios han provocado que las regulaciones se encuentren desactualizadas frente a estos nuevos retos[3]. Ahora bien, cabe preguntarse cuáles son los escenarios en los que la IA pueda generar un riesgo al titular de datos personales. A fin de responder esto, debemos señalar que existen dos aspectos de la IA que son particularmente relevantes para la privacidad. El primero es que la IA en sí misma puede tomar decisiones automatizadas y, el segundo, es que el sistema se desarrolla aprendiendo de la experiencia e información proporcionada. Entonces, cabe preguntarse: ¿Es posible combinar el desarrollo de la IA con un adecuado tratamiento de los datos personales? Al respecto, el artículo 28° de la Ley de Protección de Datos Personales establece las obligaciones de los responsables y encargados del tratamiento. Por consiguiente, la normativa referida a la protección de datos personales se aplicará cuando se esté desarrollando inteligencia artificial con información que contenga datos personales. Esta disposición también se aplicará cuando se utilice la IA para el análisis de perfiles y la toma de decisiones sobre individuos. Es imperativo, por tanto, que el responsable del tratamiento se asegure de cumplir los principios establecidos en la Ley de Protección de Datos Personales:    Sesgo Algorítmico Vs. Principio de Legalidad Un primer problema se presenta con el denominado “sesgo algorítmico” (“Machine Bias”) y el principio de legalidad. Este principio requiere que el responsable del tratamiento de datos personales implemente medidas que prevengan tratos que puedan afectar sus derechos fundamentales. Cabe preguntarse lo siguiente: ¿Qué sucedería si una IA discrimina a un usuario en una decisión automatizada? Si bien los algoritmos son fórmulas matemáticas que, en principio, son neutrales y objetivas, lo cierto es que existen casos en que repiten prejuicios tan humanos como la tendencia a discriminar a partir del género y la raza. El sesgo algorítmico ocurre cuando un sistema informático refleja los valores de los humanos que estuvieron implicados en su codificación y en la recolección de los datos usados para entrenar al algoritmo. La IA es buena para establecer patrones, así como para agilizar procesos y operaciones con volúmenes masivos de información (Big Data). Sin embargo, el problema es que la IA al nutrirse de la información hecha o recopilada por seres humanos, puede que reflejen sus sesgos. Existen tres tipos de sesgos clásicos: el estadístico, el cultural y el cognitivo. El sesgo estadístico procede de cómo obtenemos los datos, de errores de medida o similares. Por ejemplo, si la policía está presente en algunos barrios más que en otros, no será extraño que la tasa de criminalidad sea más alta donde tenga mayor presencia (o en otros términos, mediremos más donde está uno de los instrumentos de medida). El sesgo cultural es aquel que deriva de la sociedad, del lenguaje que hablamos o de todo lo que hemos aprendido a lo largo de la vida. Los estereotipos de las personas de un país son un ejemplo claro. Por último, el sesgo cognitivo es aquel que nos identifica y que depende de nuestras creencias. Por ejemplo, si leemos una noticia que está alineada con lo que pensamos, nuestra tendencia será validarla, aunque sea falsa.  ¿Qué es lo que vuelve parcial a una IA? El “Machine Learning”[4] y el “Deep Learning”[5] son la razón por las que un programa informático pierde imparcialidad. Si a un algoritmo de clasificación de datos se le brinda millones de imágenes de perros etiquetados, luego podrá decidir si una foto que no ha visto antes contiene a un perro o no. Asimismo, si a un algoritmo de reconocimiento de voz se le “nutre” con millones de muestras de voz junto con sus correspondientes palabras escritas, luego será capaz de transcribir el lenguaje hablado más rápido que la mayoría de los seres humanos. Cuantos más datos etiquetados vea un algoritmo, mejor será la tarea que realice. Sin embargo, la desventaja radica en que éstos pueden desarrollar puntos ciegos basados en el tipo de información sobre los que están entrenados. A modo de ejemplo, en el año 2015, Jacky Alcine, una afroamericana, cuando miró su fotografía en la aplicación de Google Photos no podía creer que el software de reconocimiento facial la había etiquetado con la palabra “gorila”. Esto sucedió porque el algoritmo no había sido entrenado con suficientes imágenes de personas de piel oscura. En otro caso, a inicios del año 2016, Microsoft lanzó a “Tay”, un chatbot cuyo fin era imitar el comportamiento de una adolescente curiosa y buscaba entablar en las redes sociales una conversación informal y divertida con una audiencia de entre 18 y 24 años, según explicó la compañía en su página web. El proyecto mostraría las promesas y el potencial de las interfaces conversacionales alimentadas por IA. Sin embargo, en menos de 24 horas, el “inocente” Tay a través de tweets, mostraba su empatía hacia Hitler o su apoyo al genocidio al responder a preguntas de los usuarios de las redes sociales, son algunos ejemplos, además de insultos raciales y comentarios sexistas y homófobos. También defendió el Holocausto, los campos de concentración o la supremacía blanca, y se mostró contraria al feminismo. El sesgo algorítmico será un problema cada vez mayor a medida que las decisiones de estos softwares se vuelvan cada vez más importantes en nuestras vidas. Esta situación se vuelve más dramática cuando las decisiones automatizadas afectan los derechos fundamentales de las personas. Un ejemplo claro es el programa COMPAS (Correctional Offender Management Profiling for Alternative Sanctions, por su acrónimo en inglés, que en español puede traducirse como Administración de Perfiles de Criminales para Sanciones Alternativas del Sistema de Prisiones de Estados Unidos). Este programa es básicamente un cuestionario que se le da a las personas que han sido arrestadas. Las preguntas incluyen aspectos como los antecedentes penales tanto del reo como de sus familiares, su domicilio, datos relativos a su centro de trabajo y sus datos académicos. Asimismo, también hay preguntas que buscan crear un “perfil” y determinar si la persona tiene o no un “pensamiento criminal”. En otras palabras, las respuestas son analizadas por estos sistemas de IA y terminan concluyendo si esa persona en el futuro podría cometer un crimen. Entonces aparece un valor promedio de riesgo que decide si alguien puede salir bajo fianza, debe ser enviado a prisión o recibir otro castigo. Cuando la persona ya está encarcelada, el algoritmo determina si merece el beneficio de la libertad condicional. Al igual que este programa, en el mundo, cada vez más, encontramos ejemplos de cómo las cortes, los bancos o empresas del sistema financiero y otras instituciones están utilizando programas de IA, que automatizan las decisiones de las vidas de las personas. Al respecto, el Grupo de Trabajo sobre Protección de Datos del Artículo 29[6] publicó Directrices sobre decisiones individuales automatizadas y elaboración de perfiles a los efectos del Reglamento General de Protección de Datos Personales de la UE (RGPD). En este documento se señala que los progresos tecnológicos y las posibilidades del análisis de macrodatos, la inteligencia artificial y el aprendizaje automático han facilitado la creación de perfiles y han automatizado las decisiones, y tienen el potencial de afectar de forma significativa a los derechos y libertades de las personas. La amplia disponibilidad de datos personales en internet y en los dispositivos del internet de las cosas (IdC), así como la capacidad de hallar correlaciones y crear vínculos, puede permitir determinar, analizar y predecir ciertos aspectos de la personalidad o el comportamiento, los intereses y los hábitos de una persona. No obstante, la elaboración de perfiles y las decisiones automatizadas[7] pueden plantear riesgos importantes para los derechos y libertades de las personas que requieren unas garantías adecuadas.  Estos procesos pueden ser opacos. Puede que las personas no sean conscientes de que se está creando un perfil sobre ellas o que no entiendan lo que implica. La elaboración de perfiles puede perpetuar los estereotipos existentes y la segregación social. Asimismo, puede encasillar a una persona en una categoría específica y limitarla a las preferencias que se le sugieren. Esto puede socavar su libertad a la hora de elegir, por ejemplo, ciertos productos o servicios como libros, música o noticias. En algunos casos, la elaboración de perfiles puede llevar a predicciones inexactas. En otros, puede llevar a la denegación de servicios y bienes, y a una discriminación injustificada. Ante este supuesto, el responsable y encargado de tratamiento de datos personales debe implementar las medidas necesarias para evitar este tipo de situaciones. Para ello el sistema de IA deberá ser “nutrido” con datos relevantes y correctos, debiendo aprender qué datos enfatizar. La IA, en principio, no debería procesar información relacionada con datos sensibles como el origen racial o étnico, las opiniones políticas, la religión, las creencias, la orientación sexual para evitar que esto conduzca a un tratamiento arbitrario que termine en la discriminación por parte de la IA de los titulares de datos personales. En el artículo 22° del RGPD se establece que los ciudadanos europeos tienen el derecho a no ser objeto de una decisión basada únicamente en medios automatizados, incluida la elaboración de perfiles, si la decisión produce efectos jurídicos que los afecten significativamente de modo similar. En ese sentido, si un tratamiento automatizado da lugar a una denegación de una solicitud de un crédito por internet, el titular de los datos personales podrá oponerse a este tratamiento. Por tanto, un adecuado tratamiento supondría informar previamente que dicha decisión es automatizada (es decir, sin intervención humana), que puede expresar su opinión, impugnar la decisión y que el titular de datos personales pueda solicitar la contribución de una persona en el proceso para revisar la decisión tomada mediante el algoritmo. En el Perú, si bien no existe una norma específica como la del RGPD, el artículo 24° de la Ley de Protección de Datos Personales señala que el titular de datos personales tiene derecho a no verse sometido a una decisión con efectos jurídicos sobre él o que le afecte de manera significativa, sustentada únicamente en un tratamiento de datos personales destinado a evaluar determinados aspectos de su personalidad o conducta, salvo que ello ocurra en el marco de la negociación, celebración o ejecución de un contrato o en los casos de evaluación con fines de incorporación a una entidad pública, de acuerdo a ley, sin perjuicio de la posibilidad de defender su punto de vista, para salvaguardar su legítimo interés.  Asimismo, el artículo 72° del Reglamento de la Ley de Protección de Datos Personales establece que para garantizar el ejercicio del derecho al tratamiento objetivo, de conformidad con lo establecido en el artículo 23 de la Ley de Protección de Datos Personales, cuando se traten datos personales como parte de un proceso de toma de decisiones sin participación del titular de los datos personales, el titular del banco de datos personales o responsable del tratamiento deberá informárselo a la brevedad posible, sin perjuicio de lo regulado para el ejercicio de los demás derechos establecidos en la Ley de Protección de Datos Personales y su Reglamento. Por tanto, en base a la generalidad de ambos artículos, se podría aplicar en el Perú el mismo criterio jurídico que se aplica actualmente con los tratamientos automatizados en la Unión Europea. Es decir, un ciudadano peruano tiene el derecho a no ser objeto de una decisión basada únicamente en medios automatizados, incluida la elaboración de perfiles, si la decisión produce efectos jurídicos que afecten sus derechos. En ese sentido, una decisión automatizada estará permitida cuando ésta sea necesaria (es decir, que no existe otra manera de lograr el mismo objetivo) para la ejecución de un contrato, exista una norma legal que autorice este tratamiento o se haya dado un consentimiento explícito. Sin perjuicio de ello, la decisión adoptada debe garantizar los derechos y libertades de los titulares de datos personales, aplicando las garantías adecuadas. Asimismo, el responsable del tratamiento debe, como mínimo, informarle de su derecho a obtener intervención humana y establecer los requisitos de procedimiento obligatorios; además, la empresa u organización deberá permitirle expresar su punto de vista e informarle que puede impugnar la decisión. Finalmente, si se sospecha o se afirma que el uso de la IA conlleva a resultados discriminatorios o que afecten derechos fundamentales de las personas, la Dirección General de Protección de Datos Personales podrá investigar si el principio de legalidad ha sido vulnerado o no. En su procedimiento de fiscalización deberá solicitar la documentación que respalda la selección de datos, un examen de cómo se desarrolló el algoritmo y si se probó adecuadamente antes de su uso.    Big Data, Machine Learning vs Los Principios de Finalidad y Proporcionalidad En el año 2010, el fundador y CEO de Facebook, Mark Zuckerberg, señalaba en una entrevista que “la era de la privacidad ha muerto”. Irónicamente, en julio del presente año, la Comisión Federal del Comercio de Estados Unidos (FTC, por su sigla en inglés) impuso a Facebook una sanción por valor de 5 mil millones de dólares por su gestión de la privacidad de los usuarios tras el escándalo de Cambridge Analytica. La utilización de datos personales por parte de la consultora británica Cambridge Analytica de  87 millones de usuarios, obtenidos a través de Facebook para manipular psicológicamente a los votantes –al parecer decisivamente- en la campaña electoral de Estados Unidos en favor de Trump, o en la campaña del último referéndum británico en favor del Brexit, es el más siniestro ejemplo del poder del Big Data, Machine Learning. Esta empresa obtuvo un perfil psicométrico de cada ciudadano en Estados Unidos. A través de su rastro digital, podía saber si los usuarios eran hombre o mujer, su edad, qué carro manejan y qué tipo de cereal desayunan. También podía saber sus afinidades políticas y sus principales preocupaciones sociales. Cambridge Analytica utilizó el Big Data y el Machine Learning para realizar análisis predictivos que los ayudan para desarrollar esquemas de comunicación comercial y política. ¿Cómo hicieron esto? La empresa creó una aplicación llamada This is your digital life que funcionaba como un test online, y que se presentaba solo como una herramienta de investigación. Se trataba de encuestas aparentemente inofensivas que circulan en Facebook y otras redes sociales, del tipo ¿Qué Pokemon eres tú?, “¿Qué personaje de Game of Thrones eres?” Para completarlo se requería iniciar sesión en Facebook y otorgarle algunos permisos a la aplicación, como recoger información sobre la actividad del usuario, acceder a la ubicación y a los contactos en la red. Unos 270 mil perfiles hicieron esta encuesta online, lo cual derivó en la recopilación de información de 50 millones de perfiles. Esto fue posible porque la aplicación solicitaba el acceso a los datos de los amigos. Fue así como se magnificó el efecto. Christopher Wylie, ex empleado de Cambridge Analytica, reveló al New York Times y al The Guardian cómo es que la consultora británica utilizaba los datos de perfiles en la red social para generar anuncios personalizados con fines políticos: “Explotamos Facebook para acceder a millones de perfiles de usuarios. Y construimos modelos para explotar lo que sabíamos de ellos y apuntar a sus demonios internos. Esa era la base sobre la cual la compañía se fundó”. Este caso es un claro ejemplo de cómo se vulnera el principio de finalidad que rige el tratamiento de los datos personales. Si bien Cambridge Analytica recababa el consentimiento para el tratamiento de datos personales para ciertos fines, no cabe duda de que la información que obtuvieron la desviaron para otros fines. Cabe recordar que, el principio de finalidad tiene por objetivo establecer claramente cuáles son los fines para los que van a ser utilizados los datos personales, pues esta información es esencial para que el titular de datos personales pueda ejercer control sobre el uso de su información personal. El RGPD en su considerando 50 señala que el tratamiento de datos personales con fines distintos de aquellos para los que hayan sido recogidos inicialmente solo debe permitirse cuando sea compatible con los fines de su recogida inicial. En tal caso, no se requiere una base jurídica aparte, distinta de la que permitió la obtención de los datos personales. Asimismo, agrega que para determinar si el fin del tratamiento ulterior es compatible con el fin de la recogida inicial de los datos personales, el responsable del tratamiento, tras haber cumplido todos los requisitos para la licitud del tratamiento original, debe tener en cuenta, entre otras cosas, cualquier relación entre estos fines y los fines del tratamiento ulterior previsto, el contexto en el que se recogieron los datos, en particular las expectativas razonables del interesado basadas en su relación con el responsable en cuanto a su uso posterior, la naturaleza de los datos personales, las consecuencias para los interesados del tratamiento ulterior previsto y la existencia de garantías adecuadas tanto en la operación de tratamiento original como en la operación de tratamiento ulterior prevista. El problema con el Machine Learning y el Big Data es que, por la propia naturaleza de estas tecnologías, su valor reside precisamente en lo inesperado de los resultados que revelan. Así, ¿cómo explica el responsable del tratamiento que resulta imposible saber con antelación qué información revelará el tratamiento de los datos recabados? Por ejemplo, una empresa que se dedica a la investigación, en primer lugar, deberá recabar el consentimiento de un titular para utilizar sus datos a fin de encontrar la cura del Alzheimer; sin embargo, qué sucede si la IA, en base a esos datos, llega a una conclusión referente a la impotencia sexual. ¿Qué tendría que hacer el responsable del tratamiento de datos personales? La norma no es clara en establecer si la obligación del res­ponsable del tratamiento de informar las finalidades sobre la recogida de los datos se circunscribe a la información que explícitamente recoge (datos primarios), o si debe adoptarse un criterio más amplio y entender que este deber de información acerca de las finalidades también alcanza a aquellos resultados que la empresa pu­diera obtener tras el tratamiento (datos secundarios)[8]. Otro problema radica en que el Big Data se basa, precisamente, en reutilizar datos que fueron obtenidos para una primera finalidad, otorgándole un nuevo fin. Este es uno de los aspectos en donde se encuentra la mayor fuente de beneficios del Big Data. Para ello, la doctrina española[9] ha formulado un test de incompatibilidad entre los usos del Big Data y el principio de finalidad. Por tanto, para superar esta situación se deberá cumplir con alguna de las siguientes condiciones: En caso se supere con éxito este test de incompatibilidad, el uso del Big Data podrá considerarse conforme a la normativa de protección de datos personales, sin perjuicio del cumplimiento de otras normas que establece la Ley de Protección de Datos Personales, tales como las medidas de seguridad. Ahora bien, si el resultado del test es negativo, el uso del Big Data deberá sujetarse a información y consentimiento previos de los interesados involucrados. Una de las soluciones para armonizar el principio de finalidad con la utilización de esta tecnología es que los datos se sometan a procesos de anonimización de los datos. El procedimiento de anonimización es aquel tratamiento de datos personales que impide la identificación o que no hace identificable al titular de éstos, el cual es irreversible. El tratamiento de datos personales puede extenderse a otras finalidades en la medida que se utilice este proceso. En ese sentido, la anonimización se presenta como la mejor solución para tratar los datos protegiendo la privacidad de los sujetos. Sin embargo, la Federal Trade Commission de Estados Unidos ha declarado que: “Hay evidencias suficientes que demuestran que los avances tecnológicos y la posibilidad de combinar diferentes datos puede conllevar a la identificación de un consumidor, ordenador o dispositivo, incluso si estos datos por sí mismos no constituyen datos de identificación personal. Es más, no solo es posible reidentificar datos que no son identificadores personales a través de medios diversos, sino que las empresas tienen fuertes incentivos para hacerlo”[10]. Es importante mencionar que el procedimiento de anonimización fallará en la medida que haga identificable a la persona. Un sujeto es identificable cuando, aunque no haya sido identificada todavía, sea posible hacerlo. En otras palabras, la posibilidad de identificar a una persona ya no equivale necesariamente a la capacidad de poder llegar a conocer su nombre y apellidos, puesto que los datos pueden ser combinados con otros a fin de que permitan distinguir a esa persona de otras. El Big Data analiza la huella digital de los individuos y a pesar de que en una base de datos no aparezcan nombres, se aprecian patrones. De manera que, con estos patrones, una persona con suficientes conocimientos analíticos puede obtener nombres, lo cual afecta nuestra privacidad, puesto que ésta es entendida como el control que tienen los sujetos sobre sus conductas e información. A medida que evolucionen las técnicas de Big Data, los individuos perderán esta facultad de salvaguardar su espacio personal e impedir que no sean observados o incomodados por terceros. ¿Qué se puede hacer al respecto? Para que el proceso de anonimización funcione se debe tener en cuenta el principio de proporcionalidad. Es decir, el responsable del tratamiento solo podrá tratar aquellos datos que sean adecuados, pertinentes y limitados a lo necesario en relación con los fines, que a su vez deben ser determinados, explícitos y legítimos. De esta forma, se minimiza la cantidad de datos personales a ser tratados para ciertos fines y de esta manera se podrá dificultar la identificación de las personas con el Big Data. En otras palabras, lo que se busca es que el grado de identificación del individuo esté restringido tanto por la cantidad como por la naturaleza de la información utilizada, ya que algunos detalles revelan más sobre la identidad de una persona que otros. Esto, sumado al uso de las técnicas de anonimización y encriptación ayudan a proteger de mejor manera la identidad de los titulares de datos personales. Cabe señalar que el principio de proporcionalidad obliga a los desarrolladores y responsables del tratamiento a examinar a fondo el modelo previsto para facilitar la selección de datos al momento de dotar de información a la IA, debiendo contener datos que sean relevantes y necesarios para las finalidades previstas. En términos más simples, el responsable del tratamiento, en virtud de este principio, debe elegir la opción que sea menos invasiva para los titulares de los datos personales. Se recomienda que esta decisión sea documentada, de modo que puedan presentarse a la Autoridad de Protección de Datos Personales en caso de una fiscalización. Si bien es difícil establecer de antemano la información y datos que serán necesarios y relevantes para el desarrollo de la IA, y esto, además, puede modificarse durante el proyecto, es esencial minimizar la cantidad de datos personales y utilizar sólo aquellos que sean relevantes. Esto no solo protege los derechos de los titulares de datos personales, sino que también minimiza el riesgo de que la información irrelevante lleve a la IA a encontrar correlaciones que, en lugar de ser significativas, sean contraproducentes y conlleven al denominado “sesgo algorítmico”.    “Black Box” vs Principio de Información La finalidad de la normativa de protección de datos personales es salvaguardar el derecho de que las personas puedan decidir y controlar cómo es que terceros utilizan sus datos. Para ello es necesario que los responsables del tratamiento sean transparentes acerca de cómo van a procesar su información. En otros términos, la transparencia se logra cuando se proporcionan a los titulares de datos personales todos los detalles acerca del tratamiento. Al respecto, el artículo 18° de la Ley de Protección de Datos Personales señala que: “El titular de datos personales tiene derecho a ser informado en forma detallada, sencilla, expresa, inequívoca y de manera previa a su recopilación, sobre la finalidad para la que sus datos personales serán tratados; quiénes son o pueden ser sus destinatarios, la existencia del banco de datos en que se almacenarán, así como la identidad y domicilio de su titular y, de ser el caso, del encargado del tratamiento de sus datos personales; el carácter obligatorio o facultativo de sus respuestas al cuestionario que se le proponga, en especial en cuanto a los datos sensibles; la transferencia de los datos personales; las consecuencias de proporcionar sus datos personales y de su negativa a hacerlo; el tiempo durante el cual se conserven sus datos personales; y la posibilidad de ejercer los derechos que la ley le concede y los medios previstos para ello”.  Por tanto, los ciudadanos deben ser informados sobre cómo se utilizará la información, si esta información será procesada por la misma persona que recopila los datos o un tercero. Además, esta información debe ser entregada en un lenguaje sencillo y de forma previa al tratamiento. Esto supone un desafío muy grande pues, al tratarse de tecnología avanzada y compleja es difícil de explicar todo el procesamiento de información en un lenguaje sencillo. Por otro lado, una preocupación existente en relación al Machine Learning es que no siempre se sabe cómo es que se produce el resultado, pues un programa de IA, por lo general, llega a un resultado sin ninguna explicación. Entonces, surge la interrogante sobre si es posible estudiar el modelo que la IA utilizó para así descubrir cómo llegó a ese resultado específico. ¿Cómo explicar en lenguaje sencillo aquello que no comprendes? Los desarrolladores de la IA muchas veces no saben cómo es que la IA correlaciona y pondera la información en un proceso específico. A esto se le denomina “Black Box” o “caja negra”. A raíz de este concepto, surge la siguiente interrogante: ¿Puede acaso un titular de datos personales solicitar una explicación, en virtud del principio de información, acerca del tratamiento que la IA realizó respecto de su información? Consideramos que no sería necesario “abrir” el “Black Box”, pues el artículo 18° tan sólo te exige informar sobre la finalidad, los destinatarios, los bancos de datos personales en donde la información se almacena, la identidad del responsable, tiempo de conservación, las consecuencias de proporcionar sus datos personales y de su negativa a hacerlo. En ese sentido, develar cómo es que funciona la IA no sería necesario para efectos de cumplir con este principio. ¿Qué sucede si en base a un procedimiento se toma una decisión automatizada que perjudica al titular de datos personales? ¿Se podría “abrir” el “Black Box” en este caso? El derecho a la información no implica que se deba “abrir” el “Black Box”. Este principio debe permitir al titular de los datos personales a comprender por qué se tomó una decisión en particular y no otra. Asimismo, deberá ser informado de cómo puede oponerse a la decisión automatizada, ya sea impugnando la decisión o solicitando la intervención humana.    Viabilizando el desarrollo de la IA con el derecho a la protección de datos personales  Uno de los principios reconocidos por el RGPD es el denominado principio de responsabilidad proactiva, el cual exige al responsable del tratamiento a aplicar medidas técnicas, legales y organizativas apropiadas para garantizar y demostrar que el tratamiento que realiza es conforme a la normativa de protección de datos personales, tomando en consideración la naturaleza, el ámbito, el contexto y los fines del tratamiento, así como los riesgos para los derechos y libertades de las personas naturales, en su calidad de titulares de datos personales. Es decir, el responsable del tratamiento tiene que asegurar y ser capaz de probar el cumplimiento de los principios que legitiman el tratamiento de los datos personales a lo largo de todo el ciclo de vida de éstos, desde que se obtienen hasta que, finalmente, se suprimen o anonimizan. Por tanto, este principio exige una actitud consciente, diligente y proactiva por parte de las organizaciones frente a todos los tratamientos de datos personales que lleven a cabo. ¿Se puede aplicar este principio a la normativa peruana? Sí, en virtud de lo señalado en el artículo 12° de la Ley de Protección de Datos Personales que establece que la lista de principios es enunciativa. En términos prácticos, este principio requiere que las organizaciones analicen qué datos tratan, con qué finalidades lo hacen y qué tipo de operaciones de tratamiento llevan a cabo. Para ello, las empresas pueden elaborar Evaluaciones de Impacto en Protección de Datos Personales (EIPD) o “Data Protection Impact Assesment” (DPIA). La Agencia de Protección de Datos Personales Española señala que un “EIPD” es una herramienta con carácter preventivo que debe realizar el responsable del tratamiento para poder identificar, evaluar y gestionar los riesgos a los que están expuestas sus actividades de tratamiento con el objetivo de garantizar los derechos y libertades de las personas físicas. En la práctica, la EIPD permite determinar el nivel de riesgo que entraña un tratamiento, con el objetivo de establecer las medidas de control más adecuadas para reducir el mismo hasta un nivel considerado aceptable. Esta herramienta se exige a los responsables del tratamiento, pues el RGPD señala que se deben implementar medidas de control adecuadas para demostrar que se garantizan los derechos y libertades de las personas y la seguridad de los datos, teniendo en cuenta entre otros, los “riesgos de diversa probabilidad y gravedad para los derechos y libertades de las personas físicas” y aplicando las medidas oportunas. Para ello, el responsable del tratamiento debe considerar desde el inicio, en la fase de diseño, las acciones preventivas suficientes para poder identificar, evaluar y tratar los riesgos asociados al tratamiento de datos personales, y así, poder asegurar los principios de protección de los datos garantizando los derechos y libertades de los interesados. A fin de cumplir con el principio de responsabilidad proactiva, la elaboración del EIPD se debe realizar “antes del tratamiento” en los casos en que sea probable que exista un alto riesgo para los derechos y libertades de los afectados. El resultado de la EIPD se debe tener en cuenta, necesariamente, a la hora de tomar las decisiones relacionadas con el cumplimiento de lo previsto en la normativa de protección de datos personales y la toma de decisión de la viabilidad o no de llevar a cabo el tratamiento de los datos. En ese sentido, una empresa que utilice IA y trate datos personales, deberá elaborar un EIPD a fin de evaluar los riesgos que este procesamiento acarrea en los derechos y libertades de las personas. Cabe señalar que la obligación del RGPD de elaborar un EIPD cuando se esté ante la probabilidad de que un tratamiento “entrañe un alto riesgo para los derechos y libertades de las personas físicas”, está alineada con el principio de “privacy by design”. El concepto protección de datos desde el diseño y por defecto, recogido en el artículo 25° del RGPD, consiste en incorporar, desde las primeras fases de todo proyecto, medidas técnicas y organizativas apropiadas, teniendo en cuenta factores como el estado de la técnica, el coste de la aplicación o los riesgos del tratamiento para los derechos y libertades de los afectados, para cumplir los requisitos del Reglamento y proteger los derechos de los interesados. En otras palabras, de acuerdo a este principio, desde el diseño de la tecnología, deberá tenerse en cuenta el concepto de privacidad. Este principio suele caracterizarse por tomar medidas proactivas en lugar de reactivas. Se anticipa y previene la pérdida de privacidad de la información antes de que suceda. Asimismo, el responsable del tratamiento debe ofrecer el máximo grado de privacidad para asegurar que los datos personales están protegidos automáticamente en cualquier sistema informático o dentro de las buenas prácticas. En tal sentido, la protección de datos personales incorporada a la tecnología, en este caso a la IA, no debe ser considerado como un añadido sino como un componente esencial del núcleo como parte integral del sistema, sin disminuir la funcionalidad. El privacy by design busca dar cabida a todos los intereses y objetivos legítimos de una forma de suma positiva “win-win”, pues trata de garantizar que se cubran todas las funcionalidades y necesidades de los distintos implicados, pero sin afectar a la privacidad. Esto evita la pretensión de falsas dicotomías, como la privacidad frente a la seguridad. ¿De qué sirve un desarrollo de la IA si es que ésta va a mermar el derecho a la privacidad de todos sus usuarios? ¿Cuál es el sentido de una tecnología que no respete los derechos fundamentales de las personas? A modo de reflexión final, aún estamos en la fase inicial de desarrollo de la IA a nivel mundial. En ese sentido, es el momento adecuado para garantizar que las tecnologías de IA cumplan con las reglas establecidas por la Ley de Protección de Datos Personales a fin de garantizar la privacidad de las personas y la facultad de autorregular la información que desean compartir. Los retos que conlleva el desarrollo de la IA en relación a la privacidad de las personas no deben entenderse como barreras, sino que se deben de equilibrar los avances tecnológicos con el derecho fundamental a la protección de datos, y lograr así un desarrollo que no suponga un reto para los derechos fundamentales. Por tanto, no solo es posible combinar la IA con un adecuado tratamiento a los datos personales sino que resulta necesario hacerlo para salvaguardar la privacidad de las personas.     [1]    MARTINEZ DEVIA, Andrea. La Inteligencia Artificial, el Big Data y la Era Digital: ¿Una amenaza para los datos personales? En: Revista de la Propiedad Inmaterial N° 27. Enero-Junio 2019, p.7. [2]     Artificial Intelligence and Privacy, Datatilsynet (Norwegian Data Protection Authority) at page 4 (January 2018). EN: https://www.datatilsynet.no/globalassets/global/english/ai-and-privacy.pdf [3]     MARTINEZ DEVIA. Op. Cit, p. 9. [4]    El  “Machine Learning” o “aprendizaje automático” es la capacidad que tienen las máquinas de recibir un conjunto de datos y aprender por sí mismas, cambiando y ajustando los algoritmos a       medida que procesan información y conocen el entorno. [5]    El “Deep Learning” o “Aprendizaje Profundo”, por su parte, es una rama del “Machine Learning” que se ocupa de emular el enfoque de aprendizaje que los seres humanos utilizan para obtener ciertos tipos de conocimiento. Mientras que los algoritmos tradicionales de aprendizaje automático son lineales, los algoritmos de aprendizaje profundo se apilan en una jerarquía de creciente complejidad y abstracción. [6]     Este Grupo de Trabajo se creó en virtud del artículo 29 de la Directiva 95/46/CE. Se trata de un órgano consultivo independiente de la UE en materia de protección de datos e intimidad. Sus funciones se describen en el artículo 30 de la Directiva 95/46/CE y en el artículo 15 de la Directiva 2002/58/CE. [7]     Las decisiones basadas únicamente en el tratamiento automatizado representan la capacidad de tomar decisiones por medios tecnológicos sin la participación del ser humano. [8]     GIL GONZÁLEZ, Elena (16 de marzo de 2017). Big Data: Consentir o no consentir, ésa es la cuestión. Recuperado de http://ecija.com/big-data-consentir-no-consentir-esa-la-cuestion/ [9]     PÉREZ SANZ, Carlos. Aspectos Legales del Big Data. Recuperado de: http://www.revistaindice.com/numero68/p18.pdf [10]   FEDERAL TRADE COMMISSION (FTC). «Protecting Consumer Privacy in an Era of Rapid Change. Recommendations for Businesses and Policymakers» (2012).     
+QUIÉNES SOMOS
+La Asociación
+Junta Directiva
+Sedes
+Noticias
+Artículos de Interés
+Canal Ético
+ 
+ACERCA DEL COMPLIANCE
+Qué es
+Compliance Officer
+Marco Normativo Internacional
+Cual es tu nivel de Compliance
+ 
+FORMACIÓN
+Eventos
+
+Cursos Acreditados
+Agenda Formativa
+Cómo acreditar un curso
+ 
+CERTIFICACIÓN
+Certificación Profesional WCA
+Certificación Sistemas de Compliance
+
+ 
+SOCIOS
+Ventajas de Asociarse
+Entidades Asociadas
+Profesionales Asociados
+Solicitud de Adhesión
+ 
+LEGAL
+Aviso Legal
+Política de Privacidad
+Política de Cookies
+Propiedad Intelectual
+Condiciones de Contratación
+ 
+
+
+
+
+

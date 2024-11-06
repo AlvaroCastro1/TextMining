@@ -1,0 +1,54 @@
+Título: Tendencias de la inteligencia artificial (IA) en salud. | Educación Continua
+URL: https://educacioncontinua.urosario.edu.co/medicina/seminario/tendencias-inteligencia-artificial-ia-salud
+Número de palabras: 1037
+
+Ver toda la oferta académica  ciencias de la salud  creación  Escuela de administración  Escuela de Ingeniería, ciencia y tecnología  jurisprudencia  ciencias naturales  economía  Medio universitario   ciencias humanas   Formación a la Medida   Consultoría  ¿Qué son los Servicios Empresariales? Si necesitas más información sobre nuestros programas comunicate a nuestra Línea de Atención Educación Continua: (+57) (601) 2970200 Opción 4 Natalia Reyes Salas    Profesional de Servicio al Cliente    Cel. 322 3661729    natalia.reyess@urosario.edu.co • ¿Cómo financiarme? Angélica Lucia Duque Echeverry    Jefe Comercial Clientes Empresariales    Cel. 301 5191310 angelical.duque@urosario.edu.co Angélica Lucia Duque Echeverry    Jefe Comercial Clientes Empresariales    Cel. 301 5191310 angelical.duque@urosario.edu.co Ver toda la OFERTA ACADÉMICA 
+            Oferta Académica
+       
+
+					Seminario
+				 $ 520,000 comparte este
+							Seminario Establecer una base de conocimiento sobre la inteligencia artificial y sus posibles aplicaciones en el campo de la salud. •    Profesionales de la salud: Médicos, enfermeros, radiólogos, farmacéuticos y otros profesionales que busquen entender y aplicar las innovaciones de la IA en sus campos de práctica. •    Participantes de medicina y ciencias de la salud: Quienes busquen complementar su formación académica con conocimientos en tecnología y las últimas tendencias en IA aplicada a la salud. •    Profesionales de TI y ciencias de la computación: Desarrolladores, ingenieros de software, científicos de datos y otros profesionales técnicos interesados en especializarse en soluciones de IA para el sector salud. •    Investigadores y académicos: Personas involucradas en la investigación y enseñanza que deseen explorar o integrar aspectos de la IA en proyectos de salud. •    Gestores y administradores sanitarios: Quienes estén buscando mejorar la eficiencia y la toma de decisiones en instituciones médicas a través de la implementación de soluciones tecnológicas. •    Emprendedores y startups: Individuos o equipos que busquen innovar en el ámbito de la salud digital y quieran entender mejor las oportunidades y desafíos asociados con la IA. •    Profesionales en ética y regulación: Aquellos interesados en las implicaciones éticas y legales del uso de la IA en el ámbito sanitario, y que deseen adquirir una base técnica y aplicada para guiar decisiones y políticas. Módulo 1.      
+Introducción a modelos bioinspirados.  Se revisará la importancia de los datos en la toma de decisiones en el sector salud y cómo diferentes modelos pueden apoyar algunos procesos en el sector salud. Además, se explorará diferentes problemas de Inteligencia Artificial en el este campo.
+ 
+Módulo 2.      
+Introducción a Python Análisis Exploratorio de Datos. Para trabajar los modelos de machine learning e inteligencia artificial es necesario usar software especializado y conocer algunos elementos fundamentales de programación. En esta sesión se hace una rápida introducción al software Python: los diferentes entornos de trabajo, objetos, operaciones, variables, etc. Se aplican los conceptos al análisis exploratorio de datos, donde se utilizan algunos conceptos estadísticos en python y gráficas que apoyan el análisis de la información.
+ 
+Módulo 3.      
+Introducción al aprendizaje automático, Conceptos Generales. Problema de ML Intro a aprendizaje supervisado: En esta sesión trabajaremos los conceptos y problemas clásicos de aprendizaje supervisado y no supervisado. Inicialmente, se hará una introducción a los fundamentos: tipos de problemas (clasificación y regresión), conjunto de entrenamiento, de prueba, validación cruzada, búsqueda en grilla. Lo anterior a la luz del método de los vecinos más cercanos KNN, la regresión logística y los árboles de decisión.
+ 
+Módulo 4.       
+Modelos de aprendizaje supervisado y no supervisado. En esta sesión se abordarán los métodos de regresión y el método de clustering k-means.
+ 
+Módulo 5.      
+IA + Introducción a redes Neuronales Aplicaciones a clasificación. Uno de los campos más utilizados en inteligencia artificial son las redes neuronales que son modelos inspirados en el funcionamiento de la neurona humana. En esta sesión se abordarán los conceptos fundamentales de las redes neuronales artificiales, tales como el perceptrón, las capas, la función de activación, la función de pérdida. Entre otros y se usarán las redes neuronales para problemas de clasificación en datos del contexto médico.
+ 
+Módulo 6.      
+IA+Introducción a redes Neuronales Aplicaciones a clasificación.
+ 
+Continuamos con redes neuronales y en esta sesión examinaremos aplicaciones relacionadas con la clasificación de imágenes médicas y otros problemas.
+ 
+Módulo 7.       
+Procesamiento de Lenguaje Natural. El PLN es un campo de gran auge en la Inteligencia Artificial y que combina diferentes áreas, como el machine learning, la lingüística, entre otros, con el fin de analizar información que contiene texto o en general lenguaje natural (audio, videos, etc). Exploraremos la limpieza de texto (normalización), construcción de nubes de palabras y frecuencias. Así como también, algunas librerías para extraer datos de internet y hacer análisis de sentimientos.
+ 
+Módulo 8.       
+Generative IA (promts IA) En la última sesión del programa se explorarán algunos elementos de la inteligencia artificial generativa que tienen como base los modelos de machine learning, las redes neuronales y el procesamiento de lenguaje natural. Se estudiarán algunas de estas aplicaciones y promts para realizar tareas de forma fácil y eficiente, a partir de estudios de caso reales en el contexto del sector salud y otros. 
+Fabián Sánchez	
+ 
+ Doctor en matemáticas graduado de la Universidad Nacional de Colombia. Tiene experiencia como docente de matemáticas en reconocidas universidades  Sus áreas de investigación incluyen el análisis y los sistemas dinámicos, así como métodos cuantitativos aplicados a las ciencias económico-administrativas y temas relacionados con el modelamiento matemático 
+ Alvaro David Orjuela Cañón	
+ 
+ Ingeniero electrónico de la Universidad Distrital Francisco José de Caldas con maestría y doctorado en el área de inteligencia computacional en salud de la Universidad Federal de Rio de Janeiro en Brasil. Posee también especialización en matemática aplicada de la Universidad Sergio Arboleda. Es profesor universitario hace más de 12 años, con experiencia en proyectos de investigación basados en el uso de inteligencia artificial en salud. Es reconocido como investigador senior de Minciencias y Senior Member del IEEE, donde también es presidente del capítulo profesional de IEEE EMBS Colombia y de IEEE Sección Colombia. 
+
+			+57 322 8658175 
+
+
+educon8@urosario.edu.co
+
+ 
+						Educación informal, no conducente a título alguno o certificado de aptitud ocupacional. Certifica asistencia.
+					 
+						La Universidad del Rosario se reserva el derecho de modificar el programa o el equipo docente publicado.
+					 quiero más información    Oferta Académica 
+
+					Seminario Tendencias de la inteligencia artificial (IA) en salud. Te ayudamos a cumplir tus sueños con nuestras opciones de descuentos Línea de atención (+57) 601 297 0200 Opción 6 ¿QUIERES ESTE PROGRAMA PARA TU EMPRESA? servicios virtuales educación continua contáctenos miembro asociado síganos

@@ -1,0 +1,68 @@
+Título: Qué es la IA generativa y cómo funciona - Adobe Firefly
+URL: https://www.adobe.com/mx/products/firefly/discover/how-generative-ai-work.html
+Número de palabras: 1626
+
+IA GENERATIVA CREATIVA La IA generativa está en todos los titulares y no es palabrería barata. Es probable que esta nueva tecnología se convierta en parte de tu vida pronto, si aún no lo es. Explorar Adobe Firefly https://main--cc--adobecom.hlx.page/cc-shared/fragments/merch/products/firefly/sticky-banner/explore-firefly IR A LA SECCIÓN En qué consiste la IA generativa Aplicaciones de la IA generativa Beneficios y ventajas de la IA generativa Limitaciones y desafíos de la IA generativa Integración de la IA generativa en tu flujo de trabajo Adopción del futuro del diseño con la IA generativa de Adobe Firefly En el último año, la inteligencia artificial generativa ha capturado la imaginación del mundo. Este tipo de inteligencia artificial (IA) puede crear nuevo contenido basado en patrones que aprende de los datos existentes. Los datos varían, pero puede incluir fotos, canciones, escritos y otro contenido. La IA generativa puede crear imágenes fantásticas, escribir poesía o código e, incluso, producir una pista de rap que suene como una real. Pronto, la IA generativa será tan fundamental para nuestras vidas como el celular. Aun así, para muchas personas, la IA generativa es un misterio. Veamos lo que es la IA generativa, lo que no y cómo podría cambiar nuestras vidas en el trabajo y en casa. La clave para entender por qué la IA generativa es algo importante reside en su nombre. Es inteligencia artificial que puede generar nuevo contenido que no existía antes. La IA generativa no solo analiza los datos existentes, sino que crea nuevo contenido. Imagina que le pides a un chatbot basado en IA, como ChatGPT, que te sugiera un eslogan para tu nueva empresa de café. En un par de segundos, el chatbot revisa décadas de eslóganes de café y prepara (disculpa el juego de palabras) un nuevo eslogan: “Anima tu día, sorbo a sorbo”. Como punto de partida para buscar un eslogan, no está mal. El poder de la IA generativa va más allá de los juegos de palabras. Puede analizar millones de líneas de datos de ADN y crear nuevas proteínas desde cero. Quienes se dedican a la medicina usan las aplicaciones de IA generativa para mejorar el tratamiento contra el cáncer o delinear con precisión el objetivo tumoral para un tratamiento de radiación. Las personas del ámbito del arte utilizan las aplicaciones de IA generativa, como Adobe Firefly, para expresarse y crear su trabajo comercial. 
+
+
+
+
+
+
+ Indicación: un pequeño pájaro con muchos detalles sobre una calle empedrada con palmeras La inteligencia artificial es exactamente lo que parece: máquinas que imitan la inteligencia humana para realizar tareas. Entre los ejemplos habituales encontramos asistentes de voz como Siri y Alexa y los chatbots de atención a clientes que aparecen cuando le preguntas a Amazon por un paquete que no te ha llegado. Aunque la inteligencia artificial que no es generativa sigue siendo útil, la IA generativa es transformadora. Apenas hemos comenzado a experimentar cómo y dónde nos ayudará a lograr resultados que habrían llevado mucho más tiempo o no habrían sido posibles en absoluto. En el pasado, las aplicaciones informáticas no podían llevar a cabo tareas a menos que un ser humano les diera antes instrucciones explícitas sobre cómo llevarlas a cabo. Esas instrucciones se llaman “programación”. Aunque la programación sofisticada puede generar resultados increíbles, una aplicación informática tradicional no puede hacer algo que los seres humanos no incluyeran en su programación. Los sistemas de IA generativa son más flexibles porque se basan en aprendizaje automático, que no requiere una programación explícita. En vez de eso, los seres humanos dan a las computadoras acceso a grandes cantidades de datos. Los sistemas se entrenan a sí mismos para reconocer patrones en los datos y, lo que es más importante, para llegar a conclusiones sobre lo que han aprendido. (Ahí es donde entra en escena la parte de “aprendizaje” del “aprendizaje automático”). El tamaño y la calidad del conjunto de datos son importantes. La IA es tan buena como los datos con los que se entrena. Responder a la pregunta “¿Cómo funciona la IA generativa?” es complejo y comprenderla en profundidad requiere mucho esfuerzo. Sin embargo, la belleza de la IA generativa es que no necesitas comprenderla toda para sacar provecho de ella. Puedes simplemente encontrar una aplicación, por ejemplo, Firefly, escribir lo que quieras ver (“tres cachorros de labradoodle que corren en la hierba”) y listo. Ya eres usuario/a de la IA generativa. Sin necesidad de tener conocimientos de programación. 
+
+
+
+
+
+
+ Indicación: tres cachorros de labradoodle que corren en la hierba Las personas ya usan la IA generativa para responder preguntas generales y llevar a cabo investigaciones. (Ten en cuenta que las respuestas y la investigación requieren de la verificación humana de hechos; puedes obtener más información al respecto y conocer otras desventajas en la sección “Limitaciones y desafíos de la IA generativa” que se encuentra más adelante). Crear arte con IA generativa también está de moda entre particulares. Puedes probar conceptos rápidamente, crear tableros de ideas y soñar escenas extraordinarias con el lenguaje cotidiano. Aquí también pueden surgir problemas porque muchos de los generadores de arte con IA se entrenan con imágenes que tienen derechos de autor. También puede haber inquietudes en relación con los derechos de autor. Para ayudarte a tratar con estas inquietudes, Adobe entrenó Firefly con imágenes con licencia de Adobe Stock, así como con contenido de licencia libre y de dominio público cuyos derechos de autor habían caducado. Dado que Firefly está diseñado para usarse comercialmente, puede abrir las puertas a muchas otras áreas, tales como el arte comercial, el diseño, los videojuegos y los entornos virtuales, entre otras. 
+
+
+
+
+
+
+ Indicación: diseño de interiores, una perspectiva de una sala de estar y una cocina con una isla, ventanas amplias con luz natural, colores claros, vegetación, muebles modernos, tragaluz, diseño moderno minimalista La IA generativa puede comprender grandes cantidades de datos complejos mucho más rápido que el ser humano. Esto se debe a dos posibles beneficios clave de la IA generativa: Como hemos mencionado en la sección “Aplicaciones de la IA generativa”, las herramientas de IA generativa, como ChatGPT, no siempre son precisas en relación con los hechos. Puede que llegue un momento en el que los conjuntos de datos y algoritmos más precisos reduzcan el riesgo, pero mientras tanto, como seres humanos, debemos ser consumidores escépticos de lo que leemos. Corrobora la información comparándola con una fuente fiable. Verificar datos puede ser relativamente sencillo. El bloqueo de sesgos sociales, como los relativos al sexo o la raza, es más difícil en los resultados de la IA generativa. Pero también es muy necesario. Para prevenir la aparición de sesgos sociales en los resultados de la IA generativa, las personas responsables de la IA deben identificar y mitigar los sesgos desde el diseño y el desarrollo hasta la implementación, y comprometerse a controlarlos con regularidad. Como personas usuarias, también podemos contribuir a eliminar los sesgos. Pongamos que introducimos la indicación “profesional de la ciencia con bata de laboratorio sosteniendo un tubo de ensayo” en un generador de arte con IA. ¿Los resultados solo muestran un tipo de persona, sin importar las veces que hagas clic en el botón Generar? Puedes enviar un mensaje a quienes inventaron el generador sobre ese punto débil y luego perfeccionar la indicación de texto para producir resultados más diversos. 
+
+
+
+
+
+
+ Indicación: profesional de la ciencia con bata de laboratorio sosteniendo un tubo de ensayo Las empresas que desarrollan herramientas de IA generativa también deben considerar la energía necesaria para entrenar y mantener estas herramientas. El sector está tomando conciencia de la necesidad de reducir su huella de carbono, pero aún falta un largo camino por recorrer. El conjunto de profesionales creativos está preocupado, y con razón, por la infracción de los derechos de autor. Estas preocupaciones se abordan actualmente en los tribunales. Adobe es uno de los ejemplos de empresas que trabajan para ayudar a las personas que crean contenido. Además de desarrollar la IA generativa de Firefly de manera responsable, en Adobe también ayudamos al sector a crear estándares a través de la Content Authenticity Initiative (CAI) y trabajamos por una etiqueta “no entrenar” universal que permita a las personas creadoras tener el control sobre si permiten que los modelos de IA se entrenan con su trabajo. La IA generativa es potente. Tú también tienes el poder. Como persona, informarte es una prioridad principal. Corrobora las políticas de privacidad antes de utilizar una herramienta de IA generativa. Si no te gusta una política, evita esa herramienta. Piénsalo dos veces antes de cargar información personal en cualquier herramienta de IA generativa una vez que hayas pasado por la etapa de registro. Si quieres que algo siga siendo confidencial, mantenlo fuera de la herramienta. Si tu intención es utilizar los resultados comercialmente, asegúrate de que la herramienta esté configurada para evitar infringir los derechos de autor. Las empresas que adopten la IA generativa deberían verificar siempre los resultados generados en cuestión de precisión, sesgo e infracción de derechos de autor. Además de estar al tanto del desarrollo de la normativa, es la mejor manera de proteger a la empresa frente a los riesgos legales y relativos a su reputación. Las personas deberían impulsar la conceptualización y la estrategia. Recuerda que la IA es tu ayudante. Tú estás a cargo. La IA generativa ya está cambiando nuestras vidas. Como experta virtual, la IA generativa puede mejorar la eficiencia y la productividad de muchos sectores. Como tu colega para la lluvia de ideas, la IA generativa puede mejorar tu creatividad. La tecnología evoluciona con tanta rapidez que la IA generativa del mañana puede ser muy diferente a la de hoy. Si exploramos las herramientas con curiosidad y cuidado, podemos disfrutar de sus ventajas y evitar los peligros. 
+
+
+
+
+
+
+ Indicación: un jardín de té japonés https://main--cc--adobecom.hlx.page/cc-shared/fragments/products/firefly/aside-dream-bigger-with-firefly 
+
+
+
+
+
+
+ Más información 
+
+
+
+
+
+
+ Más información 
+
+
+
+
+
+
+ Más información 
+
+
+
+
+
+
+ Más información

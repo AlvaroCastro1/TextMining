@@ -1,0 +1,117 @@
+Título: IA generativa y derechos de autor: el debate que tenemos
+URL: https://www.eleconomista.com.mx/opinion/IA-generativa-y-derechos-de-autor-el-debate-que-tenemos-20240416-0055.html
+Número de palabras: 1458
+
+Lectura 7:00 min  Jorge Luis Ordelin Font martes 16 de abril de 2024 - 10:22 Abril es el mes de la Propiedad Intelectual, el día 23 de abril se celebra el Día Mundial del Libro y del Derecho de Autor y el 26 es el Día Mundial de la Propiedad Intelectual. La proximidad de estas fechas nos invita a reflexionar sobre los retos que tiene el sistema de derechos de propiedad intelectual y, en particular, los derechos de autor. El desarrollo de modelos de inteligencia artificial generativos (IA) ha permitido obtener imágenes, clips de videos, música, textos, entre otros resultados similares a las creaciones de las personas físicas. De esta forma las “obras algorítmicas” han comenzado a  “convivir” con  obras tradicionalmente creadas por personas físicas, generando diversas interrogantes y perspectivas no solo desde el punto de vista de la creatividad, sino también, de la ética. La Recomendación de la UNESCO sobre uso ético de la IA y la Resolución del Parlamento Europeo, de 20 de octubre de 2020, sobre los derechos de propiedad intelectual para el desarrollo de las tecnologías relativas a la inteligencia artificial (2020/2015(INI)), hacen referencia a los riesgos y retos que existen en la intersección entre la IA y derechos de autor. Aunque estos adquieren diversas perspectivas y enfoques, al menos tres requieren especial atención: 1) la declaración de uso de IA generativa en la creación de contenidos; 2) la protección por parte del sistema de los derechos de autor de las obras creadas por IA y, 3) el uso de obras protegidas por los derechos de autor en el entrenamiento de los sistemas de IA generativos. Los tres temas comienzan a generar preocupaciones en relación con prácticas creativas y conflictos jurídicos en los que intervienen autores, titulares de derechos y la sociedad en general. En relación con la declaración o no del uso de IA para la generación de obras puede mencionarse, por ejemplo, la concesión del premio Akutagawa a la escritora japonesa Rie Kudan quién admitió haber utilizar ChatGPT para crear su libro "Tokyo Sympathy Tower" (al menos el 5% de la obra)[1]. También existen supuestos en los que existen dudas éticas y jurídicas respecto a  la utilización o no de IA en el proceso creativo; ante esta posibilidad se han adoptado diferentes tipos de medidas, por ejemplo, la plataforma de autopublicación Kindle Direct Publishing (KDP) de Amazon ha limitado a tres las publicaciones diarias por autor[2]. Esta medida supone, en principio, un intento de limitar el acceso de contenidos generados por IA. Aun cuando, en los términos y condiciones de dicha plataforma se establece la obligación de los autores de declarar que dicho contenido ha sido generado por IA. También se conoció de la retirada de las librerías de la edición española de la novela Juana de Arco, de Katherine J. Chen (Destino, Grupo Planeta) cuando el ilustrador David López publicó en la red social X, que la portada de esta edición era una imagen generada con IA[3]. En materia de protección de las obras algorítmicas, las oficinas nacionales de Derechos de Autor (Estados Unidos, España y Colombia, por ejemplo) han reafirmado la posición de no conceder protección jurídica a las obras algorítmicas, en aquellos casos en que no se pueda acreditar el control y/o participación del ser humano en el proceso creativo. En el supuesto de uso de obras en el entrenamiento de los sistemas de IA generativos, se puede mencionar la demanda The New York Times a OpenAI por utilizar obras protegidas y bases de datos en el entrenamiento de sus modelos generativos. La cual se suma a una larga lista de demandas que han sido presentadas, con igual objeto, ante tribunales en los Estados Unidos por autores y titulares de derechos de autor contra empresas que han entrenado estos modelos, Meta, Microsoft, Stability AI, Google, entre otras. Como es de esperar, en México el tema también comienza a ocupar espacio en el debate nacional en particular en sectores vinculados al ámbito cultural, artístico, científico y educativo. En el Congreso de la Unión se han presentado al menos tres iniciativas legislativas que están relacionadas con la temática sobre IA y derechos de autor. Ello muestra la importancia que adquiere en el contexto nacional el tema. Sin embargo, parece que es muy prematuro adoptar una posición al respecto, sin antes comprenderlo y debatirlo entre las partes interesadas.  En las propuestas, por ejemplo, se aprecia confusión entre las posibilidades del registro y la obligación de declarar que un producto es resultado de la IA o ha sido creado a partir de IA. Una cuestión es el derecho de saber si el contenido ha sido generado total o parcialmente por un sistema de IA y otra, muy diferente, es que se le conceda la condición de obra a dicho contenido. Mientras lo primero está relacionado con el derecho a la información que tienen las personas, reconocer la posibilidad de que estos contenidos puedan ser registrados supone conceder la condición de obra del contenido generado por la IA y, por ende, el reconocimiento de derechos morales y patrimoniales. También, es llamativo el hecho de que se pretenda supeditar dicha condición a su registro, cuando es conocido que la consideración de obra no está determinada por este.  Asimismo, no es del todo acertado no distinguir entre la protección de obras, la imagen de las personas y su voz, cuyos objetos de protección son diferentes. De hecho, la protección de la imagen y voz, no está subordinada a la protección de los derechos de propiedad intelectual, en especial de los derechos conexos, sino que adquieren entidad propia en el régimen jurídicio de los derechos de la personalidad. Por ejemplo, la protección jurídica deferida a la imagen no es igual cuando se trata de funcionarios públicos, artistas o el resto de las personas. Tampoco se puede asimilar los efectos de la suplantación de la voz de artistas para crear productos musicales no interpretados por estos, de aquellos otros supuestos que se utilizan imágenes o voces sintéticas para cometer ciberestafas, deepfakes u otros usos ilícitos. No existe duda de que será necesario modificar la Ley Federal de Derechos de Autor para brindar una mayor protección jurídica a los derechos de autor ante los retos de la IA generativa. Sin embargo, el quid de la cuestión no es solo la decisión de declarar o no la utilización de IA; la obligación de solicitar la autorización de los titulares de derechos para usar obras en el entrenamiento de los sistemas de IA o, que se reconozcan como obras los resultados de la IA y, en consecuencia, derechos morales y patrimoniales. El tema es más complejo, primero, porque cualquier regulación que se adopte impactaría en la propia esencia del sistema de los derechos de autor, en la necesidad de su fundamento y protección, incluyendo conceptos como creatividad, originalidad, derechos de los autores, artistas y demás titulares, entre otros; segundo, porque existen serías dudas sobre la viabilidad de que los derechos reconocidos a partir de estas modificaciones puedan ser efectivamente ejercidos, creándose una especie de “ilusionismo regulatorio”; y, por último, por el impacto que estas regulaciones podrían tener en el acceso a fuentes de datos como son las obras, su incidencia en la innovación, así como la necesidad de regular la minería de textos y datos con fines de investigación. En conclusión, el debate en el que nos encontramos rebasa los estrechos márgenes de los entresijos legislativos, entre las múltiples dudas y preguntas a las que debe responer se encuentra, si el sistema de derechos de autor, tal como hoy lo conocemos, sustentado en el principio de territorialidad puede hacer frente a los retos globales de modelos de IA generativos. La respuesta no es clara todavía. [1] https://cnnespanol.cnn.com/2024/01/19/ganadora-premio-literario-japones-inteligencia-artificial-chatgpt-trax/ [2] https://www.safecreative.org/tips/es/amazon-limita-la-autopublicacion-ante-la-invasion-de-libros-generados-por-ia/ [3] https://elpais.com/cultura/2024-02-02/varias-librerias-retiran-de-la-venta-una-obra-de-planeta-por-crear-su-portada-con-inteligencia-artificial.html Únete infórmate descubre 
+
+
+                Por Luis Miguel González
+
+
+06/11/2024 - 1:21
+ 
+
+
+                Por Redacción El Economista
+
+
+06/11/2024 - 1:15
+ 
+
+
+                Por Alberto Aguirre
+
+
+06/11/2024 - 0:51
+ 
+
+
+                Por Marco A. Mares
+
+
+06/11/2024 - 0:11
+ 
+
+
+                Por Maribel Ramírez Coronel
+
+
+06/11/2024 - 0:08
+ 
+
+
+                Por Diana N. Ronquillo 
+
+
+05/11/2024 - 23:47
+ 
+
+
+                Por Enrique Campos Suárez
+
+
+05/11/2024 - 23:16
+ 
+
+
+                Por John Mark Hansen 
+
+
+05/11/2024 - 22:48
+ 
+
+
+                Por Michele Gelfand 
+
+
+05/11/2024 - 21:56
+ 
+
+
+                Por Fausto Pretelin Muñoz de Cote
+
+
+05/11/2024 - 21:32
+ 
+
+
+                Por Gabriela Gorab
+
+
+05/11/2024 - 21:26
+ 
+
+
+                Por Raúl Martínez Solares
+
+
+05/11/2024 - 20:50
+ 
+
+
+                Por Redacción El Economista
+
+
+05/11/2024 - 20:37
+ 
+
+
+                Por Rodolfo Campuzano Meza 
+
+
+05/11/2024 - 20:29
+ 
+
+
+                Por José Fonseca
+
+
+05/11/2024 - 19:08
+ 
+
+
+                Por Isaac Cohen
+
+
+05/11/2024 - 15:44
+ Una empresa de Nacer Global Suscríbete a nuestros Newsletter. Al suscribirte, aceptas nuestras políticas de privacidad. Síguenos Copyright © 1988-2015 Periódico Especializado en Economía y Finanzas, S.A. de C.V. All Rights Reserved. Derechos Reservados. Número de reserva al Título en Derechos de Autor 04-2010-062510353600-203. Al visitar esta página, usted está de acuerdo con los términos del servicio Síguenos

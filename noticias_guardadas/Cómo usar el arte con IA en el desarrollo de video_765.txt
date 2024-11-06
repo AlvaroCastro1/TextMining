@@ -1,0 +1,33 @@
+Título: Cómo usar el arte con IA en el desarrollo de videojuegos - Adobe Firefly
+URL: https://www.adobe.com/mx/products/firefly/discover/ai-for-game-developers.html
+Número de palabras: 600
+
+Convertir tus ideas en imágenes nunca ha sido tan fácil. Descubre cómo generar arte con IA para el diseño de videojuegos. Explorar Adobe Firefly https://main--cc--adobecom.hlx.page/cc-shared/fragments/merch/products/firefly/sticky-banner/explore-firefly La IA en los videojuegos se remonta a los programas de juegos de damas y ajedrez de la década de los 50. Hoy, prácticamente todos los videojuegos tienen alguna forma de IA para simular la realidad y crear personajes no jugadores (PNJ) más realistas. En los próximos años, la IA para la programación de videojuegos se podría encargar de gran parte del trabajo duro de la creación de mundos. La IA de los videojuegos puede incluso desempeñar un papel importante en el desarrollo de los personajes y las narrativas. Uno de los desarrollos más recientes de la IA en los videojuegos es el uso de la IA generativa para su diseño. Con generadores con IA que utilizan modelos de aprendizaje automático para producir imágenes, las personas a cargo del desarrollo de los videojuegos pueden introducir una indicación de texto o una pequeña descripción de lo que quieren ver y crear una imagen al instante. La tecnología es tan rápida y versátil que quienes programan pueden seguir sus ideas a donde sea que se dirijan. Antes de empezar a programar un juego, puedes usar arte con IA para explorar nuevas ideas y varias iteraciones. Puedes generar imágenes para entornos y personajes del juego, crear efectos de texto para los títulos del juego y utilizar la IA para probar diversas paletas de colores y texturas. Pasarás de posibilidades a prototipos en un instante. Puedes utilizar la puntuación y otras herramientas para ajustar las indicaciones artísticas de IA. Si la IA tiene dificultades para comprender cómo deberían agruparse tus palabras, prueba a añadir comillas en las palabras que deben ir juntas. Por ejemplo, “niña pequeña aventurera con ropa sucia y desgastada” de pie en la cima de un “pico montañoso nevado” junto a un “mamut rosa y lanudo” puede funcionar mejor que sin comillas. Otros ajustes incluyen mencionar elementos que quisieras evitar, al especificar la intensidad de tu estilo y dar orientación a la IA en términos de cuánto quieres que se acerque a tu indicación. Por ejemplo, si quieres reservar los tonos azules para otro personaje diferente, solo tienes que escribir [avoid = blue] (evitar = azul) al final de tu indicación. La IA también puede lidiar con sutilezas. Si solo quieres un toque de estilo retrofuturista, puedes ajustar la intensidad del estilo. Escribe [dar estilo = 20, 80] u otros dos números que sumen 100. La orientación, que es cuánta libertad das a la IA para jugar, puede ser un número entre 0 y 25, como [orientación = 5]. Los números más bajos significan que la IA tiene más libertad para ignorar la indicación. Los problemas legales en torno a la IA generativa pueden intimidar a las personas a cargo del desarrollo de los videojuegos, pero el primer modelo de IA generativa de Firefly está diseñado para ser comercialmente seguro. Al estar entrenado con un conjunto de datos de Adobe Stock, así como con obras de licencia libre y contenidos de dominio público cuyos derechos de autor han caducado, puedes aprovechar las imágenes que te sirvan de inspiración en el propio diseño de tu videojuego sin tener que preocuparte por infringir los derechos de autor de otras personas creadoras. Con tu imaginación y Firefly, puedes dar vida a tus personajes y a tus entornos para que puedas compartirlos con el mundo. Aprende a crear arte generado con IA para llevar tus dotes artísticas a un nivel superior. https://main--cc--adobecom.hlx.page/cc-shared/fragments/products/firefly/aside-intoducing-adobe-firefly 
+
+
+
+
+
+
+ Más información 
+
+
+
+
+
+
+ Más información 
+
+
+
+
+
+
+ Más información 
+
+
+
+
+
+
+ Más información

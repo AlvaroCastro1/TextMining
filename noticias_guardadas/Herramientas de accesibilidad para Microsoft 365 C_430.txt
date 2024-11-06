@@ -1,0 +1,51 @@
+Título: Herramientas de accesibilidad para Microsoft 365 Copilot - Soporte técnico de Microsoft
+URL: https://support.microsoft.com/es-es/topic/herramientas-de-accesibilidad-para-microsoft-365-copilot-5d106884-844b-4ce8-acfb-4d7a48dac618
+Número de palabras: 293
+
+
+          Microsoft 365 Copilot es un motor de procesamiento con tecnología de IA integrado en Microsoft 365 aplicaciones. Funciona junto a los usuarios para recopilar información en tiempo real desde sus datos y aplicaciones. Copilot captura comandos de lenguaje natural para producir contenido, analizar datos, crear presentaciones y mucho más. Esta página contiene una lista de artículos sobre lectores de pantalla disponibles para ayudarle a usar Copilot. 
+Usar Copilot Lab con un lector de pantalla
+ 
+Usar Copilot en Word con un lector de pantalla
+ 
+Usar Copilot en Whiteboard con un lector de pantalla
+ 
+Usar Copilot en OneNote con un lector de pantalla
+ 
+Tareas básicas al usar un lector de pantalla con Copilot en PowerPoint
+ 
+Ayuda y aprendizaje de Microsoft Copilot
+ Microsoft desea proporcionar la mejor experiencia posible a todos los clientes. Si tiene alguna discapacidad o tiene preguntas relacionadas con la accesibilidad, póngase en contacto con Answer Desk Accesibilidad de Microsoft para obtener asistencia técnica. El equipo de soporte técnico de Answer Desk Accesibilidad está preparado para usar muchas tecnologías de asistencia conocidas y puede ofrecer asistencia en lenguaje de signos en inglés, español, francés y estadounidense. Vaya al sitio de Answer Desk Accesibilidad de Microsoft para saber los detalles de contacto de su región.  Si es un usuario de la administración pública, un usuario comercial o de empresa, póngase en contacto con Answer Desk Accesibilidad para empresas.  Explore las ventajas de las suscripciones, examine los cursos de aprendizaje, aprenda a proteger su dispositivo y mucho más. 
+
+ 
+Ventajas de la suscripción a Microsoft 365
+ 
+
+ 
+Aprendizaje de Microsoft 365
+ 
+
+ 
+Seguridad de Microsoft
+ 
+
+ 
+Centro de accesibilidad
+ 
+                Las comunidades le ayudan a formular y responder preguntas, enviar comentarios y leer a expertos con conocimientos extensos.
+             
+
+ 
+Pregunte en Microsoft Community
+ 
+
+ 
+Microsoft Tech Community
+ 
+
+ 
+Windows Insiders
+ 
+
+ 
+Microsoft 365 Insiders

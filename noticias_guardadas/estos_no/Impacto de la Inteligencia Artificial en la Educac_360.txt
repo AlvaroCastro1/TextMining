@@ -1,0 +1,117 @@
+Título: Impacto de la Inteligencia Artificial en la Educación Superior en México
+URL: https://www.eleconomista.com.mx/tecnologia/impacto-inteligencia-artificial-educacion-superior-mexico-20241005-728776.html
+Número de palabras: 1455
+
+Lectura 7:00 min La inteligencia artificial generativa en la educación superior de México está provocando un debate sobre su efectividad y ética, a medida que académicos y estudiantes exploran sus implicaciones en el aprendizaje. Foto EE: Especial Rodrigo Riquelme sábado 05 de octubre de 2024 - 15:00 El uso de la inteligencia artificial (IA) generativa ha llegado a las aulas de la educación superior en México. Este fenómeno ha suscitado debates entre académicos y estudiantes sobre su efectividad y sus implicaciones éticas. Desde hace más de una década, Ernesto Priani, profesor e investigador de Humanidades Digitales en la UNAM, ha trabajado con herramientas tecnológicas en el ámbito de las humanidades. Comenzó a investigar cómo la tecnología puede servir para el análisis del lenguaje y el procesamiento de texto. "Desde 2005, empecé a trabajar con tecnología para ser humanidades, utilizando herramientas de análisis del lenguaje y distintas herramientas computacionales", dijo Priani en entrevista. Sin embargo, su interés en la inteligencia artificial se intensificó en los últimos dos años, cuando estas herramientas se volvieron más accesibles y efectivas en el diálogo con los usuarios a través del lenguaje natural. El impacto de la tecnología en el aprendizaje se puede rastrear a lo largo de la historia educativa, pero la llegada de la IA generativa ha introducido un nuevo paradigma. Santiago Fajer, director ejecutivo de la empresa mexicana de inteligencia artificial Xira, destaca que la IA ha evolucionado desde simples modelos de machine learning hasta sistemas que pueden asociar datos de manera más efectiva. "Lo nuevo de la IA generativa es que puede asociar los datos que tienes, no solo reconocer patrones, sino inferir información", explica. Esto resalta la capacidad de la IA para enriquecer el proceso educativo, aunque también plantea nuevos desafíos en la interpretación y veracidad de la información. “La utilización de la tecnología para resolver problemas escolares está por lo menos muy latente desde la aparición de Internet”, afirma Priani. A pesar de esta tendencia, ha observado que sus alumnos de filosofía son reacios a adoptar estas nuevas tecnologías, a diferencia de estudiantes de otras disciplinas, como lingüística o letras. Este fenómeno ha llamado su atención. “Mi experiencia con alumnos de filosofía es que no la están usando todavía mucho porque son muy reacios a usar tecnología. La usan, pero no les gusta”, señala. Por el contrario, Fajer enfatiza que la tecnología puede ser una aliada si se utiliza de manera adecuada. "La clave está en entender en qué contextos se debe aplicar la IA, evitando su uso inadecuado que podría llevar a confusiones o errores en la información", afirma. María Belén Correa, directora regional de Turnitin para América Latina, anunció el reciente lanzamiento del detector de Turnitin, el cual ahora está disponible en español. Este detector, que fue desarrollado por la compañía, tiene como objetivo identificar la presencia de escritura generada por inteligencia artificial generativa en trabajos académicos. Correa explicó que el reto de llevar esta herramienta al español incluyó asegurar que mantenía los mismos niveles de eficacia y minimizaba sesgos, especialmente en estudiantes que escriben en un segundo idioma. Este tipo de herramientas también plantea interrogantes sobre la autenticidad y el valor del trabajo académico. En este contexto, Fajer sugiere que "es fundamental que los educadores sean capaces de distinguir entre la producción humana y la generada por IA, entendiendo que ambas pueden coexistir y complementarse". Esta dualidad representa un desafío para la evaluación académica, donde la creatividad y el pensamiento crítico se vuelven esenciales para el aprendizaje significativo. En el aula, Priani plantea un enfoque experimental hacia el uso de la inteligencia artificial. Propone que sus estudiantes realicen experimentos con estas herramientas para descubrir tanto sus limitaciones como sus ventajas. Un estudiante, por ejemplo, se propuso aprender gramática a través de un diálogo con la inteligencia artificial y descubrió que esta tiene una memoria muy limitada, lo que afecta el proceso de aprendizaje. Correa también subrayó la importancia de interpretar los resultados del detector de Turnitin de manera crítica. “Lo que hacemos es educar también a los docentes a entender cómo interpretar esta información y cómo utilizarla dentro de su proceso de evaluación”, afirmó, enfatizando que la tecnología debe ser un recurso complementario en la educación. Priani advierte que la IA debería ser utilizada como un recurso de apoyo y no como un sustituto de la interacción humana en el proceso educativo. "Es un auxiliar que debe ser integrado en el aula, no un enemigo", dijo. La clave, de acuerdo con el académico, está en educar tanto a estudiantes como a profesores sobre las ventajas y limitaciones de la inteligencia artificial. Desde una dimensión ética, Priani sostiene que los estudiantes deben tener un conocimiento profundo de la herramienta y su funcionamiento. “Lo primero que uno tiene que hacer para acercarse a la herramienta desde el punto de vista ético es conocer la herramienta y lo que hay detrás de ella”, aconseja. Resalta que la inteligencia artificial no distingue entre respuestas verdaderas y falsas, por lo que es esencial que los estudiantes tengan fuentes de contraste. Además, menciona la preocupación por el impacto ambiental de la IA, dado el consumo energético y los recursos necesarios para su funcionamiento. “Es una herramienta que consume mucha agua, que ensucia mucho y que en algunos casos se basa en la explotación de ciertos minerales”, explica. Esta preocupación resuena con el enfoque de Fajer, quien menciona que las empresas deben ser responsables en la implementación de IA, considerando tanto la seguridad como la calidad de los datos que utilizan. "Las empresas deben garantizar que la IA se use de manera ética y no poner en riesgo la integridad de la información", advierte Fajer. Con la creciente presencia de la IA en el ámbito académico, surge la pregunta sobre cómo los profesores pueden integrar estas herramientas en sus aulas. Priani enfatiza que es fundamental que los educadores no vean a la inteligencia artificial como un enemigo, sino como un auxiliar. “Recomiendo que la usen en clase y que les enseñen a los alumnos cómo no les da respuesta a todo”, aconseja. Belén Correa añadió que, en lugar de prohibir el uso de herramientas de IA, las instituciones deben aprender a adaptarse a su presencia en el aula. “Cada vez más, las instituciones están adoptando políticas que no ven la inteligencia artificial como algo prohibido, sino como una parte del proceso educativo”, destacó. Este enfoque proactivo permite que los estudiantes se familiaricen con las tecnologías emergentes y desarrollen habilidades para utilizarlas de manera efectiva. Fajer complementa esta perspectiva sugiriendo que las instituciones educativas deben ser flexibles y estar dispuestas a experimentar con la IA. "La adaptabilidad es clave. Las instituciones que se resisten al cambio probablemente se queden atrás", sostiene. Este cambio de mentalidad es esencial para preparar a los estudiantes para un entorno laboral en constante evolución, donde la inteligencia artificial jugará un papel fundamental. El futuro del aula con inteligencia artificial es incierto, pero Priani vislumbra un panorama en el que estas herramientas se integren de manera natural en el proceso educativo. “Hay toda una nueva corriente de educadores que están utilizando inteligencia artificial para crear programas de estudio y materiales para el aula”, explica. Sin embargo, también advierte que la creatividad de los profesores será clave para aprovechar al máximo estas herramientas. “Dependerá mucho de la creatividad de los profesores saber explotar estas herramientas. Poco a poco, se empezará a ver la inteligencia artificial como una herramienta más en el aula”, afirma. Fajer complementa esta visión con la importancia de la innovación. "Las empresas de tecnología educativa deben colaborar con las instituciones para desarrollar soluciones que se adapten a las necesidades educativas", menciona. La colaboración entre estos sectores podría facilitar una implementación más efectiva de la inteligencia artificial en el aula, permitiendo a los estudiantes beneficiarse de tecnologías que potencian su aprendizaje. rodrigo.riquelme@eleconomista.mx Reportero de Tecnología Únete infórmate descubre 
+
+
+                Por Redacción El Economista
+
+
+02/11/2024 - 8:00
+ 
+
+
+                Por Rodrigo Riquelme
+
+
+31/10/2024 - 14:03
+ 
+
+
+                Por AFP
+
+
+31/10/2024 - 12:54
+ 
+
+
+                Por Rodrigo Riquelme
+
+
+29/10/2024 - 17:58
+ 
+
+
+                Por Rodrigo Riquelme
+
+
+26/10/2024 - 15:00
+ 
+
+
+                Por Rodrigo Riquelme
+
+
+25/10/2024 - 12:41
+ 
+
+
+                Por Rodrigo Riquelme
+
+
+23/10/2024 - 16:15
+ 
+
+
+                Por AFP
+
+
+22/10/2024 - 19:56
+ 
+
+
+                Por AFP
+
+
+21/10/2024 - 19:26
+ 
+
+
+                Por AFP
+
+
+19/10/2024 - 18:00
+ 
+
+
+                Por Reuters
+
+
+18/10/2024 - 12:15
+ 
+
+
+                Por Rodrigo Riquelme
+
+
+18/10/2024 - 9:42
+ 
+
+
+                Por Rodrigo Riquelme
+
+
+17/10/2024 - 13:43
+ 
+
+
+                Por AFP
+
+
+17/10/2024 - 13:52
+ 
+
+
+                Por AFP
+
+
+16/10/2024 - 11:19
+ 
+
+
+                Por AFP
+
+
+15/10/2024 - 19:00
+ Una empresa de Nacer Global Suscríbete a nuestros Newsletter. Al suscribirte, aceptas nuestras políticas de privacidad. Síguenos Copyright © 1988-2015 Periódico Especializado en Economía y Finanzas, S.A. de C.V. All Rights Reserved. Derechos Reservados. Número de reserva al Título en Derechos de Autor 04-2010-062510353600-203. Al visitar esta página, usted está de acuerdo con los términos del servicio Síguenos

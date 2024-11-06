@@ -1,0 +1,47 @@
+Título:         La Inteligencia Artificial en la Ciberseguridad
+ | UdeCataluña
+URL: https://www.ucatalunya.edu.co/blog/la-inteligencia-artificial-en-la-ciberseguridad
+Número de palabras: 834
+
+
+  La ciberseguridad se ha convertido en una de las principales prioridades en las últimas dos décadas. Con los avances en la tecnología y la conectividad en Internet, se ha  aumentado el delito cibernético. Cada vez más, la inteligencia artificial está al servicio de la ciberseguridad ofreciendo soluciones innovadoras para la protección de la información.
+ 
+  En este mundo digital, la ciberseguridad es imprescindible. En la actualidad, nadie se salva de ser víctima de un ciberataque; empresas, gobierno, hospitales, instituciones financieras, pymes y el usuario final, están expuestos a las amenazas que hay en la red.
+ 
+La Inteligencia Artificial, como conjunto de técnicas predictivas y de autoaprendizaje están ayudando a mejorar la ciberseguridad. Para ello recurre a la calibración continua de los algoritmos a medida que se van exponiendo a nueva información. El grado de complejidad y dispersión de los sistemas con los que trabajan las empresas actualmente hace que los medios tradicionales y manuales de vigilancia, supervisión y control de riesgos se hayan demostrado insuficientes. Además, el mismo uso de la IA por parte de los ciberdelincuentes hace nuestros sistemas mucho más débiles.
+ 
+  Esta situación, ha favorecido la industria de la seguridad cibernética ya que se ha convertido en una oportunidad lucrativa para los inversionistas y para los profesionales que laboran en estos campos.
+ 
+  Sin duda el impacto de la Inteligencia Artificial en la Ciberseguridad, replanteará varios esquemas de gestión en el área. Pero también es un tema que genera muchas inquietudes, como cuáles son los tipos de amenazas y luego presentar el impacto de Inteligencia Artificial en Ciberseguridad.
+ 
+1. Suplantación de identidad (phishing): Este software es el más común y se refiere a  la práctica de enviar correos electrónicos fraudulentos que se asemejan a correos electrónicos de fuentes de buena reputación. Su objetivo es robar datos sensibles, como números de tarjetas de crédito e información de inicio de sesión.
+ 
+2. Ransomware: Es un tipo de software malicioso diseñado para exigir dinero mediante el bloqueo del acceso a los archivos o el sistema informático hasta que se pague un rescate. El pago del rescate no garantiza que se recuperen los archivos o se restaure el sistema.
+ 
+3. Malware:  Es un tipo de software diseñado para obtener acceso no autorizado o causar daños en una computadora. 
+ 
+4. Social: La ingeniería social es una táctica que los adversarios usan para engañar al usuario, a fin de que revele su información confidencial. Pueden solicitar un pago monetario u obtener acceso a sus datos confidenciales.
+ 
+  Las aplicaciones actuales de la IA a la ciberseguridad son amplias:
+ 
+1. Thead hunting: Identificación de amenazas y neutralización de ciberataques. Las técnicas tradicionales que se apoyan en la identidad o la utilización de indicadores de compromiso (indicators of compromise) se pueden ver mejoradas, cerrando brechas de seguridad al gestionar e interpretar indicadores de comportamiento.
+ 
+2. Gestión de vulnerabilidades (Vulnerability management): El número de vulnerabilidades crece cada año y no es suficiente esperar a que los ciberdelincuentes las exploten para reaccionar ante ellas. User and Event Behavioral Analytics (UEBA) permite identificar comportamientos anómalos que señalen la actividad de ciberataques incluso antes de disponer de los parches que corrigen las vulnerabilidades.
+ 
+3. Data centers: La IA facilita la optimización y monitorización de centros de procesamiento de datos esenciales además de ayudar a detectar amenazas de comportamientos anómalos. Mejora el aprovechamiento de estos recursos y su evolución, con los consecuentes ahorros de costes y reducción de riesgos como, por ejemplo, la caída de los servicios o la ejecución de un software malicioso.
+ 
+4. Seguridad en las redes: La IA permite aprender los patrones de comportamiento del tráfico en la red y recomendar la agrupación de cargas de trabajo, así como la aplicación de políticas de seguridad.
+ 
+5. Identificación segura de usuarios (Securing authentication): Tanto para la protección de los usuarios que acceden a nuestros servicios, como al conjunto de elementos que pasa a utilizar, la IA puede identificar el uso de identidades falsas o los ataques de fuerza bruta, confiriendo una barrera adicional al acceso fraudulento a nuestros servicios, más allá de la autenticación de usuarios o el uso de captcha.
+ 
+6. Privacidad de la información y compliance: La IA ayuda a clasificar de manera automática la información por su nivel de criticidad de cara a distintas regulaciones como la GDPR. Esto implica ahorros respecto a los esfuerzos que actualmente se hacen de forma manual, evitando los riesgos que ello supone.
+ 
+7. Bloqueo de bots a partir de su comportamiento: La actividad de los bot consume ancho de banda de nuestros servidores, perjudicando la experiencia de usuario de nuestros verdaderos clientes. La IA permite clasificar la actividad de estos visitantes para limitar su acción.
+ 
+  Estos aspectos son presentados y desarrollados en nuestros programas ejecutivos. Para mayor información, consulta nuestro portafolio o solicita información sobre el Diplomado en Ciberseguridad - Auditor Interno ISO 27001.
+ 
+                Institución de Educación Superior sujeta a la inspección y vigilancia del Ministerio de Educación Nacional de Colombia. Resolución No 21329/16 del MEN.
+                SNIES 9923
+             
+                © U de Cataluña 2024.  Todos los derechos reservados
+            

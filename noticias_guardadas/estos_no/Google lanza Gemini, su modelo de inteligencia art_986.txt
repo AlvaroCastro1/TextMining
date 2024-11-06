@@ -1,0 +1,37 @@
+Título: Google lanza Gemini, su modelo de inteligencia artificial más avanzado, para competir con ChatGPT | CNN
+URL: https://cnnespanol.cnn.com/2023/12/06/google-gemini-modelo-inteligencia-artificial-trax
+Número de palabras: 845
+
+
+(CNN) –  Google lanzó este miércoles su esfuerzo más ambicioso hasta la fecha para competir en el campo de la inteligencia artificial (IA) generativa, un campo en rápido crecimiento, con el lanzamiento de un modelo de IA conocido como Gemini, diseñado para competir con los modelos GPT de OpenAI y potenciar todo, desde las aplicaciones de consumo de Google hasta los teléfonos inteligentes Android.
+     
+            El alcance de las ambiciones de Google se reflejó en el anuncio de la empresa, que presentó Gemini como el “modelo de IA más grande y capaz” de la empresa y declaró una “era Gemini” que prevé que el modelo del gigante tecnológico se utilice en todos los entornos, desde grandes empresas hasta dispositivos de consumo como el Google Pixel 8 Pro.
+     
+            A diferencia de los modelos de IA existentes que suelen tratar con un solo tipo de solicitud del usuario, como imágenes o texto exclusivamente, Gemini se construyó para ser “multimodal”, dijo Google. Esto significa que acepta entradas que incluyen múltiples tipos de medios, combinando texto, imágenes, audio, video y código de programación.
+     
+            “Esta nueva era de modelos representa uno de los mayores esfuerzos de ciencia e ingeniería que hemos emprendido como compañía”, dijo el CEO de Google, Sundar Pichai, en una entrada de blog.
+     
+            El chatbot de IA propiedad de Google, Bard, ya fue actualizado con una versión del modelo Gemini, dijo la compañía el miércoles, con planes para agregar Gemini a productos ampliamente utilizados, incluyendo el motor de búsqueda de Google y el navegador web Chrome, que son utilizados por miles de millones de personas en todo el mundo.
+     
+            El anuncio supone un intento de recuperar la delantera después de que Google y otros gigantes de la tecnología se vieran sorprendidos hace un año por el lanzamiento repentino y masivamente popular de ChatGPT de OpenAI, que desencadenó una carrera desenfrenada en toda la industria para acelerar las herramientas de IA generativa y un debate mundial sobre los riesgos y beneficios de la IA.
+     
+            También representa un esfuerzo por llevar la IA generativa hasta los confines del imperio de Google. Según la empresa, Gemini 1.0 está disponible en tres tamaños diferentes: Nano, que está optimizado para dispositivos móviles y desarrolladores de aplicaciones; Pro, que es el modelo por defecto diseñado para una amplia gama de tareas y clientes; y Ultra, el modelo de IA más sofisticado construido por Google y que aún está siendo sometido a pruebas de seguridad.
+     
+            El lanzamiento del miércoles también se diseñó para mostrar los avances de Google en computación en la nube, un recurso fundamental para los desarrolladores de IA. La empresa dijo que entrenó a Gemini utilizando una nueva generación de potentes procesadores basados en la nube que pueden entrenar colectivamente grandes modelos de IA casi tres veces más rápido que la versión anterior. Esta tecnología, que también se pondrá a disposición de los clientes de la nube de Google, podría suponer un importante impulso para el sector de la IA en general, haciendo más accesible el entrenamiento de la inteligencia artificial y reforzando la tercera posición de Google en el mercado de servicios de nube pública. Pero no está claro cómo se comparan los chips de IA de Google con los de los principales fabricantes de chips, como Nvidia.
+     
+            En sus pruebas, el modelo Gemini de Google superó a los modelos de IA rivales en más de dos docenas de pruebas de referencia utilizadas habitualmente por los investigadores de IA para evaluar la comprensión lectora, la capacidad matemática y las habilidades de razonamiento multipaso de un algoritmo, según la empresa.
+     
+            Eli Collins, vicepresidente de producto de Google DeepMind, declaró a la prensa en una conferencia telefónica el martes: “Vemos que establece nuevos tipos de fronteras en todos los ámbitos”.
+     
+            Sin embargo, pareció reconocer que sigue existiendo el riesgo de que los modelos de IA ofrezcan a los usuarios resultados engañosos, en alusión a las preocupaciones de grupos de la sociedad civil, legisladores e investigadores en IA.
+     
+            Google ha hecho “mucho trabajo para mejorar la objetividad en Gemini”, dijo Collins, pero los grandes modelos de lenguaje “todavía son capaces de alucinar”, un término que los investigadores de IA utilizan cuando los sistemas de IA inventan hechos y se equivocan, pero con extrema confianza.
+     
+            “Cuando integramos estos modelos en productos como Bard, disponemos de técnicas adicionales para mejorar la precisión de las respuestas”, añadió.
+     
+            En reconocimiento de esos riesgos, Google dijo el miércoles que Gemini Ultra, su versión más avanzada del modelo, solo se lanzará gradualmente a “clientes selectos, desarrolladores, socios y expertos en seguridad y responsabilidad para la experimentación temprana y la retroalimentación antes de desplegarlo a los desarrolladores y clientes empresariales a principios del próximo año”.
+     
+            Gemini Ultra se está sometiendo actualmente a evaluaciones de seguridad por parte de terceros, también conocidas como “equipo rojo”, de acuerdo con un compromiso que adquirió con el Gobierno de Biden a principios de este verano.
+     
+–Clare Duffy de CNN contribuyó con este reportaje.
+ © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

@@ -1,0 +1,109 @@
+Título: Guía completa sobre el uso de la IA en gaming | Inesdi
+URL: https://www.inesdi.com/blog/la-IA-en-videojuegos/
+Número de palabras: 2086
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Las aplicaciones de la Inteligencia Artificial (IA) siguen ampliándose a más y más campos, pero también a nuestro día a día. Por ejemplo, la sanidad, el ocio o el entretenimiento. Dentro de este último encontramos la IA gaming, que se centra en aplicar esta tecnología para mejorar los videojuegos.  La Inteligencia Artificial es una tecnología que usa técnicas del Machine Learning y el aprendizaje profundo (Deep Learning) para que una máquina pueda aprender a analizar la información de una forma muy parecida a la de los humanos. Si bien hoy vamos a hablar de uno de los usos de esta tecnología, hay que tener en cuenta que también hay varios tipos de IA, y que en función de la finalidad o el entorno, se usará una u otra.  Si nos vamos a la IA en videojuegos, esta haría referencia a las técnicas que se utilizan para diseñar el comportamiento de los Personajes No Jugables o PNJ (NPC). Estos son aquellos personajes que son controlados por la persona que dirige el juego, o game master. Esta tecnología permitió crear enemigos y aliados más inteligentes y reactivos, con experiencias de juego más dinámicas y adaptadas a las acciones de quien juega, así como con retos más complejos.  No obstante, a medida que ha evolucionado esta inteligencia, también lo ha hecho su definición. En la actualidad, la IA en gaming ya no solo controla a dichos personajes. Ahora, también se emplea para personalizar el juego según las preferencias del usuario, para diseñar mapas, niveles de dificultad personalizables, mecánicas de juego que se adaptan al jugador e incluso para crear los juegos desde cero.       El uso de la IA en gaming tiene la particularidad de que se usa para el ocio o el entretenimiento. Es decir, que solo tiene una función lúdica y, por tanto, no se le aplica el componente ético como sí sucede en otros sectores. Pero además del realismo que ofrece, ¿qué otras ventajas supone el uso de la IA en el sector gaming? - Generación procedural de mundos. Los videojuegos generan entornos y escenarios de manera automática y sin intervención manual. Se crean mundos infinitos que cambian en cada partida. Para ello se usa la IA generativa. - Personalización de la experiencia de juego. La IA analiza el estilo de juego de cada usuario y ajusta la dificultad, los retos y las recompensas. Es decir, que la experiencia se adapta al nivel de habilidad de cada jugador, evitando para mejorar la retención y la satisfacción del jugador. - Mejoras en la animación y física de los personajes. Los motores de física impulsados por IA permiten movimientos y animaciones más realistas, ya que se predice cómo se debe mover cada personaje o interactuar con su entorno.  - Automatización de pruebas y detección de errores. La IA también se está utilizando para mejorar los procesos de desarrollo, especialmente en la detección de bugs y errores.  - Interacciones más realistas con los jugadores. Los juegos ahora pueden interpretar y responder a las emociones y comportamientos de los jugadores. Los personajes virtuales pueden simular empatía o reaccionar emocionalmente. - Optimización del rendimiento y los recursos. Los sistemas de IA gaming pueden gestionar mejor los recursos del hardware, para que el uso del procesador y de la tarjeta gráfica sean más eficientes. - Implementación de comportamientos autónomos. Los personajes o vehículos controlados por IA toman decisiones autónomas en tiempo real. Por ejemplo, cambiar de estrategia en función del progreso del jugador o navegar por distintos entornos. El desarrollo de la inteligencia artificial en el sector del gaming sigue avanzando a pasos agigantados. Para los próximos años, uno de los avances más esperados es la IA adaptativa, que es capaz de aprender del comportamiento del jugador en tiempo real. Este tipo de IA permitirá a los NPCs y a los propios juegos modificar su comportamiento en función de las decisiones del usuario. Gracias a ello, cada partida será única y con un nivel de inmersión más alto.  La IA también está dando lugar a herramientas no code que permitirán a personas sin conocimientos avanzados en programación desarrollar sus propios juegos o modificar elementos en ellos. Estas herramientas, potenciadas por inteligencia artificial, facilitarán la creación de contenido procedimental o la personalización de mundos y personajes. Otra evolución será la integración del machine learning para mejorar la creación de contenido procedimental. En el futuro, los videojuegos podrían generar mundos completos, historias y personajes con mayor profundidad, a partir de los datos de los jugadores.  Esta evolución permitirá crear universos más ricos y complejos, donde cada interacción repercutirá de forma significativa en el entorno del juego. Además, la IA en gaming también promete mejorar la interacción emocional entre jugadores y personajes, con NPCs que simulen emociones y actitudes humanas.      La IA en gaming mejora día a día y supone una importante revolución para la creación de juegos de mejor calidad. Algunos ejemplos que se han servido de esta tecnología son los siguientes: En este juego unas cucarachas se abalanzaban sobre los enemigos para devorarlos y lo mejor, lo hacían de manera independiente, sin funcionar como un bloque. Se trata de un juego de PSX, en él, los enemigos se parapetaban para cubrirse y devolver las granadas que lanzaba el jugador o incluso se ponían sobre ellas para salvar a sus compañeros. Este juego llegó a poner en apuros a los ordenadores de la época por su potente apartado gráfico. Es un claro ejemplo del uso de IA, ya que los enemigos actuaban con base en los movimientos del jugador. En este juego se desarrolló la IA para la conducción mediante la adaptación del vehículo al estilo del jugador. Black & White era un juego de estrategia muy innovador en su época que destacaba por la posibilidad de manejar monstruos que marcaban los designios de la civilización.
+  En los próximos años, el número de videojuegos que utilizan la IA gaming seguirá aumentando. Y es probable que todos, por una cuestión de competitividad, la terminen incorporando. Tanto si te gusta este sector, como si tienes claro que quieres formarte en Inteligencia Artificial por ser un campo lleno de posibilidades laborales de cara al futuro, apúntate a nuestro máster.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CAMPUS SOLICITA INFORMACIÓN ¿Quién es el Responsable del tratamiento de sus datos? THREEPOINTS EDUCATION, S.L.U, con CIF B-67187906, será la responsable de los datos
+            personales facilitados a través de la presente página web, así como de los facilitados
+            telefónicamente, a través de cualquiera de nuestros formularios en formato papel, de los obtenidos como
+            consecuencia de la relación que Usted mantenga con nosotros y de los derivados de sus hábitos de navegación
+            y consumo. Dicha compañía se encuentra ubicada en Av Diagonal, 662, 08034 Barcelona, pudiendo
+            ponerse en contacto con la misma a través de la dirección electrónica info@inesdi.com. Igualmente, podrá ponerse en contacto con nuestro Delegado de Protección de Datos mediante escrito
+            dirigido a dpo@planeta.es o a Grupo Planeta, At.:
+            Delegado de Protección de Datos, Avda. Diagonal 662-664, 08034 Barcelona. ¿Con qué finalidad tratamos sus datos personales? THREEPOINTS EDUCATION, S.L.U tratará sus datos personales con el fin de gestionar la relación que Usted
+            mantiene con nosotros, así como para enviarle comunicaciones comerciales por cualquier vía, incluso
+            finalizada la relación con usted, para mantenerle informado de aquellos de nuestros productos y servicios
+            similares a los contratados por Usted. Asimismo, le informamos que, con el fin de poder ofrecerle productos y servicios de THREEPOINTS
+          EDUCATION, S.L.U o de terceras empresas adecuados a sus intereses, así como para mejorar su experiencia
+            de usuario de nuestra página Web, elaboraremos un “perfil comercial” en base tanto a la información
+            facilitada por usted como a aquella otra derivada de sus hábitos de consumo y navegación y la
+            obtenida de redes sociales.  Adicionalmente, sus datos personales y perfil comercial serán cedidos al resto de
+            sociedades del Grupo Planeta para que éstas le remitan comunicaciones comerciales sobre sus propios
+            productos y servicios o de terceras empresas pertenecientes o ajenas al Grupo Planeta, elaborando para ello,
+            a su vez, su propio perfil comercial con dichos datos y perfiles, así como con los datos y perfiles de usted
+            que ya tuviera u obtenga, todo ello, para que dichas comunicaciones sean de su interés por adecuarse a sus
+            gustos, hábitos de consumo y navegación y preferencias comerciales. Este tratamiento implicará, por tanto,
+            el cruce de bases de datos de las distintas empresas del Grupo Planeta y enriquecimiento de las
+            mismas. Puede consultar el listado de empresas del Grupo Planeta en el siguiente link www.planeta.es. Dichas empresas desarrollan su actividad en
+            los sectores editorial, formación, cultura, ocio, coleccionismo, textil, seguros privados, gran consumo y
+            joyería. En cualquier caso, las terceras empresas ajenas a nuestro grupo de las que, en su caso, le enviaremos
+            comunicaciones comerciales serán aquellas que desarrollen su actividad en los mismos sectores que las
+            empresas del Grupo Planeta y que han sido indicados anteriormente, o en los sectores de Telecomunicaciones,
+            bancario y financiero, viajes, tecnología y actividades jurídicas. ¿Por cuánto tiempo conservaremos sus datos? Tanto los datos personales proporcionados, como los obtenidos de su navegación y hábitos de consumo,
+            así como el perfil comercial obtenido se conservarán mientras Usted no solicite su supresión. ¿Cuál es la legitimación para el tratamiento de sus datos? La base legal para el tratamiento de sus datos personales es la ejecución y mantenimiento de la
+            relación mantenida con Usted, así como el consentimiento expreso que, en su caso, nos haya facilitado para
+            los tratamientos adicionales consistentes en el envío de comunicaciones comerciales propias y/o de terceros,
+            la elaboración de perfiles comerciales y la cesión de dichos datos y perfiles al resto de sociedades del Grupo Planeta
+              con las finalidades indicadas en el apartado “¿Con qué finalidad tratamos sus datos personales?”
+            anterior. Le informamos que los datos personales que se solicitan en el momento de registrarse en la presente
+            página web, los solicitados telefónicamente o en cualquiera de nuestros formularios en formato papel, son
+            los estrictamente necesarios para formalizar y gestionar la relación con Usted, de manera que, en caso de no
+            facilitarlos, no podremos mantener dicha relación. En cualquier caso, dicha finalidad principal no está
+            supeditada al consentimiento para el tratamiento de los datos que no sean necesarios para dicha actividad
+            principal. Como, hemos indicado anteriormente, la oferta prospectiva de productos y servicios propios y/o de
+            terceros, así como la elaboración de perfiles comerciales y la cesión de dichos perfiles y de sus datos
+            personales a terceras empresas del Grupo Planeta, son tratamientos adicionales que están basados en el
+            consentimiento que se le solicita, sin que en ningún caso la retirada de este consentimiento condicione el
+            mantenimiento de la relación que mantiene con nosotros. ¿A qué destinatarios se comunicarán sus datos? Únicamente en el caso de que nos dé su consentimiento para ello, sus datos personales y, en su caso, su
+            perfil comercial, serán comunicados al resto de empresas del Grupo Planeta con las finalidades
+            indicadas en el punto “¿Con qué finalidad tratamos sus datos personales?”
+          de la presente política de privacidad. Puede consultar el listado de empresas del Grupo Planeta
+            en el siguiente link www.planeta.es.
+ ¿Cuáles son sus derechos cuando nos facilita sus datos? Cualquier persona tiene derecho a obtener confirmación sobre si en THREEPOINTS EDUCATION,
+          S.L.U estamos tratando datos personales que les conciernan, o no. Asimismo, las personas interesadas tienen derecho a acceder a sus datos personales, así como a
+            solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros
+            motivos, los datos ya no sean necesarios para los fines que fueron recogidos. En determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus
+            datos, en cuyo caso únicamente los conservaremos para el ejercicio o la defensa de reclamaciones. En determinadas circunstancias y por motivos relacionados con su situación particular, los interesados podrán
+          oponerse al tratamiento de sus datos. THREEPOINTS EDUCATION, S.L.U dejará de tratar los
+            datos, salvo por motivos legítimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones.
+ Asimismo, los interesados tienen derecho a recibir, en un formato estructurado, de uso común y lectura
+            mecánica, los datos personales que le incumban que nos hayan facilitado, y a transmitirlos a otro
+            responsable. Los interesados, podrán ejercer dichos derechos y la revocación en cualquier momento de los
+            consentimientos en su caso prestados, mediante carta dirigida a THREEPOINTS EDUCATION, S.L.U,
+            Apartado de Correos 221 de Barcelona o remitiendo un email a lopd@threepoints.com. En este sentido, le informamos que tiene a su disposición
+            modelos de ejercicio de los citados derechos en la página web de la Agencia Española de Protección de Datos
+            (https://www.aepd.es/reglamento/derechos/index.html).
